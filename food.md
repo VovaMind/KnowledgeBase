@@ -1,15 +1,9 @@
 Лазанья
-
----
-
 	https://www.youtube.com/watch?v=z5hyxelB1XE&t=548s
 	http://www.say7.info/cook/comments/696-Lazanya-gribami.html
 	
 Бутеры-пирожки
-
----
-
-https://www.youtube.com/watch?v=Kbrt7Rm3vck !!!
+	https://www.youtube.com/watch?v=Kbrt7Rm3vck !!!
 
 Завтрак с хлебом и яйцом
 	https://www.youtube.com/watch?v=TvHvxvxMStk
@@ -39,6 +33,7 @@ https://www.youtube.com/watch?v=Kbrt7Rm3vck !!!
 	http://www.say7.info/cook/recipe/215-Syirnaya-zakuska-na.html
 
 Общажная свинина
+---
 	жарим+тушим долго с водой+жарим
 
 Курица с имбирем и апельсином
@@ -52,7 +47,8 @@ https://www.youtube.com/watch?v=Kbrt7Rm3vck !!!
 	http://andychef.ru/recipes/spagetti-boloneze/
 
 Яичница
-жарим начинку, закидываем яйца, чуток ждем, перемешиваем
+---
+	жарим начинку, закидываем яйца, чуток ждем, перемешиваем
 
 Паста с курицей и беконом +сливки
 	http://www.vkusnyblog.ru/smak/18854
