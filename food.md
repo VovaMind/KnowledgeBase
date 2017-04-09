@@ -1,12 +1,10 @@
 # Паста и лазанья
 
 ## Лазанья
-
 https://www.youtube.com/watch?v=z5hyxelB1XE&t=548s
 http://www.say7.info/cook/comments/696-Lazanya-gribami.html
 	
 ## Спагетти болоньезе
-
 http://gotovim-doma.ru/view.php?r=788-recept-Spagetti-s-sousom-A-lia-Boloneze
 http://andychef.ru/recipes/spagetti-boloneze/
 
@@ -17,34 +15,34 @@ http://www.vkusnyblog.ru/smak/18854
 https://www.youtube.com/watch?v=Y0KNv1ECbZg&t=206s
 
 ## Ризотто с грибами
-  https://www.youtube.com/watch?v=4z5vlYbWPEI
+https://www.youtube.com/watch?v=4z5vlYbWPEI
 
 ## Карбонара
-  https://www.youtube.com/watch?v=Boxk23UX4yg
-  https://www.say7.info/cook/recipe/913-Pasta-Karbonara.html
+https://www.youtube.com/watch?v=Boxk23UX4yg
+https://www.say7.info/cook/recipe/913-Pasta-Karbonara.html
 
 # Завтраки 
 
 ## Бутеры-пирожки
-	https://www.youtube.com/watch?v=Kbrt7Rm3vck !!!
+https://www.youtube.com/watch?v=Kbrt7Rm3vck !!!
 
 ## Завтрак с хлебом и яйцом
-	https://www.youtube.com/watch?v=TvHvxvxMStk
+https://www.youtube.com/watch?v=TvHvxvxMStk
 
 ## Яичница
 ---
 	жарим начинку, закидываем яйца, чуток ждем, перемешиваем
 
 ## Завтрак со сгущенкой и шоколадом
-  https://www.youtube.com/watch?v=Vik4CAOHjZA
+https://www.youtube.com/watch?v=Vik4CAOHjZA
 
 # Салаты / закуски
 
 ## Цезарь
-	http://www.say7.info/cook/recipe/115-Salat-Cezar-s.html
+http://www.say7.info/cook/recipe/115-Salat-Cezar-s.html
 
 ## Закуска на чипсах
-	http://www.say7.info/cook/recipe/215-Syirnaya-zakuska-na.html
+http://www.say7.info/cook/recipe/215-Syirnaya-zakuska-na.html
 
 ## Яйца, фаршированные тунцом и зеленью
 ---
@@ -59,15 +57,15 @@ https://www.youtube.com/watch?v=Y0KNv1ECbZg&t=206s
 	ложки смеси тунца. Украсьте петрушкой и кукурузой.
 
 ## Морской салат
-  https://www.youtube.com/watch?v=iJYWksw-mtE
+https://www.youtube.com/watch?v=iJYWksw-mtE
   
 # Курица / индейка
 
 ## Курица с моцарелой и томатами
-	http://www.say7.info/cook/recipe/1036-Kurinoe-file.html
+http://www.say7.info/cook/recipe/1036-Kurinoe-file.html
 
 ## Курица с имбирем и апельсином
-	https://www.youtube.com/watch?v=iItVf5IAk74
+https://www.youtube.com/watch?v=iItVf5IAk74
 
 ## Курица римский легион
 ---
@@ -123,23 +121,23 @@ https://www.youtube.com/watch?v=Y0KNv1ECbZg&t=206s
 	папа знает точнее рецепт
 
 ## Котлеты из индейки
-  https://www.youtube.com/watch?v=4cxHplFobe8&t=809s
+https://www.youtube.com/watch?v=4cxHplFobe8&t=809s
 
 # Блины/оладьи
 
 ## Блины с курой, грибы и сыром(!!!)
-	http://www.say7.info/cook/recipe/542-Blinyi.html
+http://www.say7.info/cook/recipe/542-Blinyi.html
 
 ## Оладьи
-	http://www.say7.info/cook/recipe/851-Oladi.html
+http://www.say7.info/cook/recipe/851-Oladi.html
 
 # Свинина
 
 ## Свинагетсы
-	http://www.say7.info/cook/recipe/217-Svinina-zharennaya.html
+http://www.say7.info/cook/recipe/217-Svinina-zharennaya.html
 
 ## Свинина с корицей (!!!)
-	http://www.gotovim.ru/recepts/meat/pork/20819.shtml
+http://www.gotovim.ru/recepts/meat/pork/20819.shtml
 
 ## Общажная свинина
 ---
@@ -148,42 +146,42 @@ https://www.youtube.com/watch?v=Y0KNv1ECbZg&t=206s
 # Рис
 
 ## Плов
-	http://www.say7.info/cook/recipe/118-Plov.html
+http://www.say7.info/cook/recipe/118-Plov.html
 
 ## Рис с беконом
-  https://www.youtube.com/watch?v=qGOdvAHw9AE&t=824s
+https://www.youtube.com/watch?v=qGOdvAHw9AE&t=824s
 
 # Картофель
 
 ## Мясо по-французски
-	https://www.youtube.com/watch?v=1OBb-2aMwX8
-	https://www.youtube.com/watch?v=Tddf9HQ2Ysk
+https://www.youtube.com/watch?v=1OBb-2aMwX8
+https://www.youtube.com/watch?v=Tddf9HQ2Ysk
 
 # Говядина
 
 ## Бефстроганов
-	http://gotovim-doma.ru/view.php?r=240-recept-Befstroganov
+http://gotovim-doma.ru/view.php?r=240-recept-Befstroganov
 
 # Рыба
 
 ## Стейк из Лосося и Тар-Тар
-	https://www.youtube.com/watch?v=zlvOiN_j2pA&t=2s
+https://www.youtube.com/watch?v=zlvOiN_j2pA&t=2s
 
 ## Рыба в сливках
-  https://www.youtube.com/watch?v=R3Gh7UBTaiE
+https://www.youtube.com/watch?v=R3Gh7UBTaiE
 
 ## Форель в конверте
-  https://www.youtube.com/watch?v=D7qTVfl9a9g
+https://www.youtube.com/watch?v=D7qTVfl9a9g
   
 # Супы
 
 ## Рассольник
-  https://www.youtube.com/watch?v=Gx8st3sPNDc
+https://www.youtube.com/watch?v=Gx8st3sPNDc
 
 ## Грибной крем-суп (нужен блендер)
-  https://www.youtube.com/watch?v=ve1op_RFM4Q
+https://www.youtube.com/watch?v=ve1op_RFM4Q
 
 # Other
 
 ## Сырники
-  https://www.youtube.com/watch?v=eXKScRnCyOA  
+https://www.youtube.com/watch?v=eXKScRnCyOA  
