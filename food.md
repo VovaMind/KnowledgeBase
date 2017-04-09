@@ -17,7 +17,7 @@
 # Паста + лазанья
 
 ## Лазанья
-https://www.youtube.com/watch?v=z5hyxelB1XE&t=548s
+https://www.youtube.com/watch?v=z5hyxelB1XE
 http://www.say7.info/cook/comments/696-Lazanya-gribami.html
 	
 ## Спагетти болоньезе
@@ -28,7 +28,7 @@ http://andychef.ru/recipes/spagetti-boloneze/
 http://www.vkusnyblog.ru/smak/18854
 
 ## Паста с грибами и сливками
-https://www.youtube.com/watch?v=Y0KNv1ECbZg&t=206s
+https://www.youtube.com/watch?v=Y0KNv1ECbZg
 
 ## Ризотто с грибами
 https://www.youtube.com/watch?v=4z5vlYbWPEI
@@ -147,7 +147,7 @@ https://www.youtube.com/watch?v=iItVf5IAk74
 	папа знает точнее рецепт
 
 ## Котлеты из индейки
-https://www.youtube.com/watch?v=4cxHplFobe8&t=809s
+https://www.youtube.com/watch?v=4cxHplFobe8
 
 ## Куриные крокеты
 https://www.youtube.com/watch?v=4-jni2lsCZE
@@ -186,7 +186,7 @@ http://www.gotovim.ru/recepts/meat/pork/20819.shtml
 http://www.say7.info/cook/recipe/118-Plov.html
 
 ## Рис с беконом
-https://www.youtube.com/watch?v=qGOdvAHw9AE&t=824s
+https://www.youtube.com/watch?v=qGOdvAHw9AE
 
 <a name="potato"/>
 
@@ -214,7 +214,7 @@ http://gotovim-doma.ru/view.php?r=240-recept-Befstroganov
 # Рыба
 
 ## Стейк из Лосося и Тар-Тар
-https://www.youtube.com/watch?v=zlvOiN_j2pA&t=2s
+https://www.youtube.com/watch?v=zlvOiN_j2pA
 
 ## Рыба в сливках
 https://www.youtube.com/watch?v=R3Gh7UBTaiE
