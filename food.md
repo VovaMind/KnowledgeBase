@@ -1,59 +1,73 @@
-Лазанья
+# Паста и лазанья
+
+## Лазанья
 	https://www.youtube.com/watch?v=z5hyxelB1XE&t=548s
 	http://www.say7.info/cook/comments/696-Lazanya-gribami.html
 	
-Бутеры-пирожки
-	https://www.youtube.com/watch?v=Kbrt7Rm3vck !!!
-
-Завтрак с хлебом и яйцом
-	https://www.youtube.com/watch?v=TvHvxvxMStk
-
-Цезарь
-	http://www.say7.info/cook/recipe/115-Salat-Cezar-s.html
-
-Курица с моцарелой и томатами
-	http://www.say7.info/cook/recipe/1036-Kurinoe-file.html
-
-Оладьи
-	http://www.say7.info/cook/recipe/851-Oladi.html
-
-Свинагетсы
-	http://www.say7.info/cook/recipe/217-Svinina-zharennaya.html
-
-Плов
-	http://www.say7.info/cook/recipe/118-Plov.html
-
-Свинина с корицей (!!!)
-	http://www.gotovim.ru/recepts/meat/pork/20819.shtml
-
-Бефстроганов
-	http://gotovim-doma.ru/view.php?r=240-recept-Befstroganov
-
-Закуска на чипсах
-	http://www.say7.info/cook/recipe/215-Syirnaya-zakuska-na.html
-
-Общажная свинина
----
-	жарим+тушим долго с водой+жарим
-
-Курица с имбирем и апельсином
-	https://www.youtube.com/watch?v=iItVf5IAk74
-
-Стейк из Лосося и Тар-Тар
-	https://www.youtube.com/watch?v=zlvOiN_j2pA&t=2s
-
-Спагетти болоньезе
+## Спагетти болоньезе
 	http://gotovim-doma.ru/view.php?r=788-recept-Spagetti-s-sousom-A-lia-Boloneze
 	http://andychef.ru/recipes/spagetti-boloneze/
 
-Яичница
+## Паста с курицей и беконом +сливки
+	http://www.vkusnyblog.ru/smak/18854
+
+## Паста с грибами и сливками
+  https://www.youtube.com/watch?v=Y0KNv1ECbZg&t=206s
+
+## Ризотто с грибами
+  https://www.youtube.com/watch?v=4z5vlYbWPEI
+
+## Карбонара
+  https://www.youtube.com/watch?v=Boxk23UX4yg
+  https://www.say7.info/cook/recipe/913-Pasta-Karbonara.html
+
+# Завтраки 
+
+## Бутеры-пирожки
+	https://www.youtube.com/watch?v=Kbrt7Rm3vck !!!
+
+## Завтрак с хлебом и яйцом
+	https://www.youtube.com/watch?v=TvHvxvxMStk
+
+## Яичница
 ---
 	жарим начинку, закидываем яйца, чуток ждем, перемешиваем
 
-Паста с курицей и беконом +сливки
-	http://www.vkusnyblog.ru/smak/18854
+## Завтрак со сгущенкой и шоколадом
+  https://www.youtube.com/watch?v=Vik4CAOHjZA
 
-Курица римский легион
+# Салаты / закуски
+
+## Цезарь
+	http://www.say7.info/cook/recipe/115-Salat-Cezar-s.html
+
+## Закуска на чипсах
+	http://www.say7.info/cook/recipe/215-Syirnaya-zakuska-na.html
+
+## Яйца, фаршированные тунцом и зеленью
+---
+	6 яиц, сваренных вкрутую
+	1 банка тунца, слить
+	половина маленькой луковицы, натереть
+	20-25 г тертой моркови
+	петрушка, мелко нарубить
+	1 столовая ложка свеже выжатого лимонного сока
+	кукуруза, для украшения
+	в средней миске смешайте тунец, лимонный сок, петрушку и тертые морковь и лук. Выскоблите желток из белка и начините каждую половинку чайной 
+	ложки смеси тунца. Украсьте петрушкой и кукурузой.
+
+## Морской салат
+  https://www.youtube.com/watch?v=iJYWksw-mtE
+  
+# Курица / индейка
+
+## Курица с моцарелой и томатами
+	http://www.say7.info/cook/recipe/1036-Kurinoe-file.html
+
+## Курица с имбирем и апельсином
+	https://www.youtube.com/watch?v=iItVf5IAk74
+
+## Курица римский легион
 ---
 	Куриные бедра – 8-10 шт
 	Соевый соус - 3 ст. л
@@ -69,7 +83,7 @@
 	Потом переворачиваем и жарим до готовности уже под крышкой. Всего минут 20 нужно для жарки, можно и больше, но уже так для доводки до нежного 
 	вкуса на самом маленьком огне.
 
-Курочка в конвертике
+## Курочка в конвертике
 ---
 	пачка слоеного теста (две пластинки),
 	300-400г филе курицы (филе одной курицы, можно добавить и мясо с бедрышек),
@@ -85,11 +99,7 @@
 	на тесто выкладываем начинку и прищипываем в виде конвертика. Готовые конвертики выкладываем на смазанную сковородку либо противень и выпекаем 
 	в духовке. Минут через 25-30 блюдо готово.
 
-Мясо по-французски
-	https://www.youtube.com/watch?v=1OBb-2aMwX8
-	https://www.youtube.com/watch?v=Tddf9HQ2Ysk
-
-Куриные рулетики с копченым сыром (!!!)
+## Куриные рулетики с копченым сыром (!!!)
 ---
 	- куриная грудка
 	- бекон (тонкие полоски)
@@ -105,68 +115,73 @@
 	и запекать в духовке 25 минут при температуре 200 градусов. Солить не нужно, т.к. бекон и сыр довольно соленые.
 	Смазывать форму тоже ничем не нужно, т.к. бекон даст нужное количество жира.
 
-Яйца, фаршированные тунцом и зеленью
----
-	6 яиц, сваренных вкрутую
-	1 банка тунца, слить
-	половина маленькой луковицы, натереть
-	20-25 г тертой моркови
-	петрушка, мелко нарубить
-	1 столовая ложка свеже выжатого лимонного сока
-	кукуруза, для украшения
-	в средней миске смешайте тунец, лимонный сок, петрушку и тертые морковь и лук. Выскоблите желток из белка и начините каждую половинку чайной 
-	ложки смеси тунца. Украсьте петрушкой и кукурузой.
-
-тефтельки??
-
-рубленые котелы из куры
+## Рубленые котелы из куры
 ---
 	филе куры или индейки мешаем с майонезом, крахмалом и специями
 	папа знает точнее рецепт
 
-бутеры запеченые ^_^
-	https://www.youtube.com/watch?v=Kbrt7Rm3vck
+## Котлеты из индейки
+  https://www.youtube.com/watch?v=4cxHplFobe8&t=809s
 
-блинный пирог
-	???
+# Блины/оладьи
 
-блины с курой, грибы и сыром(!!!)
+## Блины с курой, грибы и сыром(!!!)
 	http://www.say7.info/cook/recipe/542-Blinyi.html
 
-Рассольник
-  https://www.youtube.com/watch?v=Gx8st3sPNDc
+## Оладьи
+	http://www.say7.info/cook/recipe/851-Oladi.html
 
-Завтрак со сгущенкой и шоколадом
-  https://www.youtube.com/watch?v=Vik4CAOHjZA
+# Свинина
 
-Сырники
-  https://www.youtube.com/watch?v=eXKScRnCyOA
+## Свинагетсы
+	http://www.say7.info/cook/recipe/217-Svinina-zharennaya.html
 
-Грибной крем-суп (нужен блендер)
-  https://www.youtube.com/watch?v=ve1op_RFM4Q
+## Свинина с корицей (!!!)
+	http://www.gotovim.ru/recepts/meat/pork/20819.shtml
 
-Паста с грибами и сливками
-  https://www.youtube.com/watch?v=Y0KNv1ECbZg&t=206s
+## Общажная свинина
+---
+	жарим+тушим долго с водой+жарим
 
-Ризотто с грибами
-  https://www.youtube.com/watch?v=4z5vlYbWPEI
+# Рис
 
-Карбонара
-  https://www.youtube.com/watch?v=Boxk23UX4yg
-  https://www.say7.info/cook/recipe/913-Pasta-Karbonara.html
+## Плов
+	http://www.say7.info/cook/recipe/118-Plov.html
 
-Рис с беконом
+## Рис с беконом
   https://www.youtube.com/watch?v=qGOdvAHw9AE&t=824s
 
-Форель в конверте
-  https://www.youtube.com/watch?v=D7qTVfl9a9g
-  
-Морской салат
-  https://www.youtube.com/watch?v=iJYWksw-mtE
-  
-Котлеты из индейки
-  https://www.youtube.com/watch?v=4cxHplFobe8&t=809s
-  
-Рыба в сливках
+# Картофель
+
+## Мясо по-французски
+	https://www.youtube.com/watch?v=1OBb-2aMwX8
+	https://www.youtube.com/watch?v=Tddf9HQ2Ysk
+
+# Говядина
+
+## Бефстроганов
+	http://gotovim-doma.ru/view.php?r=240-recept-Befstroganov
+
+# Рыба
+
+## Стейк из Лосося и Тар-Тар
+	https://www.youtube.com/watch?v=zlvOiN_j2pA&t=2s
+
+## Рыба в сливках
   https://www.youtube.com/watch?v=R3Gh7UBTaiE
 
+## Форель в конверте
+  https://www.youtube.com/watch?v=D7qTVfl9a9g
+  
+# Супы
+
+## Рассольник
+  https://www.youtube.com/watch?v=Gx8st3sPNDc
+
+## Грибной крем-суп (нужен блендер)
+  https://www.youtube.com/watch?v=ve1op_RFM4Q
+
+# Other
+
+## Сырники
+  https://www.youtube.com/watch?v=eXKScRnCyOA  
