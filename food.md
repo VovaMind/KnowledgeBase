@@ -1,9 +1,9 @@
 ##### Содержание  
 [Паста и лазанья](#pasta)  
 [Завтраки](#breakfast)
-[Салаты / закуски](#startes)
-[Курица / индейка](#chicken)
-[Блины/оладьи](#pancake)
+[Салаты + закуски](#startes)
+[Курица + индейка](#chicken)
+[Блины + оладьи](#pancake)
 [Свинина](#pork)
 [Рис](#rise)
 [Картофель](#potato)
@@ -55,7 +55,7 @@ https://www.youtube.com/watch?v=Vik4CAOHjZA
 
 <a name="starters"/>
 
-# Салаты / закуски
+# Салаты + закуски
 
 ## Цезарь
 http://www.say7.info/cook/recipe/115-Salat-Cezar-s.html
@@ -79,7 +79,7 @@ https://www.youtube.com/watch?v=iJYWksw-mtE
 
 <a name="chicken"/>
   
-# Курица / индейка
+# Курица + индейка
 
 ## Курица с моцарелой и томатами
 http://www.say7.info/cook/recipe/1036-Kurinoe-file.html
@@ -141,7 +141,7 @@ https://www.youtube.com/watch?v=4cxHplFobe8&t=809s
 
 <a name="pancake"/>
 
-# Блины/оладьи
+# Блины+оладьи
 
 ## Блины с курой, грибы и сыром(!!!)
 http://www.say7.info/cook/recipe/542-Blinyi.html
