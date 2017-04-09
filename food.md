@@ -11,10 +11,10 @@ http://gotovim-doma.ru/view.php?r=788-recept-Spagetti-s-sousom-A-lia-Boloneze
 http://andychef.ru/recipes/spagetti-boloneze/
 
 ## Паста с курицей и беконом +сливки
-	http://www.vkusnyblog.ru/smak/18854
+http://www.vkusnyblog.ru/smak/18854
 
 ## Паста с грибами и сливками
-  https://www.youtube.com/watch?v=Y0KNv1ECbZg&t=206s
+https://www.youtube.com/watch?v=Y0KNv1ECbZg&t=206s
 
 ## Ризотто с грибами
   https://www.youtube.com/watch?v=4z5vlYbWPEI
