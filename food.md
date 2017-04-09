@@ -1,7 +1,7 @@
 ##### Содержание  
 [Паста и лазанья](#pasta)  
 [Завтраки](#breakfast)  
-[Салаты + закуски](#startes)  
+[Салаты + закуски](#starte)  
 [Курица + индейка](#chicken)  
 [Блины + оладьи](#pancake)  
 [Свинина](#pork)  
@@ -37,7 +37,7 @@ https://www.youtube.com/watch?v=4z5vlYbWPEI
 https://www.youtube.com/watch?v=Boxk23UX4yg
 https://www.say7.info/cook/recipe/913-Pasta-Karbonara.html
 
-<a name="startes"/>
+<a name="breakfast"/>
 
 # Завтраки 
 
@@ -53,7 +53,7 @@ https://www.youtube.com/watch?v=TvHvxvxMStk
 ## Завтрак со сгущенкой и шоколадом
 https://www.youtube.com/watch?v=Vik4CAOHjZA
 
-<a name="starters"/>
+<a name="starter"/>
 
 # Салаты + закуски
 
