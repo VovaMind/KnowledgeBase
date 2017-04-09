@@ -1,6 +1,16 @@
 ##### Содержание  
 [Паста и лазанья](#pasta)  
 [Завтраки](#breakfast)
+[Салаты / закуски](#startes)
+[Курица / индейка](#chicken)
+[Блины/оладьи](#pancake)
+[Свинина](#pork)
+[Рис](#rise)
+[Картофель](#potato)
+[Говядина](#beef)
+[Рыба](#fish)
+[Супы](#soup)
+[Другое](#other)
 
 <a name="pasta"/>
 
@@ -43,6 +53,8 @@ https://www.youtube.com/watch?v=TvHvxvxMStk
 ## Завтрак со сгущенкой и шоколадом
 https://www.youtube.com/watch?v=Vik4CAOHjZA
 
+<a name="starters"/>
+
 # Салаты / закуски
 
 ## Цезарь
@@ -64,6 +76,8 @@ http://www.say7.info/cook/recipe/215-Syirnaya-zakuska-na.html
 
 ## Морской салат
 https://www.youtube.com/watch?v=iJYWksw-mtE
+
+<a name="chicken"/>
   
 # Курица / индейка
 
@@ -125,6 +139,8 @@ https://www.youtube.com/watch?v=iItVf5IAk74
 ## Котлеты из индейки
 https://www.youtube.com/watch?v=4cxHplFobe8&t=809s
 
+<a name="pancake"/>
+
 # Блины/оладьи
 
 ## Блины с курой, грибы и сыром(!!!)
@@ -132,6 +148,8 @@ http://www.say7.info/cook/recipe/542-Blinyi.html
 
 ## Оладьи
 http://www.say7.info/cook/recipe/851-Oladi.html
+
+<a name="pork"/>
 
 # Свинина
 
@@ -144,6 +162,8 @@ http://www.gotovim.ru/recepts/meat/pork/20819.shtml
 ## Общажная свинина
 	жарим+тушим долго с водой+жарим
 
+<a name="rise"/>
+
 # Рис
 
 ## Плов
@@ -152,16 +172,22 @@ http://www.say7.info/cook/recipe/118-Plov.html
 ## Рис с беконом
 https://www.youtube.com/watch?v=qGOdvAHw9AE&t=824s
 
+<a name="potato"/>
+
 # Картофель
 
 ## Мясо по-французски
 https://www.youtube.com/watch?v=1OBb-2aMwX8
 https://www.youtube.com/watch?v=Tddf9HQ2Ysk
 
+<a name="beef"/>
+
 # Говядина
 
 ## Бефстроганов
 http://gotovim-doma.ru/view.php?r=240-recept-Befstroganov
+
+<a name="fish"/>
 
 # Рыба
 
@@ -173,7 +199,9 @@ https://www.youtube.com/watch?v=R3Gh7UBTaiE
 
 ## Форель в конверте
 https://www.youtube.com/watch?v=D7qTVfl9a9g
-  
+
+<a name="soup"/>
+
 # Супы
 
 ## Рассольник
@@ -182,7 +210,9 @@ https://www.youtube.com/watch?v=Gx8st3sPNDc
 ## Грибной крем-суп (нужен блендер)
 https://www.youtube.com/watch?v=ve1op_RFM4Q
 
-# Other
+<a name="other"/>
+
+# Другое
 
 ## Сырники
 https://www.youtube.com/watch?v=eXKScRnCyOA  
