@@ -37,7 +37,7 @@ https://www.youtube.com/watch?v=4z5vlYbWPEI
 https://www.youtube.com/watch?v=Boxk23UX4yg
 https://www.say7.info/cook/recipe/913-Pasta-Karbonara.html
 
-<a name="breakfast"/>
+<a name="startes"/>
 
 # Завтраки 
 
@@ -179,6 +179,12 @@ https://www.youtube.com/watch?v=qGOdvAHw9AE&t=824s
 ## Мясо по-французски
 https://www.youtube.com/watch?v=1OBb-2aMwX8
 https://www.youtube.com/watch?v=Tddf9HQ2Ysk
+
+## Фаршированный картофель с беконом и грибам
+https://www.youtube.com/watch?v=2cHWOo1fTRc
+
+## Картофельные котлеты
+https://www.youtube.com/watch?v=IRaN1KYVEhY
 
 <a name="beef"/>
 
