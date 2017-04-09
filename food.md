@@ -206,6 +206,9 @@ https://www.youtube.com/watch?v=R3Gh7UBTaiE
 ## Форель в конверте
 https://www.youtube.com/watch?v=D7qTVfl9a9g
 
+## Лосось-терияки
+https://www.youtube.com/watch?v=aFMn0BYUDnE
+
 <a name="soup"/>
 
 # Супы
