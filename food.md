@@ -53,6 +53,9 @@ https://www.youtube.com/watch?v=TvHvxvxMStk
 ## Завтрак со сгущенкой и шоколадом
 https://www.youtube.com/watch?v=Vik4CAOHjZA
 
+## Бутеры с сыром (бюджетная пицца)
+https://www.youtube.com/watch?v=ow_bqvZCUQk
+
 <a name="starter"/>
 
 # Салаты + закуски
