@@ -156,6 +156,9 @@ http://www.say7.info/cook/recipe/542-Blinyi.html
 ## Оладьи
 http://www.say7.info/cook/recipe/851-Oladi.html
 
+## Блины
+https://www.youtube.com/watch?v=m-KtYhhO730
+
 <a name="pork"/>
 
 # Свинина
