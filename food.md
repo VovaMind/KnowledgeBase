@@ -77,6 +77,13 @@ http://www.say7.info/cook/recipe/215-Syirnaya-zakuska-na.html
 ## Морской салат
 https://www.youtube.com/watch?v=iJYWksw-mtE
 
+## Крабовый салат (с крабом)
+https://www.youtube.com/watch?v=mqzwhSgnMFk
+
+## Оливье
+https://www.youtube.com/watch?v=1tvZK-qG9M0
+https://www.youtube.com/watch?v=Y9KDVfaEBA0
+
 <a name="chicken"/>
   
 # Курица + индейка
