@@ -149,6 +149,9 @@ https://www.youtube.com/watch?v=iItVf5IAk74
 ## Котлеты из индейки
 https://www.youtube.com/watch?v=4cxHplFobe8&t=809s
 
+## Куриные крокеты
+https://www.youtube.com/watch?v=4-jni2lsCZE
+
 <a name="pancake"/>
 
 # Блины+оладьи
