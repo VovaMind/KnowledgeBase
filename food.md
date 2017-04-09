@@ -1,12 +1,14 @@
 # Паста и лазанья
 
 ## Лазанья
-	https://www.youtube.com/watch?v=z5hyxelB1XE&t=548s
-	http://www.say7.info/cook/comments/696-Lazanya-gribami.html
+
+https://www.youtube.com/watch?v=z5hyxelB1XE&t=548s
+http://www.say7.info/cook/comments/696-Lazanya-gribami.html
 	
 ## Спагетти болоньезе
-	http://gotovim-doma.ru/view.php?r=788-recept-Spagetti-s-sousom-A-lia-Boloneze
-	http://andychef.ru/recipes/spagetti-boloneze/
+
+http://gotovim-doma.ru/view.php?r=788-recept-Spagetti-s-sousom-A-lia-Boloneze
+http://andychef.ru/recipes/spagetti-boloneze/
 
 ## Паста с курицей и беконом +сливки
 	http://www.vkusnyblog.ru/smak/18854
