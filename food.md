@@ -154,3 +154,19 @@
 Карбонара
   https://www.youtube.com/watch?v=Boxk23UX4yg
   https://www.say7.info/cook/recipe/913-Pasta-Karbonara.html
+
+Рис с беконом
+  https://www.youtube.com/watch?v=qGOdvAHw9AE&t=824s
+
+Форель в конверте
+  https://www.youtube.com/watch?v=D7qTVfl9a9g
+  
+Морской салат
+  https://www.youtube.com/watch?v=iJYWksw-mtE
+  
+Котлеты из индейки
+  https://www.youtube.com/watch?v=4cxHplFobe8&t=809s
+  
+Рыба в сливках
+  https://www.youtube.com/watch?v=R3Gh7UBTaiE
+
