@@ -10,6 +10,7 @@
 [Говядина](#beef)  
 [Рыба](#fish)  
 [Супы](#soup)  
+[Десерты](#desert)
 [Другое](#other)  
 
 <a name="pasta"/>
@@ -240,6 +241,18 @@ https://www.youtube.com/watch?v=ve1op_RFM4Q
 
 ## Много супов (луковый, мисо, минестроне etc)
 http://www.elle.ru/stil-zhizni/food/goryachiy-priem-prostyie-retseptyi-znakovyih-natsionalnyih-supov/
+
+<a name="desert"/>
+
+# Десерты
+
+## Фруктовый торт из йогурта
+
+https://www.youtube.com/watch?v=PDLmORVpzWA
+
+## Чайная колбаска
+
+https://www.youtube.com/watch?v=JC02bwuBKWo
 
 <a name="other"/>
 
