@@ -10,7 +10,7 @@
 [Говядина](#beef)  
 [Рыба](#fish)  
 [Супы](#soup)  
-[Десерты](#desert)
+[Десерты](#desert)  
 [Другое](#other)  
 
 <a name="pasta"/>
