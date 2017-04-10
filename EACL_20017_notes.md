@@ -1,6 +1,8 @@
 ##### Содержание
 [Word embeddings](#word_embeddings)  
 [Summarization](#summarization)
+[Multiwords expressions](#miltiword)
+[Universal dependencies](#ud)
 
 <a name="word_embeddings"/>
 
@@ -132,4 +134,70 @@ Pagerank для wordnet o_O.
 
 # Summarization
 
+## Часть 1
+wiki статьи, берем статьи их summary. Пытаемся сгенировать похожее.
+
+Берем части подсекций статьи, Биграмы секции, потом документа потом юниграмы. 
+
+Метрики качества предложения и similarity. Много признаков предложения: topic hierarchical model, позиция в тексте и так далее.
+
+LexRank алгоритм.
+
+Замена embeding'ов на кластеры слов.
+
+Rouge 1,2,3,4 оценки.
+
+Memog giannakopoulos 2008
+
+Китайский язык разбиваем ровно по одному символу. Среднее слово в китайском два символа.
+
+Оценка человека для пары summary. Что выглядит лучше.
+
+Multiling15
+
+Weaved baseline (WTF?)
+
+## Часть 2
+Используем embeding'и в topic modeling
+
+Content linking: vectors, traditional (???)
+
+LDA
+
+Кластера для предлежений (парное сравнение предложений).
+
+Сумма слов = весу предложения.
+
+## Часть 3
+Summarization для отзывов, twitter'а и так далее
+
+Ультра-сжатие (не более 140 символов).
+
+Данные - это контент пользователей. Много жанров.
+
+Удаляем emojis и картинки. Рассматриваем только текст.
+
+Три класса + = -
+
+Ранжирование предложений, sentiment шкала, ранжирование по sentiment'у.
+
+Ручная разметка. Три критерия: содежание, читабельность, responsiveness.
+
+Проблемы: в твиттере много шума, ирония, сарказм.
+
+Корпус 400 документов без cross-checking.
+
+Часть 4: ML подход для оценки summary.
+
+<a name="miltiword"/>
+
+# Multiwords expressions
+
 TBD
+
+<a name="ud"/>
+
+# Universal dependencies
+
+TBD
+
