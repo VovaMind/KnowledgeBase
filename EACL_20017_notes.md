@@ -1,8 +1,8 @@
 ##### Содержание
 [Word embeddings](#word_embeddings)  
-[Summarization](#summarization)
-[Multiwords expressions](#miltiword)
-[Universal dependencies](#ud)
+[Summarization](#summarization)  
+[Multiwords expressions](#miltiword)  
+[Universal dependencies](#ud)  
 
 <a name="word_embeddings"/>
 
