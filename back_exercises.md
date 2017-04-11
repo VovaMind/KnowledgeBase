@@ -48,3 +48,6 @@ https://www.youtube.com/watch?v=5GJHiPQrKhc
 
 ## Советы по "планке"
 https://www.youtube.com/watch?v=dd5fRGh_nHo
+
+## Семинар по н/т сфп (хорошая растяжка и разминка)
+https://www.youtube.com/watch?v=oejxj01btU8
