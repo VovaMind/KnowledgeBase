@@ -8,6 +8,7 @@
 [Probability topic models and user behavior](#topicmodel)  
 [Coreference](#coreference)  
 [Information retrieval and information extraction](#ir)  
+[Parsing](#parsing)  
 
 <a name="word_embeddings"/>
 
@@ -513,4 +514,19 @@ Acuracy of resolution is quite small (?)
 
 # Information retrieval and information extraction
 
+## Китайские тесты и автоматические ответы на их вопросы
+
+TBD
+
+## Non factored answer reranking
+
+## Chains of reasoning over entities, relation ans using RNN
+
+## Распознавание методов рекламы лекарств
+
+## Понимание mental health condition в условии ограниченных данных
+
+<a name="parsing"/>
+
+# Parsing
 TBD
