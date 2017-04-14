@@ -5,6 +5,9 @@
 [Summarization](#summarization)  
 [Multiwords expressions](#miltiword)  
 [Universal dependencies](#ud)  
+[Probability topic models and user behavior](#topicmodel)  
+[Coreference](#coreference)  
+[Information retrieval and information extraction](#ir)  
 
 <a name="word_embeddings"/>
 
@@ -302,5 +305,81 @@ ENC данные, EVPC данные, GNC данные
 
 # Universal dependencies
 
+## Инфраструктура
+
+universaldependencies.org
+
+70 корпусов,50 языков (есть русские корпуса с эллипсисом).
+
+разные лицензии у разных корпусов
+
+POS + dependecy отношения храним в корпусе 
+
+Много разных типов тектов: новости, wiki, fiction/non fiction, блоги, библия, legal.
+
+Наследовали формат CONLL
+
+Есть metadata уровня предложения.
+
+Явно представлен текст предложения.
+
+В данных присуствуют недревесные зависимости.
+
+Есть дополнительные нулевые вершины (эллиптические).
+
+Все открыто (обсуждения и так далее), все лежит в гите, один корпус-один репозиторий гита.
+
+Есть официальный цикл релизов, много тестов для валидации данных.
+
+Поддерживается целая экосистема для данных: визуализация, аннотации, поиск и так далее.
+
+Syntax net привязан к этим данным.
+
+Медианная точность по именованым связям 81%, в среднем 79%. Японский язык работает хорошо.
+
+Есть web доступ, API доступ и так данее.
+
+PML query tool, например для поиска непроективных конструкций.
+
+udapy для визуализации.
+
+## Использование
+Помогает обучать и оценивать парсеры.
+
+Udpipe, syntaxnet - out of box парсеры. Они используют моноязычный подход (?).
+
+Есть многоязычный подход, universal parsing, тренируем на одном языке, тестируем на другом.
+
+Для многоязычного подхода нужны согласованные аннотации. Не всегда нужно хорошее POS-tagging.
+
+тысячи языков без корпусов (?)
+
+wang eisner 2016, the galactic dependencies
+
+Синтез новых языков
+
+Reddy 2016, от синтаксиса к семантике, QA, семантические представления
+
+Vulic 2017, синтаксис для embedding'ов, 
+
+bible корпус содержит 1000 языков
+
+Не требуется много данных для приемлего парсинга.
+
+<a name="topicmodel"/>
+
+# Probability topic models and user behavior
+
 TBD
 
+<a name="coreference"/>
+
+# Coreference
+
+TBD
+
+<a name="ir"/>
+
+# Information retrieval and information extraction
+
+TBD
