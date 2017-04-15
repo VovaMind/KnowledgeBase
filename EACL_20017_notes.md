@@ -543,12 +543,122 @@ similarity judger, sentence encoder
 Качество работы около 45% (accuracy), люди могут 60%, то есть работает оно хуже чем люди
 
 ## Non factored answer reranking
+У большинства читателей есть non-factored вопросы.
+
+Недостаток данных.
+
+Нужно перкставить ответы юзеров, это почти ранжирование, но нас интересует только один первый ответ.
+
+Featured based подходы, нейронные сети
+
+Doc2vec + MLP(?), LTSM
+
+Можем ли мы их комбинировать?
+
+10k yahoo вопросов, 13k вопросов из ubuntu, есть сложные вопросы
+
+baseline random, поиск кандидатов по tfidf + косинусная метрика
+
+Векторы для параграфов
+
+MRR метрика
+
+Bidirectional gated RNN, QA, cross entropy loss
+
+Получилось заметно лучше чем baseline
+
+GRU сложное, но работает плохо
+
+Pairwise similarity, это помогает.
+
+Discourse features, discourse marker model jansen ACL 2014
+
+Sentence + cross-sentence уровни, skipgram
+
+Discourse признаки работают довольно хорошо, немного лучше baseline
+
+Ошибки часто основаны на авторпе вопроса, еще мы не учитываем screeshots, картинки, code snippets
+
+Основано на категориях (?), partial match вопроса и ответа (?)
 
 ## Chains of reasoning over entities, relation ans using RNN
+Корпус, entity identify, отношения
+
+Универсальная схема
+
+Факты извлеченные из путей в KG.
+
+Path ranking algorithm
+
+RNN
+
+Ограничения, scalability
+
+...
+
+max pool, avg pool, logsumexp; avg работает плохо
 
 ## Распознавание методов рекламы лекарств
+Поиск рекламы лекарств в social media
+
+Unwanted reaction clearly associated
+
+Это позволяет изучать side effects действия лекарств
+
+Мониторинг реакции over time
+
+Быстрые ответ на реакцию
+
+Train 5723, test 1874 (предложений)
+
+Данные маленькие
+
+Контекст очень важен, terrible headache, headache go away
+
+Разговорный жанр текстов, неграмматичные тексты, 
+
+Для каждого слова begin/middle/end объекта
+
+Bidirectional RNN
+
+word term distribution
+
+Добавляем дополнительные данные
+
+Embeddings для слов
+
+dbpedia
+
+ADR oracle, независит от контекста
+
+Precision 55% без контекста
+
+LTSM, embeddings, word2vec, blekko
+
+blekko работает лучше всего, медицинский корпус
+
+Корпус очень важен для построения embedding'ов
+
+dbpedia embeddings помогает
+
+Небольшие данные работают хорошо
+
+Час разметки, F-мера 74.2
+
+Даже небольшая разметка очень помогает, active learning (?) помогает
 
 ## Понимание mental health condition в условии ограниченных данных
+Задача классификация важна
+
+Нужно много данных
+
+Предсказание mental conditions (суицид и так далее).
+
+логистическая регрессия, нейросети, много ответов (не softmax, так ответы независимы), N-грамы
+
+ROC-кривая для оценки
+
+MTL помогает
 
 <a name="parsing"/>
 
