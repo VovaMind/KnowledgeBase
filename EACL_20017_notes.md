@@ -9,6 +9,7 @@
 [Coreference](#coreference)  
 [Information retrieval and information extraction](#ir)  
 [Parsing](#parsing)  
+[Summarization-2](#summarization2)  
 
 <a name="word_embeddings"/>
 
@@ -663,4 +664,68 @@ MTL помогает
 <a name="parsing"/>
 
 # Parsing
+
+## Многоязычный parsing
+Для разных языков разное количество данных.
+
+Annotation projection из одного языка в другой
+
+Тренируемся на одном языке и используем параллельные корпуса, это работает плохо(?)
+
+Graph vs tree parsing (?)
+
+Матрица оценок для связей.
+
+tensor transformations (?)
+
+Оценки для одноо языка + cross lingual оценка
+
+graph based подход
+
+## Parsing UD без обучения
+Много связей очевидны
+
+UD есть особенности
+
+Unsupervised/rule based подоходы для простого baseline
+
+Pagerank для слов
+
+Два шага: decoding слов по ranking, ? (??)
+
+Оценка направлений для связей, разделяем content words/function words, используем small teleport prob in PageRank(??)
+
+Мы оцениваем во время runtime и строим частоты слов на ходу
+
+Лучше чем baseline, работает хуже чем supervised но не сильно
+
+5% хуже чем supervised, в одном языке даже лучше
+
+## Delexicalized parsing
+Обучаемся на языках с большим количеством данных, парсим языки где данных мало
+
+Graph based подход, строим spanning tree
+
+Строим представления слов, 
+
+Модели специфичны для языка
+
+Представления для слов не зависят от языка
+
+character based подход
+
+Используем только morpho/syntactic признаки
+
+co-occurencies matrix
+
+sequential context/syntactic context, можно их смешать
+
+eisner алгоритм для поиска MST
+
+Улучшение довольно незначительное (?)
+
+<a name="summarization2"/>
+
+# Summarization-2
+
 TBD
