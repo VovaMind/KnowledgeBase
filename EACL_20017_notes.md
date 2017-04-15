@@ -10,6 +10,8 @@
 [Information retrieval and information extraction](#ir)  
 [Parsing](#parsing)  
 [Summarization-2](#summarization2)  
+[Words, peactures, common sence](#wordpic)  
+[Knowledge bases](#kb)  
 
 <a name="word_embeddings"/>
 
@@ -728,4 +730,142 @@ eisner алгоритм для поиска MST
 
 # Summarization-2
 
+## Lexical summarization by neural ranking
+Замена сложных слов более простыми
+
+Поиск сложных слов
+
+Генерируем кандидатов на замену
+
+Выбираем лучших по контексту
+
+Ранжируем по простоте ответа
+
+Параллельные корпуса + embeddings
+
+11000 docs, 7 миллионов (?) слов
+
+использовались wordnet синонимы
+
+Unsupervised nboundary ranking?
+
+Бинарная классификация, boundary distance (??)
+
+Neural net ranking, два кандидата - это input
+
+SubIMDB (subtitles ranking) n grams 
+
+lexmark
+
+simplicity compare
+
+3 слоя,8 узлов в каждом
+
+в целом результаты хорошие, но есть плохие части (?)
+
+точность хорошая
+
+Lexenstein
+
+## Limits of automatic summarization according to rouge
+state of the art подходы unsupervised
+
+Жадные алгоритмы набора summary
+
+perfect score очень сложно получить теоритически
+
+Люди плохи в summarization
+
+оптимизация ROUGE метрики NP-сложная (сводиться к weighted dominating set)
+
+## crowd source iterative annotation
+Абстрактно делать summarization сложно
+
+Создание корпуса, pipeline, input narratives (?)
+
+абстрактные summaries, extractive summaries
+
+Выравнивание фраз
+
+Согласие между аннотаторами 
+
+90% согласие, но иногда одно и тоже выражают разными способами
+
+итого: dataset, 1088 summary pairs abstract, 6173 выравненных фраз
+
+## broad context language model
+Предсказание слов требует контекста (broad discourse context)
+
+Задача понимания (copmrehension task)
+
+Attetion sum reader kadlec 2016
+
+Lambada dataset, baseline самое частое слово в контексте 11.7 (непонятно что за метрика)
+
+44.5,49, 51.6 системы
+
+86 люди
+
+Детали: кто говорит, кореференция, внешние знания
+
+## Negation detection
+Токен - это часть scope'а (?)
+
+bidirectional LTSM подход
+
+корпуса медицинских текстов, два английских, один китайский
+
+transition-based подход
+
+token-level f-мера
+
+scope-level оценка
+
+Во многих предложениях все определяется пунктуацией
+
+Rule based система - baseline
+
+Легко по пунктуации, сложно без нее
+
+Хорошо работает в легких случаях (сюрприз!)
+
+проблема: очень разнные подходы к разметке
+
+## Cross lingual open infromation extraction
+Перевод
+
+Нам важен факт на другом языке
+
+cross lingual open information extration
+
+Перевод, parsing, extrction (?)
+
+end to end подход (?)
+
+encoder/decoder подход (?)
+
+syntaxnet + predpatt (IE тулза)
+
+sequence to sequnce model
+
+Predictive pattern aproach, смотрим на синтаксическое дерево и извлекаем по нему факты
+
+Linearized predpatt
+
+Moses (статистический машинный перевод), syntaxnet, predpatt
+
+BLEU (для оценки перевода) + F1-score
+
+19, 21.5 $
+
+F1 по токенам: 28..33.6 %
+
+<a name="wordpic"/>
+
+# Words, peactures, common sence
+TBD
+
+<a name="kb"/>
+
+# Knowledge bases
 TBD
