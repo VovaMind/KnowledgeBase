@@ -1027,4 +1027,62 @@ Multiple random segmentation (?)
 
 # Embeddings
 
-TBD
+## Embeddings for rare and unseen words by lexical resources
+Выражаем семантику в векторном пространстве
+
+Domain specific слова, слова со сложной морфологией, морфологическая трансформация слов
+
+Есть много внешних ресурсов, babelnet 
+
+Извлекаем знания из внешних ресурсов и используем их
+
+Lexical source as a semantic network (?), строим semantic landmarks, строим вектора
+
+Для semantic landmarks используем персонализированный pagerank (??)
+
+Формула: используем начальное приближение (если есть), используем линейную комбинацию семантически близких слов, близкие слова ранжированы по расстоянию
+
+## Large scale evaluation of dependency based
+Dependency filtering vs dependency typed
+
+???
+
+## Hyperonyms + embeddings
+Классификатор для гиперонимии по embedding'ам
+
+state of the art F1 0.85 но на опредленных данных, на других данных все заметно хуже
+
+Анализ этих данных
+
+Нормализация другим dataset'ов
+
+Модели: logistic regression + SVM
+
+baroni хороший dataset
+
+## cross lingual embeddings from syntactic data
+UD дают языко-независимые синтаксические данные
+
+word vectors для разных языков в одном пространстве
+
+simlex dataset
+
+А вообще тут общая идея в том, что синтаксис помогает для embedding'ов
+
+## cross language plagiarism detection
+Поиск похожих цепочек слов
+
+jaccard distance (?)
+
+## semantic morpho in embeddings
+morpho similarity
+
+Есть морфологически сложные языки
+
+skipgram miklov подход
+
+bojanowski fasttext 2016
+
+prop2vec
+
+Lemma vectors encode semantics
