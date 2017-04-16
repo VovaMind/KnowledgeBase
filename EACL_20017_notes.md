@@ -12,6 +12,8 @@
 [Summarization-2](#summarization2)  
 [Words, peactures, common sence](#wordpic)  
 [Knowledge bases](#kb)  
+[Word representation](#wordrepr)  
+[Embeddings](#emb)  
 
 <a name="word_embeddings"/>
 
@@ -884,4 +886,90 @@ Baseline 4.74 лет, в среднем вопросы для 9-летних
 <a name="kb"/>
 
 # Knowledge bases
+
+## Multi level representation for fine grained typing of kb entities
+
+У нас есть entity с id, поиск metions, получаем тип entity, author, politic (??)
+
+Entity representation, скрытый слой, результат
+
+Multilabel, сигмоида а не softmax
+
+корпус, wang2vec
+
+упоминание fasttext
+
+улучшение на уровне entity
+
+word level reprsentation, word level word2vec
+
+subword level fasttext
+
+Используем charater leverl representation для CNN
+
+Dataset содержит 200 000 entities, freebase dataset
+
+Синтаксис важен
+
+CNN работает лучше для неизвестных слов, multilevel помогает
+
+context тоже помогает (?)
+
+## Contrastmedium algorithm taxonomy inducyion from kg with just a few links
+Удаляем слова перемещением контраста (??)
+
++3-5% улучшение для точности
+
+## Probabilistic inference for cold start with prior knowledge
+Строим KB из корпуса, важно для QA, поиска и тэдэ
+
+Cold start - это данные плюс схема, 
+
+shared task, TAC 2015 cold start KB population track overview
+
+Hop 0 query, ищем супргов/детей
+
+Hop 1 query, куда дети ходят в школу
+
+Большой pipeline неточных компонент
+
+Есть ошибки общего характера, много ДРов, 8 браков и так далее
+
+Сложно исправлять ошибки, очень разные источники ошибок, но нужно их исправлять
+
+Знания из внешнего мира помогают, используем entity popularity, варианты имен, упоминания имен(?)
+
+Relation cardinality
+
+EDL features(IE framework), entity linking confidence, расстояние редактирования, membership clustering (?).
+
+Re source algorithm, типы отношений, confidence, argument mentio level(??)
+
+F-мера плохая, hop-0 38.4, hop-1 24
+
+## Generalization to unseen entities and entity pairs
+Текст - это входные данные, нужно извлечь entities + relations
+
+Text mentions coreference+relation pipeline
+
+Обучаем embeddings для всего
+
+Случайная генереция "негативные" примеры
+
+Pattern encoder
+
+Query independent признаки, mean pool, max pool
+
+Query dependent
+
+<a name="wordrepr"/>
+
+# Word representation
+
+TBD
+
+<a name="emb"/>
+
+# Embeddings
+
 TBD
