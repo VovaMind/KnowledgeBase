@@ -15,6 +15,8 @@
 [Word representation](#wordrepr)  
 [Embeddings](#emb)  
 
+[Schütze: Don't cram two completely different meanings into a single !&??@#^$% vector! Or should you?](https://twitter.com/rctatman/status/850250053063135234)
+
 <a name="word_embeddings"/>
 
 # Word embeddings (word vector space)
