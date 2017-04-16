@@ -966,7 +966,62 @@ Query dependent
 
 # Word representation
 
-TBD
+## String baseline for multilingual embedding for sentence alignments
+dice metric
+
+моноязычный контекст и многоязычный контекст
+
+Bible corpora
+
+Выравнивание слов, использование словарей
+
+Используем sentence ID, verse ID 
+
+SVD, SGNS
+
+## Online learning of task specific word representation with a joint biconvex passive
+passive aggressive algorithm
+
+Заранее обученные embedding'и не всегда работают хорошо
+
+Каким образом обучать для конкретной задачи
+
+Build from scratch with big data
+
+Обучаем существующие embedding для контекста конкретной задачи
+
+soft margin
+
+re embedding passive aggressive
+
+Learning rate считаем по Лагранжиану o_o
+
+Embeddings matrix
+
+Alternating convex search
+
+syntactic data experiments
+
+Улучшение для классификации
+
+## Nonsymbolic text representation
+Базовые части слов, символьные n-грамы, рассматриваем несколько токенов, все символьные n-грамы
+
+wiki использовалась как корпус
+
+cross-token символьные n-грамы
+
+end to end подход
+
+Representation learning
+
+Multiple random segmentation (?)
+
+Небольшое улучшение f-меры
+
+можно обучать хорошие embedding'и без токенизации
+
+Но с токенизацией все равно работает лучше
 
 <a name="emb"/>
 
