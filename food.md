@@ -262,3 +262,6 @@ https://www.youtube.com/watch?v=JC02bwuBKWo
 
 ## Сырники
 https://www.youtube.com/watch?v=eXKScRnCyOA  
+
+## Шаверма
+https://www.youtube.com/watch?v=VyzK9Hr26KU
