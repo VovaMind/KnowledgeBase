@@ -5,7 +5,7 @@
 [Завтраки](#breakfast)  
 [Салаты + закуски](#starter)  
 [Курица + индейка](#chicken)  
-[Блины + оладьи + пирожки](#pancake)  
+[Блины + оладьи + пирожки + пицца (выпечка)](#pancake)  
 [Свинина](#pork)  
 [Рис](#rise)  
 [Картофель](#potato)  
@@ -157,7 +157,7 @@ https://www.youtube.com/watch?v=4-jni2lsCZE
 
 <a name="pancake"/>
 
-# Блины+оладьи+пирожки
+# Блины + оладьи + пирожки + пицца (выпечка)
 
 ## Блины с курой, грибы и сыром(!!!)
 http://www.say7.info/cook/recipe/542-Blinyi.html
@@ -170,6 +170,10 @@ https://www.youtube.com/watch?v=m-KtYhhO730
 
 ## Пирожки с картофелем (+дрожжевое тесто)
 https://www.say7.info/cook/recipe/988-Pirozhki-s.html
+
+## Пицца
+https://www.youtube.com/watch?v=cAtsnbFO0ec
+https://www.youtube.com/watch?v=wIJUqI8xDKE
 
 <a name="pork"/>
 
