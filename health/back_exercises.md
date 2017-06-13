@@ -25,6 +25,9 @@ https://www.youtube.com/watch?v=6hUueXQ_h2c
 ## Упражнение против шейного остеохондроза
 https://www.youtube.com/watch?v=S3AGTegaAeA
 
+## Остеохондроз (особенно шея)
+https://www.youtube.com/watch?v=1ZwFLGHyKlM
+
 <a name="bubnovskij"/>
 
 # Бубновский
