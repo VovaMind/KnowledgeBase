@@ -61,8 +61,6 @@ https://www.youtube.com/watch?v=vCtvRv_cx0Y
 
 <a name="other"/>
 
-## TBD
-
 # Другое
 
 ## Советы по "планке"
