@@ -21,5 +21,12 @@ https://www.youtube.com/watch?v=-moW9jvvMr4&app=desktop
 
 Любоптсво по отношению к происходящему, удовольствие от того что отпускаешь.
 
-## TBD
+## How to learn any language in six months
+https://www.youtube.com/watch?v=d0yGdNEWdn0&app=desktop
+
+TBD
+
+## What makes a good life? Lessons from the longest study on happiness
+https://www.youtube.com/watch?v=8KkKuTCFvzI&app=desktop
+
 TBD
