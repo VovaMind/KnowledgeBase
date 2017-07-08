@@ -4,6 +4,7 @@
 [Бонина](#bonina)  
 [Бубновский](#bubnovskij)  
 [Йога](#yoga)  
+[Антон Алексеев](#alekseev)  
 [Другое](#other)  
 
 <a name="bonina"/>
@@ -45,7 +46,22 @@ https://www.youtube.com/watch?v=rRYIIS3Cj5k
 ## Комплекс для здоровой спины
 https://www.youtube.com/watch?v=5GJHiPQrKhc
 
+## Йога осанка
+https://www.youtube.com/watch?v=teY-4Bz0EBk
+
+<a name="alekseev"/>
+
+# Антон Алексеев
+
+## Как правильно сидеть
+https://www.youtube.com/watch?v=Zc74qzEAEOk
+
+## Ромбовидная мышца
+https://www.youtube.com/watch?v=vCtvRv_cx0Y
+
 <a name="other"/>
+
+## TBD
 
 # Другое
 
