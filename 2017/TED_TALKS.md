@@ -39,5 +39,10 @@ https://www.youtube.com/watch?v=8KkKuTCFvzI&app=desktop
 
 Это важнее в итоге, чем успех и известность o_O
 
+## Inside the mind of a master procrastinator
+https://www.youtube.com/watch?v=arj7oStGLkU&app=desktop
+
+Очень смешно :)))
+
 ## TBD
 TBD
