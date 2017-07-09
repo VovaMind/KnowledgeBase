@@ -81,3 +81,30 @@ https://www.youtube.com/watch?v=rrkrvAUbU9Y&app=desktop
 ## The psychology of self-motivation
 https://www.youtube.com/watch?v=7sxpKhIbr0E&app=desktop
 
+Ощущение того, что тебе разрешили.
+
+Ключевые(мотивационные) вопросы:
+* Можешь ли ты это сделать? Если у тебя время/знания/навыки и так далее.
+* Будет ли оно работать?
+* Оно того стоит?
+
+Ощущение компентности от ответов на эти вопросы и это улучшает твою мотивацию. Ощущение выбора. Если есть ощущение, что ты это выбрал, то это усиливает мотивацию и ощещения свободы. 
+
+Отличие людей которые ищут успех и людей которые избегают неудач. Первый план намного лучше.
+
+Телега про выученную беспомощность. Всегда можно учиться друг у друга.
+
+## Your body language may shape who you are
+https://www.youtube.com/watch?v=Ks-_Mh1QhMc&app=desktop
+
+Там много чего про язык тела. Прикольная идея про притворяйся и это может помочь o_O
+
+## 100 days without fear
+https://www.youtube.com/watch?v=2dbNRGiqaaM&app=desktop
+
+История про борьбу со страхом, похожая на 100 отказов. Поиск страхов и преодоление их. Полезный подход для улучшения себя/работы над недостатками.
+
+## How to gain control of your free time
+https://www.youtube.com/watch?v=n3kNlFMXslo&app=desktop
+
+TBD
