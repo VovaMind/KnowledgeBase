@@ -212,6 +212,9 @@ https://www.youtube.com/watch?v=2cHWOo1fTRc
 ## Картофельные котлеты
 https://www.youtube.com/watch?v=IRaN1KYVEhY
 
+## Драники
+https://www.youtube.com/watch?v=lGlJf5mdGko
+
 <a name="beef"/>
 
 # Говядина
