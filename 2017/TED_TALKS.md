@@ -177,3 +177,13 @@ https://www.youtube.com/watch?v=YyXRYgjQXX0&app=desktop
 Еще одно измерение: склонен или нет со всем соглашаться. Получается четыре типа людей. Рассуждение о них и кто когда лучше.
 
 Хорошо бы, чтобы людей которые отдают ценили и все такое.
+
+## How to practice effectively
+https://www.youtube.com/watch?v=f2O6mQkFiiw&app=desktop
+
+Тренировка ограничена по времени, осознанность и концентрация, не отвлекаться, фокусировка на сложном, ментальные тренировки
+
+## The power of believing that you can improve
+https://www.youtube.com/watch?v=_X0mgOOSpLU&app=desktop
+
+Позитивные установки при обучении очень сильны.
