@@ -221,6 +221,7 @@ https://www.youtube.com/watch?v=lGlJf5mdGko
 
 ## Бефстроганов
 http://gotovim-doma.ru/view.php?r=240-recept-Befstroganov
+https://www.youtube.com/watch?v=zo-snMS-m34
 
 <a name="fish"/>
 
