@@ -16,11 +16,16 @@
 
 Шмырев показывает: https://www.youtube.com/watch?v=XZxPMeHZCTU
 
+Замах за счет скручивая корпуса, а не руки: https://www.youtube.com/watch?v=nyBqn91lZhs (фокус на ногах и корпусе)
+
+Играть мяч сбоку от себя при правом топсе
+
 <a name="backhand_tops"/>
 
-
 # Топспин слева
-TBD
+Кисть впереди локтя слева: https://www.youtube.com/watch?v=nyBqn91lZhs
+
+С левой ноги на правую перенос веса
 
 <a name="services"/>
 
@@ -32,7 +37,14 @@ TBD
 <a name="tactics"/>
 
 # Тактика
-TBD
+После левой подачи играть слева, а после правой справа: https://www.youtube.com/watch?v=8iJC5memr5k
+
+Иметь небольшое количество стандартных подач и их хорошо натренировать и грамотно применять: http://artemutochkin.ru/7-steps-up/
+
+## Короткие шипы
+https://www.thoughtco.com/table-tennis-how-to-play-with-short-pimples-3173495
+
+https://www.thoughtco.com/how-to-use-short-pips-3173500
 
 <a name="other"/>
 
