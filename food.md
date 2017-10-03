@@ -249,6 +249,9 @@ https://www.youtube.com/watch?v=Gx8st3sPNDc
 ## Грибной крем-суп (нужен блендер)
 https://www.youtube.com/watch?v=ve1op_RFM4Q
 
+## Сливочный суп с семгой
+https://www.youtube.com/watch?v=llorCrRWFcg
+
 ## Много супов (луковый, мисо, минестроне etc)
 http://www.elle.ru/stil-zhizni/food/goryachiy-priem-prostyie-retseptyi-znakovyih-natsionalnyih-supov/
 
