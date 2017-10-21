@@ -155,6 +155,15 @@ https://www.youtube.com/watch?v=4cxHplFobe8
 ## Куриные крокеты
 https://www.youtube.com/watch?v=4-jni2lsCZE
 
+## Курица в кефире
+https://eda.ru/recepty/osnovnye-blyuda/kurica-v-kefire-41841
+
+## Оякодон - !!!
+https://www.youtube.com/watch?v=3Ok5ERWXoLI&app=desktop
+
+## Курица со сливками и карри
+https://www.youtube.com/watch?v=e6Qd_u1OvTs
+
 <a name="pancake"/>
 
 # Блины + оладьи + пирожки + пицца (выпечка)
