@@ -5,6 +5,7 @@
 [Бубновский](#bubnovskij)  
 [Йога](#yoga)  
 [Антон Алексеев](#alekseev)  
+[Массаж](#massage)  
 [Другое](#other)  
 
 <a name="bonina"/>
@@ -59,6 +60,16 @@ https://www.youtube.com/watch?v=Zc74qzEAEOk
 ## Ромбовидная мышца
 https://www.youtube.com/watch?v=vCtvRv_cx0Y
 
+<a name="massage"/>
+
+# Массаж
+
+## Массаж стоп при плоскостопии
+https://www.youtube.com/watch?v=r4mMoExLa-o&app=desktop
+
+## Самомассаж поясницы
+https://www.youtube.com/watch?v=73khlbUkX4w
+
 <a name="other"/>
 
 # Другое
@@ -68,3 +79,6 @@ https://www.youtube.com/watch?v=dd5fRGh_nHo
 
 ## Семинар по н/т сфп (хорошая растяжка и разминка)
 https://www.youtube.com/watch?v=oejxj01btU8
+
+## Вращательная манжета
+https://www.youtube.com/watch?v=luoiGpT4PJ8
