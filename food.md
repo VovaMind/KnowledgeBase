@@ -264,6 +264,9 @@ https://www.youtube.com/watch?v=llorCrRWFcg
 ## Много супов (луковый, мисо, минестроне etc)
 http://www.elle.ru/stil-zhizni/food/goryachiy-priem-prostyie-retseptyi-znakovyih-natsionalnyih-supov/
 
+## Куриный бульон
+https://www.youtube.com/watch?v=yxu_ColrQfM
+
 <a name="desert"/>
 
 # Десерты
