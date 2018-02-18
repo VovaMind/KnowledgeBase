@@ -32,7 +32,13 @@ Perceptron trick: change weights of a linear function by coordinates of a point,
 
 Perceptron algorithm: making iterations of perceptron trick.
 
+To consider classification probabilities we can use sigmoid function: 1/(e^(-t) + 1).
+
 Using error-function for a gradient descent. It should be continuous and differentiable.
+
+Log loss function = -log(probability of correct classification). We should minimize it. We should use it to avoid probability multiplication and replace it with sum of logs.
+
+Softmax function: e^(s_1) / (sum of e^(s_i)). It helps to move from scores to class probabilities.
 
 <a name="CNN"/>
 
