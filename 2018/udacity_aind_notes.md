@@ -52,7 +52,21 @@ Logistic regression vs preceptron algorithm: logistic regression trying to impro
 
 In complicated cases we should consider non-linear models/functions.
 
-TODO: #29
+We can combine many linear functions together with using sigmoid activation and build non-linear functions. We can do multi-class classification with using softmax. Thus, we got Neural Network(NN).
+
+Each step in feedforward in NN can be computed by matrix multiplication. We can calculate an error in the end (cross-entropy etc).
+
+Backpropogation - in dact it's just a gradient descent. We use chain rule in derivatives to compute it.
+
+We can use Keras in order to fit and test NNs. We build a model from layers of computation and activation. We can compile the model with setting loss, optimizer, metrics. Then we can fit and evaluate the model.
+
+We can use batches in the gradient descent. For each epoch we don't need all data, we can use subdata in oder to optimize everything.
+
+Learning rate: too high -> no convergence, too small -> fitting a model will be too slow -> we won't able to train the model. If doesn't work try to descreace (?). Learning rate should be small if the solution is close.
+
+It's important to have test + train datasets.
+
+
 
 <a name="CNN"/>
 
