@@ -4,7 +4,7 @@
 [Overall](#overall)  
 [HMM](#HMM)  
 [Deep learning notes](#DL)  
-[CNN contes](#CNN)  
+[CNN notes](#CNN)  
 
 <a name="overall"/>
 
@@ -126,3 +126,38 @@ We can use CNNs to inject a picture to another picture.
 
 We can look at the layers. First layers understand simple patterns. But with more layers it can find more and more specific patterns.
 
+Transfer learning. The idea is to reuse finished CNN arcitecture and replace only last layes there and train only small part of the model. Potentially we can retrain from starting weights or retrain the whole model. 
+
+Instructions (datasets - old and new):
+Size | Similar datasets | Different datasets
+--- | --- | ---
+Small | end of ConvNet | start of ConvNet
+Large | fine-tune | fine-tune or retrain
+
+In Keras/practically: we precompute signals from other CNN and use them to finish training.
+
+We can use CNNs for image segmentation.
+
+## TensorFlow
+
+TBD
+
+ADD LINK!
+
+## Autoencoders
+
+TBD
+
+ADD LINK!
+
+## RNN
+
+TBD
+
+ADD LINK!
+
+## LSTM
+
+TBD
+
+ADD LINK!
