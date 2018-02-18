@@ -40,6 +40,20 @@ Log loss function = -log(probability of correct classification). We should minim
 
 Softmax function: e^(s_1) / (sum of e^(s_i)). It helps to move from scores to class probabilities.
 
+Encoding: instead of enum, use boolean vector: is class 0, is class 1, ...
+
+Likelihood: overall probability of smth. Likelihood -> max.
+
+Cross entropy (CE): from max likelihood to minimum of -log(likelihood). CE = -sum(y_i * log(p(smth))). We can use CE for two classes or for multiclasses.
+
+Logistic regression: sigmoid function over linear function with using CE. Algorithm: iterate points and go by gradient direction with a learning rate. 
+
+Logistic regression vs preceptron algorithm: logistic regression trying to improve the score even in a context of correct classification.
+
+In complicated cases we should consider non-linear models/functions.
+
+TODO: #29
+
 <a name="CNN"/>
 
 ## CNN notes
