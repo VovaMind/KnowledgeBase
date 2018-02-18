@@ -90,4 +90,39 @@ Links about optimizers: https://keras.io/optimizers/, http://ruder.io/optimizing
 
 ## CNN notes
 
-TBD
+Image input data. MNIST dataset.
+
+Simple (MLP ?) NN works not that well on MNIST.
+
+Train, validation, test.
+
+Local connectivity (idea of using non fully conntected layers).
+
+Convolutional layers. Use pattern (filter) and calculate result signal with an activation function.
+
+Convolutional layers work like filters. 
+
+Consider separetly R data, G data and B data. Normalize them to 0..1.
+
+Stride - with which step are we moving convolutional filter. Padding adding zeroes "outside" of the image in order to get more conovultional results, but some of them will be computed by small parts of the image.
+
+We can import and use convolutional layers in Keras.
+
+Pooling layer -> reduce size by performing max / mean operation in submatrices. They also have stride. 
+
+We can import and use pooling layers in Keras.
+
+CNN finished with fully connected layers and softmax. CNN significantly outperforms "simple" NN in image recognition.
+
+cifar 10 dataset. Images with classes.
+
+Augmentation in image processing - add more data to a dataset. We can move image, rotate it, scale etc. In this way we will have much more data. We can do smth of it in Keras by using generation+fit_generator.
+
+ImageNet - big dataset of images with many classes. 
+
+Very strong CNNs: AlexNet, VGG, ResNet. See more at https://keras.io/applications/.
+
+We can use CNNs to inject a picture to another picture.
+
+We can look at the layers. First layers understand simple patterns. But with more layers it can find more and more specific patterns.
+
