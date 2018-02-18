@@ -66,7 +66,25 @@ Learning rate: too high -> no convergence, too small -> fitting a model will be 
 
 It's important to have test + train datasets.
 
+We can have two kind of problems with a model: overfitting, underfitting. Overfitting - we are considering the problem too specific, underfitting - we are using too simple model or we trained it poorly. NN are typically too complicated and we will use some technics to avoid overfitting.
 
+Early stop - look at the train error and validation error and select the best model by the validation error.
+
+We can use regularization. Common regularizations: L1 and L2. With L1 we can have king of features selection (many zeroes coefficients). With L2 we can get a better solution (?). It helps against overfitting.
+
+Droupout. We can have a probability for each NN layer. With can drop X% of a layer in each iteration. In other words, we don't use the whole NN for each training iteration. It helps against overfitting.
+
+Vanishing gradient. We use derivatives multiplication in order to perform gradient descent. If we will have too many layers, then gradient can "vanish" after many multiplications. We can use not sigmoid, but other activation functions: tanh, relu = max(0,x). At the end we still need to have sigmoid in case of binary classification.
+
+Gradient descent makes locally optimal step. But with this appoach we can stuck at a local minima. To avoid we can do random restarts. We can use momentum (current_step + alpha * previous_sum, alpha < 1). 
+
+We can use following optimizers in Keras:
+
+*  Stochastic Gradient Descent (SGD). You can specify: learning rate, momentum, nesterov moment (?).
+*  Adam (Adaptive Moment Estimation). It uses second moment (acceleration).
+*  RMSProp. See my other notes about it.
+
+Links about optimizers: https://keras.io/optimizers/, http://ruder.io/optimizing-gradient-descent/index.html#rmsprop (cool blog about NLP!).
 
 <a name="CNN"/>
 
