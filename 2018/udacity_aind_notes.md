@@ -26,7 +26,13 @@ Helpful with analysing time series/data.
 
 ## Deep learing notes
 
-TBD
+Context: classification of points.
+
+Perceptron trick: change weights of a linear function by coordinates of a point, use a class label to modify bias. Use a learning rate.
+
+Perceptron algorithm: making iterations of perceptron trick.
+
+Using error-function for a gradient descent. It should be continuous and differentiable.
 
 <a name="CNN"/>
 
