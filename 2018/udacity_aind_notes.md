@@ -5,6 +5,10 @@
 [HMM](#HMM)  
 [Deep learning notes](#DL)  
 [CNN notes](#CNN)  
+[Autoencoders](#auto)  
+[RNN](#RNN)  
+[LSTM](#LSTM)  
+[RNN/LSTM notes](#RNN_LSTM_notes)  
 
 <a name="overall"/>
 
@@ -138,17 +142,15 @@ In Keras/practically: we precompute signals from other CNN and use them to finis
 
 We can use CNNs for image segmentation.
 
-## TensorFlow
-
-TBD
-
-ADD LINK!
+<a name="autoencoders"/>
 
 ## Autoencoders
 
-TBD
+Can help with removing noise from images. The idea is to train a NN which will transform input->input over a small bottleneck layer. We can use CNN to train autoencoders. 
 
-ADD LINK!
+It's a kind of advanced PCA, but non-linear.
+
+<a name="RNN"/>
 
 ## RNN
 
@@ -156,8 +158,16 @@ TBD
 
 ADD LINK!
 
+<a name="LSTM"/>
+
 ## LSTM
 
 TBD
 
 ADD LINK!
+
+<a name="RNN_LSTM_notes"/>
+
+## RNN/LSTM notes
+
+TBD
