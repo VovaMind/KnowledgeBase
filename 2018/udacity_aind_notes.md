@@ -154,9 +154,15 @@ It's a kind of advanced PCA, but non-linear.
 
 ## RNN
 
-TBD
+Motivation - taking into account "sequential" property of data. In "usual" NN (FNN) we consider inputs independently. And a lot of data is sequntial: text, stocks price etc. We can't take a sequence into account with usual NNs.
 
-ADD LINK!
+We can train usual NN on sequential data and for some simple cases it would work. However, it still have the fundametal problem - context ignoring. Data isn't i.i.d., it's a sequence.
+
+The main trick - F(t) (result function), will depend not only on input(t), but also from hidden_state(t-1). So we don't loose the information about "context" and about previous data. In "usual" networks we don't remember previous inputs and context.
+
+Idea of representation - over time layers.
+
+RNNs require large datasets. Vanishishing gradient problem (we do backprop over many time layers back). To avoid it we can use special architectures (LSTM, GRU etc) and other gradient descendants. You should split long sequences of data into the smaller windows.
 
 <a name="LSTM"/>
 
