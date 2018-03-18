@@ -234,4 +234,20 @@ Sources:
 
 ### Sentiment analysis
 
-tBD
+Using word embeddings instead of dictionary size layers.
+
+Use sigmoid activation, because it's 2 class problem (positive, negative).
+
+Shrink input word size from > 200 to 200. Add initial zeroes into input with size < 200.
+
+Take a look on the output only after entering a review.
+
+!!!!!!!!!!!!!! UDACTITY REPO on deep learing: https://github.com/udacity/deep-learning
+
+You can or train embeddings as a part of the process or use pre-trained values.
+
+We got only last outputs from the RNN for each mini-batch elemenets. Than we just combine them with activation function.
+
+## Next one
+
+TBD
