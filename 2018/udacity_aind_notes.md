@@ -5,7 +5,7 @@
 [HMM](#HMM)  
 [Deep learning notes](#DL)  
 [CNN notes](#CNN)  
-[Autoencoders](#auto)  
+[Autoencoders](#autoencoders)  
 [RNN](#RNN)  
 [LSTM](#LSTM)  
 [RNN/LSTM notes](#RNN_LSTM_notes)  
