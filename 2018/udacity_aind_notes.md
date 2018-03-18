@@ -224,4 +224,14 @@ Long story short: experiment and take a look on the data and the results.
 
 Sources:
 
-TBD
+*  https://arxiv.org/abs/1206.5533
+*  http://www.deeplearningbook.org/contents/guidelines.html
+*  http://neuralnetworksanddeeplearning.com/chap3.html#how_to_choose_a_neural_network's_hyper-parameters
+*  http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf
+*  https://arxiv.org/abs/1507.05523
+*  https://arxiv.org/abs/1606.02228
+*  https://arxiv.org/abs/1506.02078
+
+### Sentiment analysis
+
+tBD
