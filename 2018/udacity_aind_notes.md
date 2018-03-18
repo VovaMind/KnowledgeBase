@@ -204,3 +204,24 @@ RNN resources:
 *  http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 *  https://r2rt.com/recurrent-neural-networks-in-tensorflow-i.html
 
+### Hyperparams
+
+Heavily depend on a task.
+
+We can split into two categories. Optimizer params: learning rate, minibatch size, number of epochs. Model params: number of layers/units, model details, activation etc.
+
+Learning rate. Too small - not converging, too big - suboptimal or even explode. Potencial values: 0.1, 0.001 etc till 10^-6 or 10^-7. We can use adaptive learning to change learning rate dynamically. TF adaptive learning optimizers: AdamOptimizer, AdagradOptimizer.
+
+Minibatch size. Typically 2^x. Popular values: 32, 64, 128, 256. Small minibatch size have an advantage - stochastic and doesn't stuck at a local minima. Bigger minibatch size - faster computation, because of matrix multiplication.
+
+Number of epochs/iterations. See on validation error. Validation error can be noisy - so be careful with the stop rule (like, stop only in a case of absence of improvements for X epochs).
+
+Number of hidden units. It can be quite high, because of regularization and dropout. Too high is overfitting. But small overfitting is ok for NNs. So, put it high nut not super-high. Number of layers - increase in a case of underfitting. Underfitting - make the model more complicated (by units/layers).
+
+FNN - 3 layers is better than 2, but 4 rarely helps. CNN - deeper often means better. RNN with LSTM/GRU performance can be good at 2, but 3 can be bad. For modern speech recognition they use 5-7 RNN layers.
+
+Long story short: experiment and take a look on the data and the results.
+
+Sources:
+
+TBD
