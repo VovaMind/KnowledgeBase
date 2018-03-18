@@ -182,6 +182,8 @@ It contain 4 gates: forget gate (we remove info from LTM), learn gate (we combin
 
 Idea LSTM(input[t], LTM[t-1], STM[t-1]) - > output[t], LTM[t], STM[t].
 
+LSTM is just a one possible RNN architecture. We also have GRU, LSTM modified by peephole connections etc.
+
 <a name="RNN_LSTM_notes"/>
 
 ## RNN/LSTM notes
