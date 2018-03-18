@@ -164,6 +164,8 @@ Idea of representation - over time layers.
 
 RNNs require large datasets. Vanishishing gradient problem (we do backprop over many time layers back). To avoid it we can use special architectures (LSTM, GRU etc) and other gradient descendants. You should split long sequences of data into the smaller windows.
 
+tanh activation function is popular. Does it help with the vanishing gradient??
+
 <a name="LSTM"/>
 
 ## LSTM
@@ -173,6 +175,12 @@ Key links:
 *  http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 *  http://blog.echen.me/2017/05/30/exploring-lstms/
 *  https://www.youtube.com/watch?v=iX5V1WpxxkY
+
+Key idea of LSTM is splitting memory into two parts: long-term memory (LTM) and short-term memory (STM). LTM rembeber the whole context on a high-level. STM remembers only recent changes.
+
+It contain 4 gates: forget gate (we remove info from LTM), learn gate (we combine STM and input), remember gate (we add learn gate data to forget data) and use gate (we combine learn gate and forget gate). Rember gate result -> new LTM. Use gate -> new STM.
+
+Idea LSTM(input[t], LTM[t-1], STM[t-1]) - > output[t], LTM[t], STM[t].
 
 <a name="RNN_LSTM_notes"/>
 
