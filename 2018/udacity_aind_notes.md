@@ -188,4 +188,19 @@ LSTM is just a one possible RNN architecture. We also have GRU, LSTM modified by
 
 ## RNN/LSTM notes
 
-TBD
+We can use character-wise RNNs. Input - 1 character, output - 1 character. We use softmax at output layer.
+
+We can use multiple layers of LSTM with stucking them up. LSTM[i - 1]->LSTM[i] (feed-forward), LSTM[i]->LSTM[i] (recursion).
+
+We should do batching - split input sequence into several parts. Than we will move "window" with some width and height == number of parts. The idea is to use matrix operations and don't put into the NN too big sequences.
+
+dynamic rnn in TF - the idea is having arbitary size input.
+
+hyperparameters: batch_size (amount of parts?), num_steps (length of training sequence, width of the window, longer is better - longer dependencies, but it's also time consuming, 100 is a good starting point, lstm_size - amount of nodes/units in the hidden layer, keep_prob - dropout rate, num_layers, learning_rate).
+
+RNN resources:
+
+*  https://www.youtube.com/watch?v=iX5V1WpxxkY
+*  http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+*  https://r2rt.com/recurrent-neural-networks-in-tensorflow-i.html
+
