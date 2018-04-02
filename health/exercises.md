@@ -1,7 +1,7 @@
 # Подборка упражнений для спины / пресса
 
 ##### Содержание
-[RLINE](#rline)  
+[Jeff Cavaliere](#rline)  
 [Бонина](#bonina)  
 [Бубновский](#bubnovskij)  
 [Йога](#yoga)  
@@ -11,7 +11,7 @@
 
 <a name="rline"/>
 
-# RLINE
+# Jeff Cavaliere
 
 ## Поясница и советы при сидячем образе жизни
 
