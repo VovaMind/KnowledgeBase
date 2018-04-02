@@ -102,7 +102,24 @@ Gratitude. It smth went really well be gratitude to the other. It helps with soc
 
 ## Week 3
 
-TBD
+Being too needy or too avoidant.
+
+Need to be loved is very deep and important part of the human nature. It can stronger than need in food. Sense of belongingness is very important.
+
+Experiment with show and another guy. Disliking together is stronger than liking by yourself (social nature). Feeling connection on agreement. Socialozong is very enjoyable activity.
+
+Being needy is bad, because:
+
+*  It makes us less attractive.
+*  It makes us less respected by others.
+*  It involves us to a wrong kind of relationships.
+*  It makes you lose respect for yourself.
+
+Avoidance is bad, because:
+
+*  It goes against our nature.
+*  It gives you less cooperation from others: both colleagues and other peoppl.
+*  It makes you dissatisfied at work.
 
 ## Week 4
 
