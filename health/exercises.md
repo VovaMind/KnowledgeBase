@@ -17,6 +17,10 @@
 
 https://www.youtube.com/watch?v=d84icqp0zCs
 
+## fix lower back pain
+
+https://www.youtube.com/watch?v=DWmGArQBtFI
+
 <a name="bonina"/>
 
 # Бонина
