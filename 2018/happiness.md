@@ -121,6 +121,33 @@ Avoidance is bad, because:
 *  It gives you less cooperation from others: both colleagues and other peoppl.
 *  It makes you dissatisfied at work.
 
+Secury attachment is a state between neediness and avoidance. It's important to stay there. I have tendency to being needy.
+
+Self-compassion and gratitude can be helpful.
+
+Experiment with spending money on youself or on the others. Spending on the others boosts happiness.
+
+It's important to love and give. There are scientific evidence for it.
+
+Being self-centered and greedy is bad for happiness level, but being selflessness is also bad (giving too much/everything). 
+
+You should be "smart" (otherish giver):
+
+*  Contain cost of giving. (Am I right person?, Help multiple people at once).
+*  Exercise value-enhancing strategies. Allow themselves to feel gratitude, pride etc, Say "no" at times.
+*  See impact of your generocity. (see yourself capable and compitent).
+*  Have fun.
+
+Being kind and generous is important! Reasons: makes you feel connected with others, it's in our nature, feel compitent and capable, evokes love/compassion, which feels good.
+
+Other reasons for being kind and generous: makes you feel more secure in relationships, enhancing your chances of success in your career, triggering an inner transformation.
+
+Rules of giving:
+
+*  Include yourself in your generocity.
+*  See the impact of your generosity on others.
+*  Habe fun in the act of giving.
+
 ## Week 4
 
 TBD
