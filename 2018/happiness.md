@@ -148,6 +148,12 @@ Rules of giving:
 *  See the impact of your generosity on others.
 *  Habe fun in the act of giving.
 
+Freedom and independence are important goals, food control can be iterpreted as a lack of freedom.
+
+Post-testing:
+
+I got 23 from 35 from the same test.
+
 ## Week 4
 
 TBD
