@@ -254,7 +254,18 @@ We got only last outputs from the RNN for each mini-batch elemenets. Than we jus
 
 ## NG lectures (RNN, attetion etc)
 
-TBD
+### Bidirectional RNN
+
+https://www.youtube.com/watch?v=qIU-Vep24T4
+
+Consider input sequence in both directions and use LSTM/GRU or smth related. In this case we will know not only previous data but also following.
+
+### Attetion
+
+https://www.youtube.com/watch?v=SysgYptB198
+https://www.youtube.com/watch?v=quoGRI-1l0A
+
+Let's consider machine translation and encoder/decoder approach. It works not good for the long sentences. The problem is - we try to memorize the whole sentence, but it doesn't work like this. We normaly translate sentence part by part. So, it means that some parts of input are more important to the some parts of the output than others. That is attention - we try not just summarize input, but also connect the whole encoder NN nodes to output with a proper weights.
 
 <a name="nlp"/>
 
