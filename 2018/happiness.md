@@ -156,12 +156,84 @@ I got 23 from 35 from the same test.
 
 ## Week 4
 
-TBD
+Problem is overly control seeking. It contains two parts: controlling other, controling environment.
+
+Having control is actually very important. There are bunch of studies which show it. The problem is overly control seeking.
+
+Why overly controlling of others lowers happiness:
+
+*  People want to have autonomy and they don't want to be controlled. So, it makeso ther unhappy and lowers our own happiness.
+*  Results in anger, frustration and disappointment when others don't behave the way we want them to.
+*  Decision quality is worse. 
+
+Why overly controlling of outcomes lowers happiness:
+
+*  A lot of stuff can't be controlled.
+*  Furstration, when smth doesn't work like we want to.
+*  Decision quality getting worse.
+*  Health (your and your relationships) will be worse.
+
+Concept of obsession: when we really want to get smth. And it we don't rule our life, instead smth other rules our life instead. In other words, we prioritize smth too much.
+
+It can be measure. The desirability for Control (DC) and Maximizer Scales.
+
+Key idea: taking personal responsobility for happinies. You should regulate how you feel inside of your head.
+
+Obstacles to tokaing personal respobsobility:
+
+*  Pessimism. In many situtions it's not possible to properly control etc. But the right approach is different - in the most of situations you can actually control yourself.
+*  Misconception. You may think that other can take advantage from you. It's wrong. You can still fix the issues here. 
+
+You should be smart here, like in the mindful giving case.
+
+Self-control helps for:
+
+*  Better grade point.
+*  Better adjustment.
+*  Better eating.
+*  Better relationships.
+*  More optimal emotional responses.
+
+Internal and external control are compensatory forces. More in one direction, less in the other.
+
+Simple emotion regulation strategies:
+
+*  Situation selection (avoid bad situtations, selecting good).
+*  Labeling your emotions.
+*  Attention deployment. (focus on the othe stuff).
+*  Cognitive reappraisal. (is it actually bad on a high level???).
+
+Lack of control is actually good stuff by itself. Life will be super boring if you will able to control everyting on 100%. The problem is if the control is too low. In that case we will feel stress.
+
+Healthy life style is also critical part of this section. It helps to reduce stress level and being more optimistic. Key points here: good sleep, move more, better food. Sugar, processed food, bad fats are bad. You should eat more fruits and veges. Too much sitting is also very bad. You should sleep aroung 7-9 hours.
+
+Food advices:
+
+*  Keep healthy snacks with you.
+*  Eat from smaller plates.
+*  Don't eat from white color plates o_O.
+*  Keep snacks when you go out.
+*  Start meals with healthe items.
+
+Move more advices:
+
+*  Use devices/apps for tracking steps.
+*  Remind yourself to move more regularly at work.
+*  Prepare to exercise at home.
+*  Morning exercises.
+*  Do appealing exercises.
+
+Sleep better advices:
+*  Minimize artificial lights in your bedroom.
+*  Ensure about background noise.
+*  Keep bedroom cool.
+*  Try to maintain a routine.
+*  Prevent stress to runing your sleep.
 
 ## Week 5.1
 
-TBD
+Distrusting others.
 
 ## Week 5.2
 
-TBD
+Distrusting life.
