@@ -9,6 +9,8 @@
 [RNN](#RNN)  
 [LSTM](#LSTM)  
 [RNN/LSTM notes](#RNN_LSTM_notes)  
+[NG lectures (RNN, attetion etc)](#ng_lectures)  
+[NLP](#nlp)  
 
 <a name="overall"/>
 
@@ -248,6 +250,14 @@ You can or train embeddings as a part of the process or use pre-trained values.
 
 We got only last outputs from the RNN for each mini-batch elemenets. Than we just combine them with activation function.
 
-## Next one
+<a name="ng_lectures"/>
+
+## NG lectures (RNN, attetion etc)
+
+TBD
+
+<a name="nlp"/>
+
+## NLP
 
 TBD
