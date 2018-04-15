@@ -271,4 +271,43 @@ Let's consider machine translation and encoder/decoder approach. It works not go
 
 ## NLP
 
-TBD
+NLP pipeline:
+
+1.  Text processing.
+1.  Feature extractor.
+1.  Modeling.
+
+Text processing:
+
+*  Capture text data.
+*  Cleaning.
+*  Normalization.
+*  Tokenization. Split into sentences?
+*  Removing stop words.
+*  POS tagging.
+*  NER.
+*  Stemming and Lemmatization.
+
+Feature extraction:
+
+*  Bag of words.
+*  TF-IDF.
+*  One-hot encoding.
+*  Word embeddings. Word2vec, GLoVe.
+*  You can train embeddings as a part of the deep learning.
+*  t-SNE for visualization.
+
+Modeling:
+
+*  Language modeling. N-gram models.
+*  Sentiment analysis.
+*  Topic modeling.
+*  Search and ranking.
+*  Machine translation.
+*  Resources: http://ruder.io/deep-learning-nlp-best-practices/, http://web.stanford.edu/class/cs224n/, http://www.cs.colorado.edu/~martin/slp2.html.
+
+Negative sampling for embedding training! 
+
+Encoder/decoder RNN architecture.
+
+Recources: https://github.com/ematvey/tensorflow-seq2seq-tutorials, https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html, https://github.com/chiphuyen/stanford-tensorflow-tutorials/tree/master/assignments/chatbot, http://www.wildml.com/2016/04/deep-learning-for-chatbots-part-1-introduction/, https://www.youtube.com/watch?v=G5RY_SUJih4.
