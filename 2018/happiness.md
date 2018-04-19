@@ -234,6 +234,54 @@ Sleep better advices:
 
 Distrusting others.
 
+Trust is important for happiness. 
+
+People in general are quite trustworthy.
+
+When we trust others, they act in a thustworthy way.
+
+We should trust others more than average person.
+
+Three stratigies for smart trust:
+
+*  Recognizing a fact, that people are in general trustworthy. Proactive trusting.
+*  Recognizing two major hidden benefits: embeddong oneself in a web of trustworthy relationsships, contributing to increase social trust level.
+*  Mitigating pain from being cheated. You shouldn't loose your trust level.
+
+Mitigating pain strategies:
+
+*  Recognize that your material level is ok, and it's not too bad for you.
+*  Making a resolution to making other accountable about their actions.
+*  Practice of forgiveness. It improves trust level and happiness level.
+
+Practice forgiveness!
+
 ## Week 5.2
 
 Distrusting life.
+
+Bad things are going to happen. Life gives more bad stuff than good stuff.
+
+It deflates happiness level, because of pessimism and helplessness.
+
+Avoiding for the sin strategy: dispassionate pursuit of passion. It means that we should have preferences before outcomes. But when we get outcomes we don't judge them as bad or as good.
+
+Dispasionate pursuit of passion enhances happiness level because of:
+
+*  Mitigates suffering that follows a negative outcome.
+*  Allows you to focus on opportunities that an outcome triggers and therefore helps you learn and grow.
+*  It make you more resilient, optimistic and positive about life.
+
+The strategy is better than typical appoarch: judging outcome before and after. It better than obsessive pursuit of passion!!!
+
+Three strategies for adopting the dipassionate pursuit of passion:
+
+*  Reflection on past negative outcomes. They can be positive in retrospective, even if they are negative in the moment.
+*  Actively look for ways in which seemingly negative evenat has triggered a positive outcome. Looks for the new opportinities.
+*  Daily record about three good thing with a twist. smth looked negative and turned out to be positive. Event shouldn't be too negative.
+
+Three good things with a twist excercise.
+
+## Week 6
+
+TBD
