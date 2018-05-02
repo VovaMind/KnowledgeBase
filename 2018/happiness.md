@@ -284,4 +284,39 @@ Three good things with a twist excercise.
 
 ## Week 6
 
-TBD
+Ignoring source within, solution - presence practice.
+
+Sam Harris "Waking up" book.
+
+Mindfulness is important and it helps. Being present is better for happiness than thinking about other stuff. Even in case of smth negative. It seems counter intuitive, especially in case of smth negative. But accepting your negative feeling actually helps.
+
+Mindfulness lowers stress. Analysing != mindfulness. It was more nagative in your mind than in actual life.
+
+Pictures of emotions in the body. Where is stress, anger etc.
+
+It's possible to use emotinal regulation strategies to feel confident and than mindfulness. It's true for smth bad.
+
+Focus on positive feelings, love and kindness.
+
+It's easier to start practice mindfulness on smth positive in your life.
+
+Mindfulness helps to select proper answer instead of reflexive answer. Mindfulness == my independece. Reactive too impulsivly or too analyticalty your will reply properly.
+
+It will improve sensory feelings. 
+
+It will take some time.
+
+It's wrong to judge your feelings. It will make worse feeling of presence.
+
+Reactive != spontaneous.
+
+Professor Barbara Frederikson Loving Kindness Meditation, positivityresonance.com (meditation practice).
+
+John Kabat-Zinn Meditataion.
+
+Merely obsereving smth without judgement makes us feel happy.
+
+Mindfulness helps to connect with our happiness source within. It improves phusical health, health of relationsships, chances of success by improving our emotional intelligence.
+
+It helps to deal with other 6 sins and reinforces 6 habbits.
+
