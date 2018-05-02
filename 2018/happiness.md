@@ -320,3 +320,14 @@ Mindfulness helps to connect with our happiness source within. It improves phusi
 
 It helps to deal with other 6 sins and reinforces 6 habbits.
 
+7 strategies to sustain happiness:
+
+*  Respond to daily questions posted by "peer coach".
+*  Frame your goals in positive terms. (being positive rather than being not negative).
+*  Change your enviroment to make your goals easier. Like, don't buy unhealthy food or avoid "bad" people etc.
+*  Join other seekers, dailygood.org - good news !!!!
+*  Serve as a mentor.
+*  Be open minded to trying our new habits and exercises. We naturally don't like new things. Over time you will like smth better. Give yourself a chance.
+*  Join camp o_O
+
+Final measurement: 30
