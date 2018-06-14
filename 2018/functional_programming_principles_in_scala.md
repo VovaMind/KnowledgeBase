@@ -48,4 +48,31 @@ vanila factorial isn't tail recursion, but it can be tail recursion with a helpe
 
 # week 2
 
-TBD
+functions in functional languages is a first-class values, functions can be passed as a parameter and returned as a value
+
+Higher order functions take other functions as a parameters or return functions
+
+example: def sum(f: Int => Int, lowerBound: Int, upperBound: Int): Int = ...
+
+Type A=>B means a function which takes argument of type A and returns type B.
+
+We can use anonymous functions in order not to polute namespace and in order to avoiding a big amount of small functions. 
+
+Anonymous functions is a kind of literals. Examples: (x: Int) => x * x, (x: Int, y: Int) => x + y. Type of parameters can be omitted if compiler can understand it by the context.
+
+Anonymous functions is a syntactic sugar: you can replace them with {def f = ... f}.
+
+We can modify sum function like: sum(f: Int => Int): (Int, Int) => Int = ...
+
+And then we can use it like sumInts = sum(x=>x)
+
+sum(cube)(1,10) -> we get sum of cubes functions and then we apply it to interval (1,10).
+
+We can define such functions without nested functions, just using smth like sum(f)(a+1, b).
+
+We can rewrite multiple argument functions like def f(arg_1)...(arg_n-1) = (arg_n => E). Or def f = (arg_1 => (arg_2 => ... (arg_n => E)...)). This is called *currying*.
+
+Functional languages associate to the right, Int => Int => Int <=> Int => (Int => Int).
+
+println - debug output.
+
