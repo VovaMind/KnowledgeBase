@@ -107,3 +107,72 @@ We can evaluate expression with classes: substitute class parameters, substiture
 You can use Infix notations, like r.add(s) => r add s. You can override standard operators like + or - etc. There are operations priority which is similar to the most of the languages. 
 
 In scala you can have crazy operator names, but it's better not to use it. Maybe in some very specific contexts.
+
+## week 3
+
+abstract class CLASS_NAME { ... }  It can contain members which are not defined. We can't create it by new operator.
+
+Example of abstract IntegerSet, and EmptySet implementation for empty sets. NonEmptySet also implements abstaction.
+
+override def toString = ...
+
+IntergerSet is a superclass, EmptySet and NonEmptySet are subclasses. Direct and indirect superclasses called base classes.
+
+With no superclass Object is used (from Java).
+
+override just a help for compiler, it doesn't do anything by itself. override is optional for abstaction implementetion, but if smth was defined in a superclass, than we must use override.
+
+we can use "object X extends Y" instead of "class X ...". This leads us to a singleton (only one instance). 
+
+```
+object Hello {
+  def main(args: Array[String]) = println("Hello")
+}
+```
+
+We can start it from the command line ("scala hello").
+
+Scala uses dynamic binging (dispatch), calling method depends on the run-time type.
+
+Dynamic dispatch is analogous to call high-order functions. 
+
+Code organised in packages. package X.Y.Z - at the program start. We can write import as:
+
+*  import package.ClassNameA
+*  import package.{ClassNameA, ClassNameB}
+*  import package._ (wildcard import)
+
+By default included:
+
+*  Members of *scala* package.
+*  Members of *java.lang* package.
+*  All members of the singleton *scala.Predef*.
+
+Int <- scala.Int, Object <- java.lang.Object, require (also assert) <- scala.Predef.require
+
+scala-lang.org/, /api/current.
+
+In scala we can have only 1 superclass. But it can contain several *traits*. Trait == abstact class, like:
+
+```
+trait Planar {
+  def height: Int
+  def width: Int
+  def area = height *  width
+}
+```
+
+Classes (objects) can inherit from at most 1 class, but from many traits. Like: class Square extends Shape with Planar with Movable ...
+
+Traits are similar to interfaces, but they are more powerfull, because they can contain fields and concrete methods.
+
+From the other hand traits can't contain (value) parameters, only classes can.
+
+Scala class hierarchy: scala.Any is the basic one, than scala.AnyValue (scala.Double, scala.Int ... - are subclasses). scala.AnyRef (scala.ScalaObject, java.lang.String, scala.iterable, scala.Seq, scala.List). scala.Null can be used for all references. scala.Nothing can be used for everything else.
+
+How Nothing is useful? It signals about bad termination or it can be element type of an empty collection.
+
+throw Exc - exceptions are similar to java. throw new Error("...")
+
+if (true) 1 else false - type estimation is AnyVal.
+
