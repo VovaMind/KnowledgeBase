@@ -176,3 +176,24 @@ throw Exc - exceptions are similar to java. throw new Error("...")
 
 if (true) 1 else false - type estimation is AnyVal.
 
+We can generalize type definitions by using params:
+
+trait List\[T\]
+
+class Nil\[T\] extends List\[T\]
+
+Type param is written in square brackets, like \[TYPE\].
+
+NoSuchElementException
+
+def singleton\[T\](elem: T) = new Cons\[T\](elem, new Nil\[T\])
+
+Than we can write singleton\[Int\](1), you can also write signleton(1), because it understanable from the context.
+
+Type params don't affect evaluation in Scala. This is called **type erasure**. It's true for Java, Scala, Haskell etc. But it doesn't true for C++, C# etc.
+
+Polymorhphism can work as:
+
+*  the function can be applied to arguments of many types. Generics, instances of classes/functions are created by type parameterization.
+*  the type can have instances of many types. Instances of a subclass can be passed to a base class.
+
