@@ -198,3 +198,66 @@ Polymorhphism can work as:
 *  the type can have instances of many types. Instances of a subclass can be passed to a base class.
 
 IndexOutOFBoundsException
+
+## week 4
+
+Scala is based on objects. In theory, we can build everything from scratch using only objects.
+
+Functions are objects with apply method:
+
+'''
+trait Function[A, B] {
+  def apply(x: A): B
+}
+'''
+
+object List and define "def apply(x1: T, x2:T)", and then we can do List(a, b).
+
+Subtype declarations:
+
+*  S <: T means, that S is subtype of T.
+*  S >: T means, that S id supertype of T, T is subtype of S.
+
+List\[subtype\] <: List\[supertype\] - it's correct, it's called covariant relationship. Arrays are not covariant.
+
+To be covariant, class should have only immutable operations and have correct generation for new objects (change output type in case of merge for Lists), good substitution (input is more concrete or more superclass, result is more general or more subclass). Liskov substitution principle.
+
+To implement expression tree we can use:
+
+*  General interfaces => huge implementation (N^2 of growth).
+*  def isInstanceOf\[type\]: Boolean, def asInstance\[T\]: T - it's very hacky and risky.
+*  OO implementation, define eval in the every class. This approach is limited if we need to look deeper.
+
+Pattern matching:
+
+'''
+def eval(e: Expr): Int = e match {
+  case Number(n) => n
+  case Sum(x, y) => ...
+}
+'''
+
+Patterns are constructed from:
+
+*  Constructors: Number, Sum etc.
+*  Variables: n, x, y ...
+*  Wildcards \_, matches everything.
+*  Constants.
+
+We can do substitution for the patterns matching.
+
+List - fundamental data structure. Lists are immutable and recursive. Arrays are mutable and flat.
+
+Lists are build from Nil and Cons (:: operator in scala).
+
+(1, 2, 3) means 1 :: (2 :: (3 :: Nil))
+
+Main operations: head, tail, isEmpty.
+
+Patterns for matching: Nil, p :: ps (p - head, ps - tail), List(p1, ..., pn) means p1 :: ... :: pn.
+
+We can implement sorting as insetion sort.
+
+## week 5
+
+TBD
