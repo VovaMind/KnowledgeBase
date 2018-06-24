@@ -20,6 +20,8 @@ Chuc-Bistro Asiatische Küche / Italienische Küche - Sushi - Curry - Eis - froz
 
 Maharaja Indisches Restaurant (Blutenburgstraße 79, 80634 München) - очень вкусное место.
 
+Yak & Yeti Himalayan Food House (Blücherstraße 1, 80634 München) - вкусное место, очень необычная еда.
+
 # Мороженное
 
 Eiskonditorei Sarcletti GmbH & Co.KG (Nymphenburger Str. 155, 80634 München) - очень вкусное итальянское мороженное.
@@ -33,6 +35,8 @@ Metzgerwirt (Nördliche Auffahrtsallee 69, 80638 München) - уютное мес
 Augustiner-Keller (Arnulfstraße 52, 80335 München) - вкусная еда, атмосферное место, довольно шумно внутри.
 
 Супная кухня на рынке ^_^
+
+Schlosswirtschaft Schwaige Nymphenburg GmbH (Schlosswirtschaft Schwaige Nymphenburg GmbH) - уютный beergarten, хорошее обслуживание, безумно вкусная еда, немного дороговато
 
 # Грузинская еда
 
@@ -53,7 +57,3 @@ Canal Grande (Ferdinand-Maria-Straße 51, 80639 München) - неплохая е�
 MOZZAMO (Gaßnerstraße 1, 80639 v München) - вкусная пицца.
 
 Ristorante Risotto (Ristorante Risotto) - очень-очень вкусное место. Хорошее обслуживание.
-
-# Мароканская еда
-
-Al Qaswaa (Schwanthalerstraße 26, 80336 München) - ???
