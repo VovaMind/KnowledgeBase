@@ -260,4 +260,32 @@ We can implement sorting as insetion sort.
 
 ## week 5
 
+List functions: .length, .last, .init (all except the last one), take n, drop n, (i).
+
+List functions: a ++ b, a.reverse, a updated (n, x), list indexOf x, list contains x, splitAt.
+
+pair, tuple.
+
+access: pair.\_1, pair.\_2. or val (x, y) = pair
+
+we can match pairs/tuples: case (nil, x) => ...
+
+We use parametrized functions as arguments. We have scala.math.Ordering. We can write "implicit" before the parameter.
+
+List functions: xs map (x => x \* x \* x). xs filter (condition). filterNot, partition (filter+filterNot), takeWhile (get elements while condition), dropWhile (drop elements while condition), span (drop+dropWhile).
+
+List functions: List(x_1, ..., x_n) reduceLeft Op = (x1 Op x2) Op x3 ...
+
+instead of (x,y) => x \* y, you can write \_ * \_
+
+List fuctions: foldLeft which takes additional param z, (z op x_1) op x_2, ...
+
+List functions: reduceRight (... x_n-2 op (x_n-1 op x_n)), foldRight.
+
+Associative and commutative operations have equavalent on reduceLeft/reduceRight. But if not then results can be different.
+
+We can use induction to prove correctness of the functional programs.
+
+## week 6
+
 TBD
