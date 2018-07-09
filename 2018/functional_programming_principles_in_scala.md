@@ -288,4 +288,15 @@ We can use induction to prove correctness of the functional programs.
 
 ## week 6
 
-TBD
+In Scala we also have Vector in addition to Array. Vectors implemented with 32-fold Trie (index representation in 32-based system and each digit is a branch in the Trie, we can implement deque in the same way with negative indexes). Vector has faster access, than List.
+
+Vector operations: x +: vector, vector :+ x. Attach an element. 
+
+Seq is superclass of Vector and List, Iterable is superclass for Seq.
+
+We also have Array. String and Array are subclasses of Seq.
+
+Ranges: x until y, x to y, x to y by z.
+
+Seq operations: exists, forall (is condition true for all elements), zip, unzip, flatMap (vs map? -> flatMap concatenes the result, map just maps), sum, product, max, min. 
+
