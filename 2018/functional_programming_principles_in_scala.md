@@ -300,3 +300,32 @@ Ranges: x until y, x to y, x to y by z.
 
 Seq operations: exists, forall (is condition true for all elements), zip, unzip, flatMap (vs map? -> flatMap concatenes the result, map just maps), sum, product, max, min. 
 
+Seq->IndexedSeq->Vector,Range
+
+flatten method
+
+for (i <- ... \[if i ...\]) yield i...
+
+for (s) e, where s - sequence of generators and filters, e - return expression. generator: p <- x, filter: if f.
+
+You can use {...} instead of (...). Also you can split by semicolons or by newlines.
+
+We have Set in scala and toSet instruction. Sets are unordered and don't have duplicates. main operation s contains x.
+
+mkString function, Vector.fill function
+
+Scala has Map data structure. val X = Map(a->b, ...)
+
+Map can be applied to the key: map(key), throws exceptions.
+
+map get key, return Some(x) or None.
+
+collection.sort, collection.sortWith, collection.groupBy.
+
+map withDefaultValue value
+
+Source.fromURL, input.getLines.toList.
+
+Scala immutable collections are: easy to use, concise (one word instead of loop), safe (type checking), fast (can work in parallel), universal (one vocabulary for all collections).
+
+Main topics: higher-order functions, case classes and pattern matching, immutable collections, no mutable state, flexible evaluation: by name/by value.
