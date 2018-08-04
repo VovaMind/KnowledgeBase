@@ -1,6 +1,7 @@
 # ПОДРОБКА РЕЦЕПТОВ
 
 ##### Содержание  
+[Бургеры, хотдоги](#fastfood)  
 [Паста + лазанья + ризотто](#pasta)  
 [Завтраки](#breakfast)  
 [Салаты + закуски](#starter)  
@@ -14,6 +15,17 @@
 [Супы](#soup)  
 [Десерты](#desert)  
 [Другое](#other)  
+
+<a name="fastfood"/>
+
+# Бургеры, хотдоги
+
+## Неряха джо
+https://www.youtube.com/watch?v=WxJ4SfmUGgY
+
+## Хотдоги
+https://www.youtube.com/watch?v=Duhx59QoK6U
+https://www.youtube.com/watch?v=tGqAmcfbqXE
 
 <a name="pasta"/>
 
