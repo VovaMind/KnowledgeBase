@@ -1,3 +1,15 @@
+# Чайные места
+
+Victorian cafe (rotkreuzplatz + центр города)
+
+Tushita Teehaus (https://www.google.com/maps/place/Tushita+Teehaus/@48.129389,11.5726953,17.75z/data=!4m12!1m6!3m5!1s0x479ddf672f5bfe97:0x1b2397b6d432031a!2sFraunhoferstra%C3%9Fe!8m2!3d48.1291248!4d11.5745578!3m4!1s0x479ddf674b8181eb:0xc054f0c711ec5222!8m2!3d48.1296949!4d11.5731767)
+
+# Пицца
+
+MOZZAMO (Gaßnerstraße 1, 80639 v München) - вкусная пицца.
+
+(должно быть очень вкусно!!!!) Enzo - Pizzeria and Bar; Nordendstraße 24, 80799 München; https://goo.gl/maps/snad1Kfsewq
+
 # Китайская еда
 
 XIANG (Alter Messepl. 4, 80339 München) - вкусно, немного грязно внутри
@@ -53,7 +65,5 @@ Bricelta (Kreuzstraße 3A, 80331 München) - очень вкусное мест�
 # Итальянская
 
 Canal Grande (Ferdinand-Maria-Straße 51, 80639 München) - неплохая еда, работает целый день.
-
-MOZZAMO (Gaßnerstraße 1, 80639 v München) - вкусная пицца.
 
 Ristorante Risotto (Ristorante Risotto) - очень-очень вкусное место. Хорошее обслуживание.
