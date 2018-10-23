@@ -22,6 +22,12 @@ China-Restaurant Shanghai (Sonnenstraße 3, 80331 München) - есть непл�
 
 Yuki Hana (Stollbergstraße 6, 80539 München) - неплохие суши, свежая рыба, есть неплохие блюда/салаты.
 
+Kaito (Gabelsbergerstraße 85, 80333 München) - очень вкусное (по слухам) место, но дорогое
+
+AOI Ramen Izakaya (Volkartstraße 22, 80634 München) - неплохой рамен
+
+Sapporo Ramen TAKUMI München (Heßstraße 71, 80798 München) - рамен
+
 # frozen yogurt
 
 Karlsplatz подземный переход. Очень вкусно, но мало места.
@@ -67,3 +73,7 @@ Bricelta (Kreuzstraße 3A, 80331 München) - очень вкусное мест�
 Canal Grande (Ferdinand-Maria-Straße 51, 80639 München) - неплохая еда, работает целый день.
 
 Ristorante Risotto (Ristorante Risotto) - очень-очень вкусное место. Хорошее обслуживание.
+
+# Израильское место
+
+Eclipse Grillbar (Heßstraße 51, 80798 München) - подают борщ
