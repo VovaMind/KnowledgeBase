@@ -182,12 +182,24 @@ https://www.youtube.com/watch?v=e6Qd_u1OvTs
 
 ## Блины с курой, грибы и сыром(!!!)
 http://www.say7.info/cook/recipe/542-Blinyi.html
+https://www.youtube.com/watch?v=mSvMIRci1no
 
 ## Оладьи
 http://www.say7.info/cook/recipe/851-Oladi.html
 
 ## Блины
 https://www.youtube.com/watch?v=m-KtYhhO730
+
+Переворот с оттяжкой и небольшим по амплитуде движением
+
+Не спеши перевернуть, спалить маловерятно а перевернуть легче позже 
+
+## Начинки для блинов
+
+https://www.youtube.com/watch?v=mSvMIRci1no
+
+https://www.youtube.com/watch?v=f8a8wHb__iA
+
 
 ## Пирожки с картофелем (+дрожжевое тесто)
 https://www.say7.info/cook/recipe/988-Pirozhki-s.html
