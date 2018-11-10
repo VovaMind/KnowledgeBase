@@ -30,7 +30,71 @@ TBD
 
 ## Language models (section)
 
-TBD
+### Deterministic Non-Autoregressive Neural Sequence Modeling by Iterative Refinement
+
+http://aclweb.org/anthology/D18-1149
+
+Autoregressive model
+
+LSTM with attention is a strong baseline
+
+RNN based problems - hard to aprallelize
+
+there are many great models with CNN and attention without recursion
+
+Non autoregressive models: model probabilities are independent from the previous words
+
+...
+
+Use supervised methods which optimize cross-entropy
+
+...
+
+### Large Margin Neural Language Model
+
+http://aclweb.org/anthology/D18-1150
+
+Word embeddings, LSTM, softmax with cross-entropy
+
+Large margin models
+
+### Targeted Syntactic Evaluation of Language Models
+
+http://aclweb.org/anthology/D18-1151
+
+RNN doesn't know about syntax/structural represenation
+
+Exisiting metrics (perplexity) isn't enough
+
+Many attractors makes performance worse???
+
+...
+
+### Rational Recurrences
+
+http://aclweb.org/anthology/D18-1152
+
+Weighted state automata is well study and iterpretable, no threory by RNN
+
+Strongly typed RNN
+
+Hidden states as string scores
+
+RNN is rationale if recurent update can be charaterized by set of automata
+
+...
+
+### Efficient Contextualized Representation: Language Model Pruning for Sequence Labeling
+
+http://aclweb.org/anthology/D18-1153
+
+ELMo, improved everything without annotations
+
+...
+
+Layer-wise dropout
+
+...
 
 ## IR / text mining (section)
 
