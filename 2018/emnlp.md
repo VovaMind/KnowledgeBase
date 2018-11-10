@@ -34,7 +34,105 @@ TBD
 
 ## IR / text mining (section)
 
-TBD
+### Improved Semantic-Aware Network Embedding with Fine-Grained Word Alignment
+
+http://aclweb.org/anthology/D18-1209
+
+Networks are everywhere, social networks, nodes are users
+
+Embeddings for the nodes
+
+Textual information which is associated with nodes can be helpful
+
+Previous works ignored textual information, they used sentence-level embeddings
+
+Two types of embeddings: structural and textual
+
+Text embeddings is a linear combination of the word embeddings
+
+Affinity matrix, scores are multiplication of smth (embeddings)
+
+node2vec model
+
+Structural embeddings were used as a parameter for training text embeddings
+
+### Learning Context-Sensitive Convolutional Filters for Text Processing
+
+http://aclweb.org/anthology/D18-1210
+
+CNN is a promising block in both encoders and decorders
+
+CNN can extract n-gram features, they are flexible to context size, and they are fast (you can use them in parallel)
+
+CNN limitation: weights are independent on text
+
+Add context aware filters
+
+Adaptive CNN (ACNN)
+
+QA context, build Q and A embeddings by those CNNs and than matching and output
+
+It's related to attention mechanism
+
+Experiment: document classifiction, sentence matching
+
+Works well on document classification, compared only with CNN-based approaches
+
+WikiQA
+
+It works much better with smaller amount of filters and works much better when we have not so many filers.
+
+Key result: filter generation mechanism, which improves traditional CNN
+
+### Deep Relevance Ranking Using Enhanced Document-Query Interactions
+
+http://aclweb.org/anthology/D18-1211
+
+Use only text, no clicks/links. Sometimes such resources aren't available
+
+Deep relevance matching model
+
+Document terms compared to query terms (~similarity matrix). Term score layer, input size = query term size, we inject document data there
+
+Relevance score layer (final)
+
+Use cosine similarity, it's hard to normalize, hard to do end-to-end training.
+
+Attention-based elemnt wise, softmax by documents terms, attention based doc encoding, it's deferrentiable
+
+using pooling???
+
+Using additional features, like BM25, negative sampling etc
+
+Datasets: BioASQ, TREC robust
+
+Gives: +5 nGCD to just td/idf, +1..2 to compare with usuaul deep learing systems
+
+it's statistically significant
+
+Sometimes deep learning is worse than just usual inverse index
+
+TREC dataset isn't optimal: small and keyword queries (~3 words in an avarage query)
+
+This helps for NL queries
+
+https://github.com/nlpaueb/deep-relevance-ranking
+
+### Learning Neural Representation for CLIR with Adversarial Framework
+
+http://aclweb.org/anthology/D18-1212
+
+### AD3: Attentive Deep Document Dater
+
+http://aclweb.org/anthology/D18-1213
+
+Predict document publishing time
+
+Sentence, context embeddings (bi-LSTM), syntactic embeddings, ... , (s-GCN), (at-GCN) ...
+
+Ordered event model
+
+...
 
 ##  Semantics V (section)
 
