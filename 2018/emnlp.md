@@ -42,7 +42,97 @@ TBD
 
 ## NER (section)
 
-TBD
+### Marginal Likelihood Training of BiLSTM-CRF for Biomedical Named Entity Recognition from Disjoint Label Sets
+
+http://aclweb.org/anthology/D18-1306
+
+Biomedical papers contain a lot of relevant information
+
+NER is a first step to extract info
+
+5 entity types
+
+Embeddings layer, Bi-LSTM, CRF
+
+Concatenation of two datasets
+
+Multi-CRF output, two CRFs for each dataset
+
+Share information between datasets
+
+Predicitions merge process
+
+Joined model helps
+
+MedMentions dataset, 19 entity types
+
+Train over multiple datasets can be helpful, even when labels are different
+
+Marginal CRF performs better
+
+### Adversarial training for multi-context joint entity and relation extraction
+
+http://aclweb.org/anthology/D18-1307
+
+Identify named entities and relations
+
+Adversarial training helps tp improve robustness by adding peturbations to input, it was helpful in NLP
+
+Character embeddings layer, LSTM, label embeddings
+
+Similarity matrix, tokes x tokens * relations for relations extraction
+
+Add perturbations to the embeddings layer
+
+DREC dataset
+
+Performs close to hand crafted features or even better
+
+Fater training
+
+### Structured Multi-Label Biomedical Text Tagging via Attentive Neural Tree Decoding
+
+http://aclweb.org/anthology/D18-1308
+
+Multiple labels from medical vocabulary, which has tree format - ontology
+
+Encoder/decoder model
+
+Recursive attention application
+
+Dataset from RCT publications
+
+...
+
+F1 < 0.45
+
+### Evaluating the Utility of Hand-crafted Features in Sequence Labelling
+
+http://aclweb.org/anthology/D18-1310
+
+Heavy feature engineering for a long time
+
+From 2010 deep learing models are popular
+
+Injext text and features (linguistic) to encoder, compute main task and input features
+
+Bi-LSTM, CNN, CRF
+
+Hand-crafted features: POS, gazetteers, word shape, dependecies ... (used one-hot encoding)
+
+Student t-test for significance
+
+Feature auto-encoder helps!
+
+Worse than best result, because the best used elmo embeddings instead of GloVe
+
+Features at output help and it's statistically significant
+
+Auto-encoder features trick can be helpful in many contexts
+
+### Deep Exhaustive Model for Nested Named Entity Recognition
+
+http://aclweb.org/anthology/D18-1309
 
 ## Sentiment analysis I (section)
 
