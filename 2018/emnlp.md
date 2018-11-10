@@ -38,7 +38,77 @@ TBD
 
 ##  Semantics V (section)
 
-TBD
+### A Unified Syntax-aware Framework for Semantic Role Labeling
+
+http://aclweb.org/anthology/D18-1262
+
+Syntactic structure vs semantic structure
+
+Argument identificaition, ..., classification of syntactic links???
+
+Syntax agnostic approaches vs syntax aware approaches
+
+...
+
+### Semantics as a Foreign Language
+
+http://aclweb.org/anthology/D18-1263
+
+Semantic dependency parsing
+
+There are three representations
+
+Extract semantic argument predicate relations
+
+Graph structure, words are nodes, edges are relations. It's not a tree, it can be not connected
+
+Consider it as a machine translation task
+
+Model: seq2seq, linearization
+
+Raw sentence into linearization, three models, we can share data. We can translate between different representations
+
+seq2seq bi-LSTM with attention
+
+linearization by using braces, depth first representaion
+
+Models for non-tree/non-reachable parts??
+
+Artifical shift edge, it doesn't exist in reality, but used for formalism
+
+re-entranceof words, we need unique representation, use relative to previous word index and surface form
+
+Multi-task learing is a useful trick here
+
+Can convert between different representaion quite well: 90+ F1
+
+PSD contains less data
+
+### An AMR Aligner Tuned by Transition-based Parser
+
+http://aclweb.org/anthology/D18-1264
+
+JAMR aligner, rule based
+
+...
+
+Proposed smth better, which is embeddings based
+
+Transition based parser
+
+### Dependency-based Hybrid Trees for Semantic Parsing
+
+http://aclweb.org/anthology/D18-1265
+
+Transform to machine interpretable representation
+
+FunQL, functional query language
+
+...
+
+### Policy Shaping and Generalized Update Equations for Semantic Parsing from Denotations
+
+http://aclweb.org/anthology/D18-1266
 
 ## NER (section)
 
