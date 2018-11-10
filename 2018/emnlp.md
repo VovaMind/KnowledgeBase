@@ -26,7 +26,25 @@ TBD
 
 ## Semantics I (section)
 
-TBD
+### Reasoning about Actions and State Changes by Injecting Commonsense Knowledge
+
+http://aclweb.org/anthology/D18-1006
+
+### Collecting Diverse Natural Language Inference Problems for Sentence Representation Evaluation
+
+http://aclweb.org/anthology/D18-1007
+
+### Textual Analogy Parsing: What's Shared and What's Compared among Analogous Facts
+
+http://aclweb.org/anthology/D18-1008
+
+### SWAG: A Large-Scale Adversarial Dataset for Grounded Commonsense Inference
+
+http://aclweb.org/anthology/D18-1009
+
+### TwoWingOS: A Two-Wing Optimization Strategy for Evidential Claim Verification
+
+http://aclweb.org/anthology/D18-1010
 
 ## Language models (section)
 
