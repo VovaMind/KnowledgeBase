@@ -46,7 +46,75 @@ TBD
 
 ## Sentiment analysis I (section)
 
-TBD
+### CARER: Contextualized Affect Representations for Emotion Recognition.
+
+http://aclweb.org/anthology/D18-1404
+
+Detect emotions
+
+Twitter analysis
+
+BOW, embeddings
+
+Graph-based patterns (proposed): thanks \*, for \* etc
+
+Wildcards are good for representing structure, but they don't have semantics
+
+Additional step for filling patterns using clustering
+
+Clusters from word2vec can be not sematically representative (good/bad etc)
+
+Used pretrained word2vec, where this problem was resolved
+
+Used CNN for input
+
+refine process
+
+state-of-the-art: FastText, EmoNet, CNN with pretrained embeddings, DeepMoji
+
+### Adversarial Deep Averaging Networks for Cross-Lingual Sentiment Classification
+
+http://emnlp2018.org/downloads/tacl-papers/EMNLP-TACL04.pdf
+
+TreeLSTM, DAN, DRecNN
+
+Most data available in English
+
+Cross lingual classification
+
+Before people used parallel corporas/machinal translation
+
+Low resource languages can not have parallel corporas
+
+Learn language-invariant features
+
+build bilingual word embeddings
+
+Joint feature extractor, sentiment classifier
+
+Naive way (use features as is) doesn't work - features distribution is diffirent
+
+One more loss to force language independent features requires parallel corporas
+
+Language descriminator, adversarial search
+
+If we can't classify the language - we build language-independent features
+
+Use word embeddings, because different languages can really don't share words
+
+Pre-trained bilingual word embeddings, it's possible to train it in fully unsupervised way
+
+Deep averaging network - embeddings average
+
+Wasserstein GAN
+
+Accuracy with +/- part
+
+CNNs are good: fast and high quality
+
+We can learn language-independent features, we can train at one language and use the model for another
+
+https://github.com/ccsasuke/adan
 
 ## QA III (section)
 
