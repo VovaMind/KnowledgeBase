@@ -18,7 +18,7 @@ https://drive.google.com/file/d/1GvGp8DQ8dIngIlOdGQ2G17q3ahp9bVaW/view
 
 ## User Trait Expression and Portrayal through Social Media (invited talk)
 
-TBD
+...
 
 ## Truth or Lie? Spoken Indicators of Deception in Speech (keynote talk)
 
