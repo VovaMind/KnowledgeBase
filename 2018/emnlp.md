@@ -14,7 +14,7 @@ TBD
 
 ## Deep Chit-Chat: Deep Learning for ChatBots (tutorial)
 
-TBD
+https://drive.google.com/file/d/1GvGp8DQ8dIngIlOdGQ2G17q3ahp9bVaW/view
 
 ## User Trait Expression and Portrayal through Social Media (invited talk)
 
