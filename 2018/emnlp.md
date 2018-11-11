@@ -22,7 +22,17 @@ TBD
 
 ## Truth or Lie? Spoken Indicators of Deception in Speech (keynote talk)
 
-TBD
+Deliberate choice to mislead
+
+...
+
+Colombia cross cultural deceptioc corpus
+
+64% F1 gives acoustic and embeddings, we can get 74 with using personal features
+
+Machnies perform better than humans
+
+Humans are better in the case of sensitive questions
 
 ## Semantics I (section)
 
