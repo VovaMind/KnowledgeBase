@@ -6,7 +6,7 @@ TBD
 
 ## Writing Code for NLP Research (tutorial)
 
-TBD
+https://docs.google.com/presentation/d/17NoJY2SnC2UMbVegaRCWA7Oca7UCZ3vHnMqBV4SUayc
 
 ## Standardized Tests as benchmarks for Artificial Intelligence (tutorial)
 
