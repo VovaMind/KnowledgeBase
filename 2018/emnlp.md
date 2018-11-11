@@ -2,7 +2,7 @@
 
 ## Graph Formalisms for Meaning Representations (tutorial)
 
-TBD
+https://drive.google.com/drive/folders/1fgqcGZkr_9Bhnla649yR6wSPps8Tu6ND
 
 ## Writing Code for NLP Research (tutorial)
 
