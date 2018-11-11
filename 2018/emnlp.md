@@ -10,7 +10,7 @@ https://docs.google.com/presentation/d/17NoJY2SnC2UMbVegaRCWA7Oca7UCZ3vHnMqBV4SU
 
 ## Standardized Tests as benchmarks for Artificial Intelligence (tutorial)
 
-TBD
+https://seominjoon.github.io/assets/slides/1810.tutorial.slides.pdf
 
 ## Deep Chit-Chat: Deep Learning for ChatBots (tutorial)
 
