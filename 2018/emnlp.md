@@ -30,17 +30,93 @@ TBD
 
 http://aclweb.org/anthology/D18-1006
 
+World state changing during the process, mental picture of the process, not explicit information
+
+Datasets are restricted, propara dataset, processes descriptions, annotations with states and entities
+
+The dataset contains NL, many topics, reach vocabulary
+
+How to build a model? 
+
+We want to predict states of entities, predict changes of states, predict state change by paragraph
+
+Encoder gives actions encoding, decoder gives small vocabulary of states
+
+bi-LSTM, bilinear attantion for encoding
+
+Decoder greedy strategy works ok, but it can be inconsistent
+
+We need to inject common sense to network
+
+Global common sense: you can't recreate or do smth after destroy
+
+Topic specific logic: uses semantic verb labeling (VerbNet), gives Bayesian network
+
+Prune bad branches, re-weight branches, beam search, many steps prediction
+
+Rule-based gives 35.9 F1. 50 F1 can be achieved without common sense, common sense gives +5
+
+Errors: implicit reference, coreference, knowledge retrieval
+
+https://github.com/allenai/propara
+
 ### Collecting Diverse Natural Language Inference Problems for Sentence Representation Evaluation
 
 http://aclweb.org/anthology/D18-1007
+
+NL inference, premise + hypothesis => entaild or not
+
+Dataset snli and multi nli; large scale datasets
+
+dnc collection, decomp.io
+
+Dataset based on VerbNet (manual curation)
+
+bi-LSTM and max pooling for extract sentences
 
 ### Textual Analogy Parsing: What's Shared and What's Compared among Analogous Facts
 
 http://aclweb.org/anthology/D18-1008
 
+Automatic visualization
+
+Similarity in shallow semantic structure
+
+Analogy frame, shared content, compared content
+
+Public dataset from manually annotated wallstreet journal dataset
+
+Graph based model, extract quantity entities, guess about agents, try to merge/build connections
+
+graph is analogous with analogy frame
+
+...
+
+evaluation by triples
+
+F1 ~62
+
 ### SWAG: A Large-Scale Adversarial Dataset for Grounded Commonsense Inference
 
 http://aclweb.org/anthology/D18-1009
+
+SWAG dataset
+
+adversarial filtering
+
+get data from video caption
+
+how to get wrong answers? adversarial filtering
+
+get similar style answers, but different semantics
+
+Manchine/human text classifier, replcar machine written, iterate until converting
+
+bi-LSTM with POS instead of rare words
+
+ELMo embeddings and esim give 60 accuracy, humans get 88
+
+OpenAI performs much better
 
 ### TwoWingOS: A Two-Wing Optimization Strategy for Evidential Claim Verification
 
