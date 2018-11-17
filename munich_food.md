@@ -18,6 +18,8 @@ Juli restaurant (Schloßschmidstraße 5, 80639 München) - вкусно, но с
 
 China-Restaurant Shanghai (Sonnenstraße 3, 80331 München) - есть неплохие блюда, всегда открыт, удобно расположен. Почему-то плохой рейтинг...
 
+Fuyuan (Augustenstraße 21, 80333 München) - вкусная и аутентичная китайская еда. Есть еще один китайский ресторан неподалеку.
+
 # Суши/японская
 
 Yuki Hana (Stollbergstraße 6, 80539 München) - неплохие суши, свежая рыба, есть неплохие блюда/салаты.
