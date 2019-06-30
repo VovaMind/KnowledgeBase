@@ -23,3 +23,9 @@
 Ехать до Prien am Chiemsee. Ехать около часа.
 
 Там кораблик, острова и дворцы.
+
+## Fischhausen-Neuhaus
+
+Поезд до Fischhausen-Neuhaus (bayrischzell напраление)
+
+Автобус 9562: Zum Spitzingsee (станция Spitzing Taubensteinbahn, скорее всего Spitzingsee Stümpflingbahn) 
