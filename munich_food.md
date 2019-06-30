@@ -79,3 +79,9 @@ Ristorante Risotto (Ristorante Risotto) - очень-очень вкусное �
 # Израильское место
 
 Eclipse Grillbar (Heßstraße 51, 80798 München) - подают борщ
+
+# Турецкие места
+
+Restaurant Merhaba, Pariser Str. 9, 81669 München, https://goo.gl/maps/YM53Dw8rzrCB1zcx9
+
+Lezizel Manti - Türkische Maultaschen, Corneliusstraße 6, 80469 München, https://goo.gl/maps/ShnLMSWV5ahAD1VBA
