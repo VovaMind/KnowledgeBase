@@ -50,6 +50,14 @@
 
 http://www.partnachklamm.eu/
 
-## x
+## Zum Mangfallknie (новый)
 
-y
+Ехать до города Valley: электричка до Holzkirchen, автобус до kreuzstrasse.
+
+## Fischbachauer Marchenwald (новый)
+
+Поезд до Fischbachau и там есть маршруты.
+
+## TODO idea
+
+Bayrishzell, Misbacher Oberland
