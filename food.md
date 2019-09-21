@@ -199,6 +199,10 @@ https://www.youtube.com/watch?v=e6Qd_u1OvTs
 
 # Блины + оладьи + пирожки + пицца (выпечка)
 
+## Шарлотка
+
+https://eda.ru/recepty/vypechka-deserty/sharlotka-tradicionnaja-21158
+
 ## Блины с курой, грибы и сыром(!!!)
 http://www.say7.info/cook/recipe/542-Blinyi.html
 https://www.youtube.com/watch?v=mSvMIRci1no
