@@ -335,3 +335,8 @@ https://www.youtube.com/watch?v=eXKScRnCyOA
 
 ## Шаверма
 https://www.youtube.com/watch?v=VyzK9Hr26KU
+
+## Пельмени
+https://www.say7.info/cook/recipe/935-Pelmeni.html
+
+Фарш из говядины и лука, без свинины.
