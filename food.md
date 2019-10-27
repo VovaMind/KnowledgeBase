@@ -206,6 +206,8 @@ https://www.youtube.com/watch?v=mSvMIRci1no
 ## Оладьи
 http://www.say7.info/cook/recipe/851-Oladi.html
 
+https://www.povarenok.ru/recipes/show/105828/ - более нейтральный рецепт
+
 ## Блины
 https://www.youtube.com/watch?v=m-KtYhhO730
 
