@@ -328,6 +328,10 @@ https://www.youtube.com/watch?v=PDLmORVpzWA
 
 https://www.youtube.com/watch?v=JC02bwuBKWo
 
+## Пряничные люди
+
+http://chudo-povar.com/pryanichnye-chelovechki-recept.html
+
 <a name="other"/>
 
 # Другое
