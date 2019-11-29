@@ -269,6 +269,10 @@ https://www.youtube.com/watch?v=IRaN1KYVEhY
 ## Драники
 https://www.youtube.com/watch?v=lGlJf5mdGko
 
+## Тортилья
+
+https://www.russianfood.com/recipes/recipe.php?rid=124460
+
 <a name="beef"/>
 
 # Говядина
@@ -311,6 +315,12 @@ http://www.elle.ru/stil-zhizni/food/goryachiy-priem-prostyie-retseptyi-znakovyih
 
 ## Куриный бульон
 https://www.youtube.com/watch?v=yxu_ColrQfM
+
+## Борщ
+
+https://www.say7.info/cook/recipe/259-Borsch.html
+
++ рецепт на канале Борща)
 
 <a name="desert"/>
 
