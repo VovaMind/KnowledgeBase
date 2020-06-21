@@ -63,5 +63,59 @@ Important points:
 
 ## Attention to detail fundamentals
 
-TBD
+### Focus
 
+Includes:
+
+*  Mindfulness.
+*  Process-orientation.
+*  Environment. Value your time / learn to say "no" / keep the desk free of distractions / turn off notification / control noise (music without words).
+*  Physiology. Brain consumed a lot of energy. Stretching + light excercise breaks. Regular excercises. Healthy food.
+
+### Knowledge
+
+Three parts: education, training, experience.
+
+Education: you know that smth exists.
+
+Training: you practiced with smth.
+
+Experience: you worked with smth / on smth.
+
+Some tasks required significant amount of knowledge.
+
+### Interest
+
+There are the following components there:
+
+*  Obligation. Peronal / professional / ethical etc.
+*  Enjoyment.
+*  Relevance.
+*  Criticality. People may not understand it.
+*  Rewards. Self-rewards. It can be important.
+
+### Systems
+
+*  Routine or repetition.
+*  Reminders.
+*  Checklist.
+*  Review / feedvack / verification.
+*  Calculators / logical tools.
+*  Rules / guidelines
+*  Standartization
+*  Charts / graphs
+*  Manuals
+
+### Right or wrong attitude
+
+**Thoroughness** is the key.
+
+Dedication to make thing right.
+
+Last touch for delivery. Nobody needs to correct your work (?).
+
+## End
+
+Build an organization that is details-oriented.
+
+Big picture matters.
