@@ -1,6 +1,7 @@
 # ПОДРОБКА РЕЦЕПТОВ
 
 ##### Содержание  
+[морепродукты](#seafood)  
 [Китайская еда](#chfood)  
 [Бургеры, хотдоги](#fastfood)  
 [Паста + лазанья + ризотто](#pasta)  
@@ -17,9 +18,22 @@
 [Десерты](#desert)  
 [Другое](#other)  
 
+<a name="seafood"/>
+
+# морепродукты
+
+## Фаршированные кальмары
+
+https://www.youtube.com/watch?v=7C86CkkHeno - кальмары от повара Емельяненко
+
+
 <a name="chfood"/>
 
 # Китайская еда
+
+## говядина по китайски
+
+https://povar.ru/recipes/govyadina_po-kitaiski_s_ovoshami-14069.html
 
 ## Гедза
 
@@ -355,6 +369,14 @@ https://www.say7.info/cook/recipe/259-Borsch.html
 <a name="desert"/>
 
 # Десерты
+
+## Пончики
+
+https://www.facebook.com/alina.farkash/posts/10217427049257483 - должен быть идеальный рецепт
+
+## Простой шоколадный торт
+
+https://m.facebook.com/story.php?story_fbid=4756357627738894&id=100000941115325
 
 ## Шарлотка
 
