@@ -1,5 +1,9 @@
 # Маршруты для прогулок
 
+## Большой список мест
+
+https://twitter.com/pdrobushevich/status/1363485746519306242?s=21
+
 ## Tegernsee (стабильный)
 
 Поезд до Gmund, потом пешком до Tergernsee и дальше.
