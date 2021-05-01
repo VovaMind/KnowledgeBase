@@ -397,6 +397,10 @@ https://www.say7.info/cook/recipe/259-Borsch.html
 
 # Десерты
 
+## Песочный пирог
+
+https://www.iamcook.ru/showrecipe/13258 - Песочный пирог с ягодами и сметанной заливкой
+
 ## Пончики
 
 https://www.facebook.com/alina.farkash/posts/10217427049257483 - должен быть идеальный рецепт
