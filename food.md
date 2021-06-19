@@ -85,6 +85,10 @@ https://www.youtube.com/watch?v=tGqAmcfbqXE
 
 # Паста + лазанья + ризотто 
 
+## Паста с томатным соусом от друже
+
+https://www.instagram.com/p/COVC-sQAVUr/?utm_medium=copy_link
+
 ## Лазанья
 https://www.youtube.com/watch?v=z5hyxelB1XE
 http://www.say7.info/cook/comments/696-Lazanya-gribami.html
