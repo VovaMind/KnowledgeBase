@@ -1,3 +1,8 @@
+# burgers
+
+*  https://hamburgerei.de/ - сеть рестиков
+*  http://beefcrew.de/en/ - место с бургерами
+
 # Чайные места
 
 Victorian cafe (rotkreuzplatz + центр города)
