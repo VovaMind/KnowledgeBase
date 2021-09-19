@@ -136,4 +136,43 @@ Good / bad drinks.
 
 ### Food allergies and sensitivities
 
-TBD
+Might be a problem.
+
+Tests.
+
+Experiments: avoid for 2 weeks and check.
+
+Food diary.
+
+### Dieatary supplements
+
+vitamins, minerals, herbs etc
+
+### General rules
+
+Follow the advices above.
+
+Things to avoid:
+
+*  getting overtired.
+*  caffeine, sugar, white flour.
+*  coffee.
+*  Staying up late.
+*  Push yourself.
+*  Energy suckers.
+*  Being negative to yourself.
+*  Feeling sorry for yourself.
+*  Bad foods.
+*  Never skip breakfast.
+*  Avoid fruits in the morning o_O
+*  Never eat stracy carbohydrates by themselves.
+
+### Road to recovery
+
+It won't be linear. It will take time.
+
+Keep a journal.
+
+## Part 4
+
+Functions of the adrenal glands. Biology stuff.
