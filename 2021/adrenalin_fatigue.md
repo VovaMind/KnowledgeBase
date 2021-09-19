@@ -1,6 +1,6 @@
 # Конспект книги Adrenalin Fatigue
 
-## part 1
+## Part 1
 
 adrenalin fatigue происходит когда слшиком много стресса и организм не справляется. Adrenal glands отвечают за это и они могут быть истощены.
 
@@ -39,5 +39,26 @@ Signs:
 It progresses over time. It's hard to formally diagnose.
 
 ## Part 2
+
+Questionnaire.
+
+Tracking the history.
+
+Some tests for home.
+
+Labratory tests.
+
+## Part 3
+
+It can be fixed.
+
+### Lifestyle
+
+There are health draining activities.
+
+**Excercise:**  "good for me" column and "bad for me" column. Do not list "should" things. Select 5 most important in each column and rank them. Then step by step eliminate 
+bad things and add more good things.
+
+Energy robbing: activities and people. It can be at home and at work. Environment is also a factor.
 
 TBD
