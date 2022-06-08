@@ -11,4 +11,9 @@
 
 ## Office environment
 
-TBD
+*  Office environment tend to be noisy/non-productive. As a results, people can do their best work only too late/early/at home. Coding war experiment: programming tasks for measuring productivity, it's a competitions, it helps to estimate different things (e.g. environment in this context). 
+*  Useful rules of thumb for statistics: best people outpeform worst by 10:1, best performers outperform median ones by 2.5:1, better than median half to worse than median half is 2+:1.
+*  Productivity non-factors: programming language, years of experience, number of defects (?), salary.
+*  Workplace environment plays a key role in productivity.
+*  Organizatios tend to save money on space. It's a fairly new IT trend. It's frustrating, people tend to hide out. Issue: hard to measure productivity, easy to measure workplace costs money -> management tends to pick a wrong approach.
+*  Brain time != body time. Flow is important, but it's hard to achieve / easy to break. Endless no-flow is frustrating. Time accouting based on flow, working time - interruptions time (~15? min to reach the flow after the interruption). E-factor = uninterrupted hours / body-present hours.  
