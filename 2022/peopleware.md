@@ -24,4 +24,5 @@
 
 ## Right people
 
-TBD
+*  Cultivate uniqueness and non-unifromity. Dress code is bad :) Professional (dress code etc) is a popular anti-pattern. Focus on your team, not the whole company.
+*  Leadership is a service. Cultivate innovation: free time to study, change accommodation. Use humor/goodwill, maximize valur to everyone, step up for tasks, do homework in advance.
