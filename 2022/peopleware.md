@@ -8,6 +8,7 @@
 *  Quality vs time restrictions. Less quality/excellence - eng folks are less happy. Management perspective is different - time is more important than quality. Ideal approach: veto on too strict deadlines.
 *  Parkinson's law: work expands so as to fill the time available for its completion. It's was a kind of joke intially. Many folks consider it seriously. Estimations aren't helpful for productivity, especially top-down ones. Estimations from third parties (system analysists etc) tend to work better than company ones, but it's still better without estimations. 
 *  We have tendency to seek simple non-working solutions for hard problems. In reality, the solutions tend to be complicated/unpleasant. Hot/new tricks/technologies aren't' the answer normally. Manager's function isn't to make people work, but to make it possible for people to work.
+*  Work split is three big chunks: alone, 1:1, more people. More people is ~20-30% -> optimize for working alone / in pairs.
 
 ## Office environment
 
@@ -17,3 +18,10 @@
 *  Workplace environment plays a key role in productivity.
 *  Organizatios tend to save money on space. It's a fairly new IT trend. It's frustrating, people tend to hide out. Issue: hard to measure productivity, easy to measure workplace costs money -> management tends to pick a wrong approach.
 *  Brain time != body time. Flow is important, but it's hard to achieve / easy to break. Endless no-flow is frustrating. Time accouting based on flow, working time - interruptions time (~15? min to reach the flow after the interruption). E-factor = uninterrupted hours / body-present hours.  
+*  Telephone can be bad: direct and iterrupting flow + potentially distracting for others. Can it be replaced by email?
+*  Appearance isn't that important. Noise cancellation + doors might be vital. Creative spaces can be combined with isolated spaces.
+*  Ideal can be described in many patterns/details/options. Take smal steps to improve the corporate space.
+
+## Right people
+
+TBD
