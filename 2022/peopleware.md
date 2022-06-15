@@ -26,3 +26,13 @@
 
 *  Cultivate uniqueness and non-unifromity. Dress code is bad :) Professional (dress code etc) is a popular anti-pattern. Focus on your team, not the whole company.
 *  Leadership is a service. Cultivate innovation: free time to study, change accommodation. Use humor/goodwill, maximize valur to everyone, step up for tasks, do homework in advance.
+*  Team jell concerpt - well-formed team.
+*  Ask for samples of their work. The portfolio can be useful. Aptitude tests are usually bad, since they don't cover many improtant aspects. Audition approach: ask them to present + estimate it together with the team. The topic should be work-related.
+*  Mixed team is a good idea. Women play a huge role in the industry. All-male teams are less effective. Absorbing newness has its limits.
+*  Generational differences are there. Partial attention is a modern issue. Partial attention might be problematic for meetings/flow at work. Emails/interruptions might be very problematic for productivity.
+*  Turnover story: what is the annual turnover in the organization + what is the cost of replacement. There are obvious costs: time with less people + hiring cost etc. Hidden cost: time for a peson to become productive + becoming productive will require costs from the other team members. High turnover brings multiple issues: no long-term involvement, feeling of disposability, being loyal seems stupid in this context. Mentality of permanence.  Best organizations strive to be the best, and they have low turnover. Widespread retraing is improtant for low tunrover. It's imortant in the long term, and not only cost effective.
+*  Expense != investment. Expense - paid for heat, investment - bought new computers. Expense - money lost, invenstment - money transfer. For people it can be both, but it's rather investment. Productivity loss due to changing a person: time to become productive + time from others to help. Ramp-up time is ~months. It's very conventional to consider money spent on people as expenses.
+
+## Growing productive teams
+
+TBD
