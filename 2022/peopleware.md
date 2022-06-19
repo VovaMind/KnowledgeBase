@@ -36,4 +36,5 @@
 ## Growing productive teams
 
 *  Jell in teams. Team != group. Jelled team: its production > sum of its part. They are happy to work together. They got momentum. Teams are formed around goals. Goal might be arbitrary, but team must accept it. It's not hard to foster (manager?) such a team. We need to align goals, not attain goals. Key signs are: low turnover, sense of identity, sense of eliteness, feeling of joint ownership of the product. Team != clique, but semantics might seem similar. It might look self-sufficient, irritating, exclusive.
-
+*  Teamicide concept: how not to get a jelled team. Hard to suggest ideas for doing it, but there are ways to prevent it. Antipatterns aka temicide strategy. Anipatterns are: defensive management, bureaucracy, physical separation, fragmentation of people's time, quality reduction of the product, phony deadlines, clique control. Most organizations don't set out consciously to kill teams, they just act that way.
+*  More antipatterns: motivational accessories, overtime.
