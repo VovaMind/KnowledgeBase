@@ -35,4 +35,5 @@
 
 ## Growing productive teams
 
-TBD
+*  Jell in teams. Team != group. Jelled team: its production > sum of its part. They are happy to work together. They got momentum. Teams are formed around goals. Goal might be arbitrary, but team must accept it. It's not hard to foster (manager?) such a team. We need to align goals, not attain goals. Key signs are: low turnover, sense of identity, sense of eliteness, feeling of joint ownership of the product. Team != clique, but semantics might seem similar. It might look self-sufficient, irritating, exclusive.
+
