@@ -41,4 +41,8 @@
 *  Competition within a team. There are different opinions about it, it can be for sure negative. Family example: siblings that don't compete with each other will have better relationships in the future; the same principal is also somewhat relevant to teams. e.g. coaching can be problematic in the competitive environment. More temicide items are: annual salary/merits review, management by objectivities, praise centrain workers for their accomplishments, awards tied to performance, performance measurement.  It leads to fostering competition -> hostile environment. Musical ensemble is a good methaphor.
 *  Spahetti dinner example: simple teamwork to become closer. Quick group success. As a good manager you need to provide frequent easy oppirtunities for the team to succeed together. Examples are: tiny pilots, demos, simulations. Habit of succeeding together. The best boss is the one who can manage this over and oevr without the team members knowing that they're managed.
 *  It's hard to gurantee team's gell, but some folks are better at it than others. Open kimono attitude != defensive management. You should trust folks with their autonomy, otherwise they aren't really useful for you. Example: sign prepared contract without reading them, i.e. you trust your counsel. Classical example of defensive management is physical oversight. Don't cause problems for your folks. Occaisonal insubordination is ok. Different projects are interested for different people, let them chose, and even not shiny projects will be picked. Take chances on people. Strive to natural authority.
-*  x
+*  Chemistry factor. Strategies for chemistry-building for a healthy organization: make a cult of quality, provide a lot of satisfying closure, build a sense of eliteness, allow and encourage heterogeneity, preserve and protect successful teams, provide strategic but not tactical directions. You can't always make a jelled team, but it's worth trying.
+
+### Fertile soil
+
+TBD
