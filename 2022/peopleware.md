@@ -45,4 +45,5 @@
 
 ### Fertile soil
 
-TBD
+*  System should be able to help itself. Fully automated system can't heal itself. Don't be too mad about the methodology. Declare standard, only if it's already there. Revisting the high-tech illusion: no magic methodology can actually help.
+*  Risks: can be justified or stupid. Main problem is likely sociological, not technological. We shouldn't run away from risks. It's very hard to manage the risk of our own failure. Risk management: it won't make risks to go away, but it will enable sensible mitigation. It might be fine not manager a risk that has a low probability. It's not reasonable not to manage a risk with huge consequences. Manageres have tendency to create challenges without good reason, and want to finish a project cheaply. Aggressive delivery date is a false challenge. 
