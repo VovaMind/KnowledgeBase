@@ -56,4 +56,6 @@
 
 ## It's supposed to be fun
 
-TBD
+*  Some chaos is fine. Concept: constructive reintroduction of small ammounts of disorder. Ideas: pilot projects, war games, brainstorming, provocatove training experiences, trainings, trips, conferences, celebrations, and retreats.
+*  Reports don't need parental guidance. 
+*  It's possible to make changes and improve stuff in your org. You need to belive that changes are possible.
