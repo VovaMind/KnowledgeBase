@@ -65,4 +65,22 @@ Internet and its usage are frequent, and they are a part of our attention.
 
 ## Deep work is meaningful
 
+Examples of folks. The most complicated thing -> challenge that drives me.
+
+Many disciplines suggest that the skillful management of attention is very important for good life, and the key to every aspect of your experience.
+
+Emails often bring shallow concerns, and it produces unhappiness.
+
+Deep work increases the meaning and satisfaction from your working life.
+
+Phychlogical agrument: concept of **flow**, or precence. It makes the life better.
+
+More free time might make stuff actually less enjoyable: folks need stuff to do.
+
+Satisfaction from high quality work.
+
+I will the focused life, because it's the best kind there is.
+
+## Work deeply
+
 TBD
