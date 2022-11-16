@@ -83,4 +83,49 @@ I will the focused life, because it's the best kind there is.
 
 ## Work deeply
 
+You have a finite amount of willpower that becomes deplepted as you use it.
+
+Key to develop a deep work habit: add routines and rituals. Idea: minimize the amount of your limited willpower in order to transit to a state of unbroken concentration.
+
+Different ways of integrating depth into schedule.
+
+*  Monstic approach. Idea: eliminate / radically minimize shallow obligations.
+*  Bimodal approach. Divide your time. You need to have clearly defined stretches to deep pursuits. Divide your working year or week examples.
+*  Rhythmic approach. Idea is to build simple regular habbit. No need to invest energy into deciding. Signals: marks on calendar, specific time of day. No barries to entry for going deep.
+*  Journalistic approach. Any time that you could find - focus on deep work. It's hard for novices. 
+*  Ritualize. Find and use your ritual. 
+    *  Where will you work and how long.
+    *  How will you work once you start to work.
+    *  How will you support your work. e.g. coffee / snack / light excercise.
+*  Make grand gestures. Working from an expensive hotel example. Trip to work from another place.
+
+Collaboration. It's an important aspect of work. But it's not a reason for open space: secluded areas are required. Random distractions kill depth. Combination of deep work/thinking and communication (e.g. whiteboarding) - way to produce better output.
+
+Consider you work as business, execute it like business. It implies the following disciplines:
+
+*  Focus on wildly important.
+*  Act on the lead measures. The idea is to prepare stuff in advance. Dedicate time/efforts.
+*  Keep a compelling scoreboard.
+*  Create a cadence of accountability. Talk about scoreboards etc.
+
+Be lazy sometimes. It's good. Your brain needs time to rest. The ideas:
+
+*  Downtime aids insights.
+*  Downtime helps recharge the energy beeded to work deeply.
+*  The work that replaces downtime is usually not that important.
+
+Deep work requires a commitment.
+
+End of the day ritual (example):
+
+*  Check pending tasks and figure out a plan there.
+*  Check the calendar and upcoming meetings.
+*  Idea: make sure that nothing urgent wasn't missed.
+*  Plan the next day.
+*  Ritual phrase, e.g. that's all for today.
+
+Shutdown ritual is helpful to give your mind rest. Coming up with specific plans is helpful. It might make you uneasy, if you skip it, and the ritual is used for a long time.
+
+## Embrace boredom
+
 TBD
