@@ -128,4 +128,42 @@ Shutdown ritual is helpful to give your mind rest. Coming up with specific plans
 
 ## Embrace boredom
 
+The ability to concentrate intensely is a an important skill.
+
+It's hard to focus, if there is a distraction.
+
+Multitasking is problematic, it's hard to filter out irrelevant stuff.
+
+Bad habits for concentration. It might be hard to concentrate, even if you want to.
+
+Improve your concentration limit. Two goals for training: improve your ability to concerntrate, overcoming your desire for distraction.
+
+Don't take breaks from distraction. Instead take breaks from focus. If hard to overcome, if you are wired for distraction.
+
+Internet Sabbath/detox concepts. It's probably not the best way forward.
+
+Schedule distraction (e.g. internet) windows in advance. And try to avoid it outside of these windows.
+
+The idea is that focusing suffers from the constant switching at a slightest hint of boredom. This teaches your mid to never tolerate an absence of novelty. 
+This is weaking the mental muscles that are responsible for you attention. It's hard to put this in practice.
+Relevant points are:
+
+1.  This strategy works even if your job requires lots of internet use / promt email replies.
+2.  Regardless of how schedule distraction blocks, you must keep the time outside these blocks absolutly free from distraction (internet / social networks).
+3.  Scheduling distraction (internet) at home as well as at work can further improve your concerntation training.
+
+It's important to rewire your brain to be comfortable resisting distracting stimuli. Distacting activities shoudln't hijack your attention.
+
+Schedule high intensity working days. Give yourself deadlines, maybe publicly commit to it. This will motivate you for greater intensity.
+
+Productive meditation. Walking, joggig, driving, showering. Focus your attention on a single well-defined problem. It requires practice to master.
+Some relevant suggestions are:
+
+*  Be wary of distractions and looping. Repeating similar results multiple times - looping.
+*  Structure your thiking. For writing - list of main points. Identify known stuff. Identify a specific next-step question that you need to answer. It's important to consolidate the results/gains/answers that were gained.
+
+Memorization. Mental sportsmen. The trick is not memory itself, but concentration. Scene picturing trick.
+
+## Quite social media 
+
 TBD
