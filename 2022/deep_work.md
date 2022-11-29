@@ -164,6 +164,52 @@ Some relevant suggestions are:
 
 Memorization. Mental sportsmen. The trick is not memory itself, but concentration. Scene picturing trick.
 
-## Quite social media 
+## Quit social media 
+
+Experiences of quitting social media: less stress etc.
+
+Social media tools fragment our time and reduce our ability to concentrate.
+
+Sabbatical idea, it's probably suboptimal approach. Maybe we should introduce a threshold for it.
+
+Benefits from social networks are often minor and somewhat random. It's rarely meaningful.
+
+The any-benefit approach: justification is based on any possible benefit / anything might be useful there.
+The problem with it: it ignores negative aspects.
+
+There are multiple negative aspects: addictive, robbing time and attention, it brings you to burned-out / hyperdistracted connectivity state.
+
+Farmer example / deep understaning of the domain. Something doesn't make sense economically / trade-offs consideration.
+
+The craftsman approach to tool selection: 
+
+*  Identify core factors that determine success and hapiness in your professional and personal life.
+*  Adopt a tool only if its positive impact on these factors substantially outweigh its negative impacts.
+
+Apply the law of the vital few to your internet habits. The key steps are:
+
+1.  Identify the main high-level goals in both your professional and personal life. Keep the descriptions on a fairly high level. You should have a small number of goals for both areas.
+2.  Identify 2-3 most important activites that help you satisfy the goal. Activities should be specific enough for clear picture of doing it, but not onetime outcome.
+3.  Consider network tools that you are using. Estimate a substantially positive/negative impacts.
+4.  Decision: use, only if positive impact >> negative impact.
+
+The law of the vital few: in many settings 80% of a given effect is due to just 20% of the possible causes.
+
+It's a zero-sum game: spending time on low priority things, you are robbing time from high priority things. Thus, you need to focus on high prioirity things.
+This is relevant for business, professional/personal goals.
+
+Idea of throwing away the stuff that you aren't actually using.
+
+Try to quit temporary and check whether you are missing anything.
+
+Don't use the internet to entertain yourself. 
+
+There is a lot of time outside of your working hours. Fight for depth, don't allow robbing your attention.
+
+Put more thought into your leisure time. Figure out in advance what you are going to do with your evenings and weekends before they begin.
+
+Give your brain a quality alternative for your free time. It will preserve your ability to resist distraction and concentrate.
+
+## Drain the shallows
 
 TBD
