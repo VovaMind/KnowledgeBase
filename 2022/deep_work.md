@@ -224,7 +224,7 @@ Shallow activities might take a lot of time, so there is not much time for deep 
 
 Schedule every minute of your day:
 
-*  We spwns much of our day on autopilot.
+*  We spend much of our day on autopilot.
 *  What makes the most sense right now?
 *  Use lined paper in notebook. Split your day into blocks.
 *  Things will go wrong with the schedule. It's ok.
