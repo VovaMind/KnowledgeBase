@@ -212,4 +212,48 @@ Give your brain a quality alternative for your free time. It will preserve your 
 
 ## Drain the shallows
 
-TBD
+Workweek shortening experiment: it was positive.
+
+Working hours vs productive hours.
+
+Month hold for business experiment: also worked positive.
+
+Deep work is exhausting, since it pushes you towards your limit. The human capacity is between 1h and 4h per day. You shouldn't push your after your limit: negative impact on you and work.
+
+Shallow activities might take a lot of time, so there is not much time for deep work.
+
+Schedule every minute of your day:
+
+*  We spwns much of our day on autopilot.
+*  What makes the most sense right now?
+*  Use lined paper in notebook. Split your day into blocks.
+*  Things will go wrong with the schedule. It's ok.
+*  If the schedule disrupted, then take time and revise it. Maybe you will do it multiple times.
+*  Not just sticking to it, but being thoughtful about future plans.
+*  You will underestimate required time. Best-case scenario thinking or wishful thinking - make an effort for accurate predictions.
+*  Overflow conditional blocks.
+*  Be libreal for task blocks. Schedule many blocks, keep them longer than needed.
+*  Concern: schedule might bring too much stress. Encourage spontaneity in the schedule. It won't be stressful, if you flexible/positive about it.
+*  Deep work requires treating your time with respect.
+*  Natural push back at first.
+
+Quantify the depth of every activity:
+
+*  Shallow work vs deep work.
+*  Criteria: how long would it take (in months) to train a smart recent college graduate with no spezialized training in my field to complete this task?
+
+Ask your boss for a shalow work budget.
+
+Finish your early (by 17:30 or so). Fixed-schedue productivity. It helps to drain shallows / push back on shallow activities.
+
+Become hard to reach. Some tips are:
+
+*  Make people who send you e-mail do more work.
+*  Do more work when you send or reply to e-mail. What is the most effective (in terms of messages generated) process for bringing this project to a successful conlcusions? Process-centric response. It might be hard at first / it will require more efforts for a single reply, but it optimizes stuff globally: less replies/distractions are required.
+*  Don't respond.
+
+## Conclusion
+
+Obsessive focus concept.
+
+Different levels of deep work adoption.
