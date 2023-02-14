@@ -50,4 +50,22 @@ Philosophical/political roots for life alienating communcation.
 
 ## Observing without evaluating
 
-tbd
+When we combine observation with evaluation, people are apt to hear criticism.
+
+Lanuage specific details.
+
+Separate observations from evaluation.
+
+## Identifying and expressing feelings
+
+Expressing our vulnerability can help resolve conflicts.
+
+Distinguish feelings from thoughts.
+
+Distinguish between what we feel and what we think we are.
+
+Distinguish between what we feel and how we think others react or behave towards us.
+
+## Taking responsibility for our feelings
+
+TBD
