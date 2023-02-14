@@ -26,4 +26,28 @@ It can be applied in many contexts.
 
 ## Communication that blocks compassion
 
-TBD
+Certain ways of communicating alieanate us from our natural state of compassion.
+
+In the world of judgements, our conern centerns on "who is what".
+
+Analyses of others are actually expressions of our own needs and values.
+
+Classifuing and judging people promotes violence.
+
+Comparisons are a form of judgement.
+
+Our lanuage obscures awareness of personal responsibility.
+
+We can replace language that implies lack of choice with language that acknowledges choice.
+
+We are dangerous when we are not consious of our responsibility for how we behave, think, and feel.
+
+We can never make people do anything.
+
+Thinking based on "who deserves what" blocks compassionate communication.
+
+Philosophical/political roots for life alienating communcation.
+
+## Observing without evaluating
+
+tbd
