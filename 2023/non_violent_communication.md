@@ -95,4 +95,44 @@ Emotional liberation stage: we take responsibility for our intentions and action
 
 ## Requesting that which would enrich life
 
+Use positive language when making requests.
+
+Make requests in clear, positive, concrete action language reveals what we really want.
+
+Vague language contributes to internal confusion.
+
+Depression is the reward we get for being "good".
+
+When we simply request our feelings, it may not be clear to the listener what we want them to do.
+
+We are often not consious of what we are requesting.
+
+Requests may sound like demands when unaccompanied by the speaker's feelings and needs.
+
+The clearer we are about what we want, the more likely it is that we'll get it.
+
+To make sure the message we sent is the message that's received, ask the listener to reflect it back.
+
+Express appreciation when your listener tries to meet your request for a reflection.
+
+Empathize with the listener who doesn't want to reflect back.
+
+After we express ourselves vulnerably, we often want to know what the listener is feeling / what the listener is thinking / whether the listener would be willing to take a particular action.
+
+In a group, much time is wasted when speakers aren't certain what response there're wanting.
+
+When the other person hears a demand from us, they see two options: to submit or to rebel.
+
+To tell if it's a demand or a request, observe what the speaker does if the request is not complied with.
+
+It's a demand, if the speaker then criticizes or judges.
+
+It's a demand, if the speaker then lays a guilt trip.
+
+It's a request if the speaker then shows empathy toward the other person's needs.
+
+Our objective is a relationship based on honesty and empathy.
+
+## Receiving empathically
+
 TBD
