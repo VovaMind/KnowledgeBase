@@ -68,4 +68,31 @@ Distinguish between what we feel and how we think others react or behave towards
 
 ## Taking responsibility for our feelings
 
+What others do may be the stimulus of our feelings, but not the cause.
+
+4 options for receiving negative messages:
+
+1.  Blame ourselves.
+1.  Blame others.
+1.  Sense our own feelings and needs.
+1.  Sense others's feelings and needs.
+
+Connect with your feeling with your need: "I feel X because I need Y".
+
+Distinguish between giving from the heart and beong motivated by guilt.
+
+Judgements of others are alienated expressions of our own unmet needs.
+
+If we express our needs, we have a better chance of getting them met.
+
+If we don't value our needs, others may not either.
+
+Emotional slavery stage: we see ourselves responsible for others' feelings.
+
+Obnoxious stage: we feel angry; we no longer want to be responsible for others' feelings.
+
+Emotional liberation stage: we take responsibility for our intentions and actions.
+
+## Requesting that which would enrich life
+
 TBD
