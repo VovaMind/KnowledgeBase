@@ -135,4 +135,36 @@ Our objective is a relationship based on honesty and empathy.
 
 ## Receiving empathically
 
+2 parts of NVC: expressign honestly, receiving empathically.
+
+Emphathy: emptying our mind and listing with our whole being.
+
+Ask before offering advice or reassurance.
+
+Intellectual understanding block empathy.
+
+No matter what others say, we only hear what they are (1) obersving (2) feeling (3) needing (4) requesting.
+
+Listening to what people are needing rather than what they are thinking.
+
+When asking for information, first exrpess our own feelings and needs.
+
+Reflect back messages that are emotionally charged.
+
+Paraphrase only when it contributes to greater compassion and understanding.
+
+Behind intimidating messages are merely people appealing to us to meet their needs.
+
+A difficult message becomes an opportunity to enrich someones's life.
+
+Paraphrasing saves times.
+
+When we stay with empathy, we allow speakers to touch deeper levels of themselves.
+
+We know a speaker has received adequate empathy when (1) we sense a release of tension, or (2) the flow of words comes to a halt.
+
+We need empathy to give empathy.
+
+## The power of empathy
+
 TBD
