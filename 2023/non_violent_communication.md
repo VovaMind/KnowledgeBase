@@ -167,4 +167,34 @@ We need empathy to give empathy.
 
 ## The power of empathy
 
+Empathy allow us to "reperceive our world ina new way and to go on".
+
+Don't just do something...
+
+It's harder to empathize with those, who apper to possess more power, status, or resources.
+
+The more we empathize with the other party, the safer we feel.
+
+We "say a lot" by listening for other people's feelings and needs.
+
+Rather than put your "but" in the face of an angry person, empathize.
+
+When we listen for feelings and needs, we no longer see people as monsters.
+
+It may be difficult to empathize with those who are closest to us.
+
+Empathizing with someone's "no" protects us from taking it personally.
+
+To bring a conversation back to life: interrupt with empathy.
+
+What bores the listener bores the speaker too.
+
+Speakers prefer that listeners interrupt rather than pretend to listen.
+
+Empathize with silence by listening for the feelings and needs behind it.
+
+Empathy lies in our ability to be present.
+
+## Connecting compassionately with ourselves
+
 TBD
