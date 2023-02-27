@@ -197,4 +197,34 @@ Empathy lies in our ability to be present.
 
 ## Connecting compassionately with ourselves
 
+NVC's most important use may be in developing self-compassion.
+
+We use NVC to evaluate ourselves in ways that engender growth rather than self-hatred.
+
+Avoid shoulding yourself.
+
+Self-judgements, like all judgements, are tragic expressions of unmet needs.
+
+NVC mourning: connecting with the feelings and unmet needs stimulated by past actions we now regret.
+
+NVC self-forgiveness: connecting with the need we were trying to meet when we took the action that we now regret.
+
+We are compassionate with ourselves when we are able to embrace all parts of ourselves and recognize the needs and values expressed by each part.
+
+We want to take action out of the desire to contribute to life rather than out of fear, guilt, shame, or obligation.
+
+Translating "have to" to "Choose to":
+
+1.  List of "problematic" activities.
+1.  Ack that you are doing it, since you "choose to"
+1.  I choose to... because I want...
+
+With every choice you make, be conscious of what need it serves.
+
+Be conscious of actions motivated by the desire for money or approval, and by fear, shame, or guilt. Know the price you pay for them.
+
+The most dangerous of all behavious may consist of doing things "because we are supposed to".
+
+## Express anger fully
+
 TBD
