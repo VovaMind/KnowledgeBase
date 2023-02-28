@@ -227,4 +227,47 @@ The most dangerous of all behavious may consist of doing things "because we are 
 
 ## Express anger fully
 
+Hurting people is too superficial :)
+
+We are never angry because of what others say or do.
+
+To motivate by guilt, mix up stimulus and cause.
+
+The cause of anger lies in our thinking - in thoughts of blame and judgment.
+
+When we judge others, we contribute to violence.
+
+Use anger as a wake-up call.
+
+Anger co-opts our engergy by diverting it toward punitive actions.
+
+When we become aware of our needs, anger gives way to life-serving feelings.
+
+Violence comes from the belief that other people cause our pain and therefore deserve punishment.
+
+Judgements of others contribute to self-sulfulling prophecies.
+
+Steps to expressing anger:
+
+1.  Stop. Breathe.
+2.  Identify our judgmental thoughts.
+3.  Connect with our needs.
+4.  Express our feelings and unmet needs.
+
+The more we hear them, the more they will hear us.
+
+Stay conscious of the violent thoughts that arise in our minds, without judging them.
+
+When we hear another preson's feelings and needs, we recognize our common humanity.
+
+Our need is for the other person to truly hear our pain.
+
+People do not hear our pain when they believe they are at fault.
+
+Practice translating each judgement into an unmet need.
+
+Take your time.
+
+## Conflict resolution and mediation
+
 TBD
