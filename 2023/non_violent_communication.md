@@ -270,4 +270,34 @@ Take your time.
 
 ## Conflict resolution and mediation
 
+Creating a connection between people is the most important thing.
+
+When you make the connection, the problem usually solves itself.
+
+Avoid the use of language that implies wrongness.
+
+Intellectual analysis is often received as criticism.
+
+Learn to hear needs regardless of how people express them.
+
+Criticism and diagnosis get in the way of peaceful resolution of conflicts.
+
+People often need empathy before they are able to hear what is being said.
+
+Action language requires the use of action verbs.
+
+Maintaining respect is a key element in successful conflict resolution.
+
+The objective is not to get the parties to do what we want them to do.
+
+Use role-play to speed up the mediation process.
+
+Role-play is simply putting ourselves in the other person's shoes.
+
+The purpose of interrupting is to restore the process.
+
+We need to be well practiceied at hearing the need in any message.
+
+## The protective use of force
+
 TBD
