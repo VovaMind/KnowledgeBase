@@ -300,4 +300,18 @@ We need to be well practiceied at hearing the need in any message.
 
 ## The protective use of force
 
+The intention behind the protective use of force is only to protect, not to punish, blame, or condemn.
+
+Fear of corporal punishment obscures children's awareness of the compassion underlying their parents' demands.
+
+Punishment also includes judgemental labeling and the withholding of privileges.
+
+When we fear punishment, we focus on consequences, not on our own values.
+
+Fear of punishment diminishes self-esteem and goodwill.
+
+What do I want this person to do? What do I want this person's reasons to be for doing it?
+
+## Liberating ourselves and counseling others
+
 TBD
