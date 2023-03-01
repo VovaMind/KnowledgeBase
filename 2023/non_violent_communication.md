@@ -328,4 +328,14 @@ I empathized with clients instead of interpreting them; I revealed myself instea
 
 ## Expressing appreciation in NVC
 
-TBD
+Compliments are often judgements - however positive of others.
+
+Express appreciation to celebrate, not to manipulate.
+
+Saying "thank you" in NVC: "This is what you did; this is what I feel; this is the need of mine that was met."
+
+Receive appreciation without feelings of superiority or false humility.
+
+We tend to notice what's wrong rather than what's right.
+
+
