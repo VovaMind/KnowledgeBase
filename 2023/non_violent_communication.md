@@ -314,4 +314,18 @@ What do I want this person to do? What do I want this person's reasons to be for
 
 ## Liberating ourselves and counseling others
 
+We can liberate ourselves from cultural conditioning.
+
+The ability to hear our own feelings and needs and empathize with them can free us from depression.
+
+Focus on what we want to do rather than what went wrong.
+
+Defuse stress by hearing our own feelings and needs.
+
+Defuse stress by empathizing with others.
+
+I empathized with clients instead of interpreting them; I revealed myself instead of diagnosing them.
+
+## Expressing appreciation in NVC
+
 TBD
