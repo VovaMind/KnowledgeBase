@@ -68,4 +68,33 @@ Idea from OOP/clean code: classes/method should be small. It might be verbose an
 
 ## Information hiding and leakage
 
+Deep modules hide information - advantage.
+
+Information leakage - design decision is reflected in multiple modules.
+
+Reflected in the interface - leaked.
+
+Leakage is a red flag in design.
+
+Temporal decomposition: structure of the system corresponds to time order in which operations will occur.
+
+Information leakage: the same knowledge occurs in multiple places, e.g. two classes both understand a file type format.
+
+When designing modules, focus on the knowledge that's needed to perform each task, not the order in which tasks occur.
+
+Temporal decomposition issue: execution order is reflected in mutiple places, thus it's a leakage.
+
+Information hiding can often be improved by making a class slightly larger.
+
+API for a commonly used feature shouldn't include details about other rare features.
+This would increase cognitive load: mostly of the users don't need to know about the rare features, thus no need to reflect this in interface.
+
+Information hiding could happen within a class.
+
+Some information should not be hidden: something should be exposed and reflected in interface.
+
+You should minimize the amount of information that is needed for module usage, but it's important to recognize parts of information that are needed to be exposed.
+
+## General-purpose modules are deeper
+
 TBD
