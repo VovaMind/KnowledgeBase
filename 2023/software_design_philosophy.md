@@ -43,3 +43,29 @@ Technical debt - problems caused by tactical programming.
 Strategic programming payoff: the window is roughly 6-18 months.
 
 Start ups - there is a good chance that strategic approach would be optimal there. There are counter examples for it.
+
+## Deep modules
+
+Modular design. Depedencies between modules. Interface vs implementation.
+
+Best modules: interface is much simpler than implementation.
+
+Interface should indicate what developers need to know for usage. It helps with unknown unknowns.
+
+Abstraction is a simplified view of an entity, which omits unimportant details.
+
+Deep modules: powerful functionality with a simple interface.
+
+Module analysis as cost versus benefit: benefit is functionality and cost is interface.
+
+Unix file system is a good example of a deep module. It's powerful yet simple.
+
+Shallow modules. Example: java I/O. Red flag: interface is complicated relative to its functionality.
+
+Problem with shallow module: small benefit (little functionality), hard to understand / learn / use (complicated interface).
+
+Idea from OOP/clean code: classes/method should be small. It might be verbose and hard to follow.
+
+## Information hiding and leakage
+
+TBD
