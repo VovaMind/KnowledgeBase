@@ -122,4 +122,14 @@ Eliminate special cases in code.
 
 ## Different layer - different abstraction
 
+Pass-through methods might be an anti-pattern. This might indicate that there isn't a clear division of responsibility between classes.
+
+There are exceptions for pass-through cases: dispatcher, decorator (maybe alternatives would be better).
+
+Interface vs implementation. Implementation should be different from interface.
+
+Pass-through variables. This adds complexity. It can be tricky to remove. Idea to solve: use context variable which is a global state representation.
+
+## Pull complexity downwards
+
 TBD
