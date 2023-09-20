@@ -97,4 +97,29 @@ You should minimize the amount of information that is needed for module usage, b
 
 ## General-purpose modules are deeper
 
+Over-specialization could cause complexity.
+
+General purposes modules lead to deep API. The reason: information hiding.
+
+Removing special cases in code is a way of code simplification.
+
+Implement new modules in a somewhat general-purpose way.
+
+Generality leads to better information hiding.
+
+Relevant questions are:
+
+*  What is the simplest interface that will cover all my current needs?
+*  In how many situations will this method be used?
+*  Is this API easy to use for my current needs?
+
+Push specialization upwards and downwards.
+
+*  Top level classes will be specialized for sure. But this might not be relevant to helpers.
+*  Sometimes downwards pushing is a good idea, e.g. device drivers. They would hide complexity behind abstractions.
+
+Eliminate special cases in code.
+
+## Different layer - different abstraction
+
 TBD
