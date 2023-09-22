@@ -132,4 +132,62 @@ Pass-through variables. This adds complexity. It can be tricky to remove. Idea t
 
 ## Pull complexity downwards
 
+It's more important for a module to have a simple interface than a simple implementation.
+
+When developing a module, look for opportunities to take a little bit of extra suffering upon yourself in order to reduce the suffering of your users.
+
+## Better together or apart?
+
+Separate general-purpose and special-purpose code.
+
+If the same code appears over and over again: you might not have the right abstractions.
+
+Each method should do one thing and do it completly.
+
+It should be possible to understand each method independently. It's also relevant to pieces of code. It's bad to read implementation of another thingy, if you try to understand one thing.
+
+Split/join -> base the decision on complexity.
+
+Pick the structure that results in the best information hiding, the fewest dependencies, and the deepest interfaces.
+
+## Define errors out of existence
+
+Exceptions add complexity.
+
+Classes with lots of exceptions have complex interfaces, and they are shallower than classes with fewer exceptions.
+
+Reduce the number of places where exceptions have to be handled.
+
+Define errors out of existence.
+
+Making software simpler -> reducing bugs.
+
+Exception aggregation idea.
+
+Just crashing is an option.
+
+## Design it twice
+
+It improves both design and design skills. Over time it will become easier.
+
+## Why write comments? Excuses
+
+Process of writing comments, if done correctly, will actually improve a system's design.
+
+Self-documenting excuse.
+
+If users must read the code of a method in order to use it, then there is no abstraction.
+
+Not enough time excuse.
+
+Comments get out of date and become misleading excuse.
+
+All the comments are worthless excuse.
+
+The overall idea behind comments is to capture information that was in the mind of the designer but couldn't be represented in the code.
+
+Well-written comments are not failures. They increase the value of code and serve a fundamental role in defining abstractions and managing system complexity.
+
+## Comments should describe things that aren't obvious from the code
+
 TBD
