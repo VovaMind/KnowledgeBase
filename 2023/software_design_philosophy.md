@@ -190,4 +190,44 @@ Well-written comments are not failures. They increase the value of code and serv
 
 ## Comments should describe things that aren't obvious from the code
 
+Developers should be able to understand the abstraction provided by a module without reading any code other than its externally visible declarations
+
+Conventions for comments.
+
+Don't repeat the code.
+
+Use different words in the comment from those in the name of the entity being described.
+
+Comments augment the code by providing information at a differnt level of detail.
+
+High level comments enhance intuition.
+
+Is you want code that presents good abstractions, you must document those abstractions with comments.
+
+If interface comments must also describe the implementation, then the class or method is shallow.
+
+Implementation comments: what and why, not how
+
+The main goal of implementation comments is to help readers understand what the code is doing.
+
+It's important to document cross-modules design decisions.
+
+## Choosing names
+
+Bad names cause bugs.
+
+Create an image with name.
+
+Names should be precise. Vague names can be misleading.
+
+If it's hard to find a simple name for a variable/method that create a clear image of it, that's a hint: the design might be not clear.
+
+Be consistent.
+
+Aboid extra words.
+
+Go style :)
+
+## Write the comments first (use comments as part of the design process)
+
 TBD
