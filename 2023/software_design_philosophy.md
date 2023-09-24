@@ -230,4 +230,87 @@ Go style :)
 
 ## Write the comments first (use comments as part of the design process)
 
-TBD
+Delayed comments are bad.
+
+Write the comments first.
+
+Comments are a design tool.
+
+Comments should be simple and complete. If it's hard to write, then it's an indicator of a bad design.
+
+Early comments are fun and not expensive.
+
+## Modifying existing code
+
+Stay strategic.
+
+Ideally when you have finished with each change, the system will have the structure it would have had of you had designed it from the start woth tha change in mind.
+
+If you aren't making the design better, you are probably making it worse.
+
+Maintaining comments: keep comments near the code.
+
+The best way to ensure that comemnts get updated is to position them close to the code they describe.
+
+Comments belong in the code, not the commit log.
+
+Avoid duplication while maintaining comments.
+
+If information is already documented someplace outside your program, don't repeat the doumentation inside the program; just refernce the external documentation.
+
+Higher-level comments are easier to maintain.
+
+## Consistency.
+
+Names, coding style, interfaces, design patterns, invariants.
+
+Document, enforce.
+
+Don't change existing conventions.
+
+Having a better idea isn't a sufficient excuse to introduce inconsistencies.
+
+## Code should be obvious
+
+Judicious use of white space helps.
+
+Comments help.
+
+Event-driven programming - it might be hard to follow the flow control.
+
+If something isn't clear from a quick reading, then it's a red flag.
+
+Generic containrs like std::pair can be confusing.
+
+Software should be designed for easy of reading, not easy of writing.
+
+Code that violates reader expectations is confusing.
+
+## Software trends
+
+OOP and iheritance - can be bad.
+
+Agile development. Increments of development should be abstractions, not features.
+
+Unit tests.
+
+TTD. TTD problem - focus on getting features done, rather than finding the best design.
+
+Design patterns. The greatest risk is over-application.
+
+Getters/setters - bad.
+
+## Designing for performance.
+
+In general simpler code is faster than complex one. Deep classes are more efficient.
+
+Measure before (and after0 modifying).
+
+Design around the critical path.
+
+## Decide what matters
+
+Minimize what matters.
+
+Think broadly.
+
