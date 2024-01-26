@@ -50,4 +50,65 @@ Keep a sleep log.
 
 ## Creating positive sleep support
 
-x
+Room acclimatisation is important. Allocate at least 30 mins per day to roomactivities during non-sleep time.
+
+Cot acclimatisation exercises.
+
+Security item. You need to wear it with you. It must be breatheable and washable, e.g. a piece of muslin cloth.
+
+Involve the security item in the bedtime routine.
+
+Dummy. It can be very helpful during first months. It reduces the risk of SIDS.
+
+Dummy might cause problems after the first 4-5 months: baby needs your help with re-plugging.
+
+Typically dummy night runs are caused by bad day sleep / child being too tired.
+
+6 months+ - one can consider disconnecting from dummy. It can be replaced by a security item.
+
+You can teach the child to be independent with dummy: put it in their hand and guide their hand to their mouth.
+
+One can reduce dummy befor 12 month, after that it might take until the child is 2-2.5 years.
+
+Reducing dummy time during the day is the first step.
+
+Dummy retrieval - have spare ones. Child can through this away as a game, doesn't allow it. Wait 3-5 minutes and then put it to the coat and guide the child. Don't be verbal with it.
+
+Coonected play and one-to-one time are important. Allocate 20 minutes of exclusive time. Face-to-face is important. A lot of eye and physical contact.  Get down  on the floor. Let them lead the play. Don't be distracted.
+
+Sleep environment:
+
+*  The room should be dark.
+*  Night light (4W) - dim light. Child should be able to see their hand in front of their face.
+*  Remove distractions: toys, mobiles, mirrors, hanging things, wardrobe door left open, hanging clothes. Lie on the child level and observe. Basically cot should contain the baby, bedding, and security item.
+*  Use a baby monitor.
+*  Regulate temperature and the clothes. General recommendation is 16-20 degree.
+*  Clothing for sleep. Sleeping bag is a good idea.
+
+Bedtime routine. It's a bridge between wakefulness and sleep. It's also useful for naps. You need an order of events, which you need to consistently follow.
+
+Bedroom is a good place for the bedtime routine. 20-30 minutes for relaxing. Dim light is important for it.
+
+Bedtime routime can be strarted from 6 weeks of age. No TV/electronics.
+
+Ideal routine includes the following steps:
+
+*  Quite the house an hour before the sleep. one-to-one time with the child.
+*  Finish the feed 45 minutes before the sleep to avoid assosiations.
+*  Consider a bath, face wash, teeth brush.
+*  Bedroom is a good place.
+*  Consider white noise during routine.
+*  Baby massage or relaxing excercised for an older child.
+*  Change the annpy, put on the pyjamas, get them to the sleeping bag.
+*  Sing a particular song or say the same words over.
+*  Quiet readong or story-time. Tone is more important than the words.
+*  Simple games are also an option, e.g. puzzles, blocks, cups etc.
+*  20-30 minutes wind-down.
+*  Have a specific end for the routine: words / lights etc. It will signal the end of the routine.
+*  Place the child to their cot. Relaxed, but awake.
+
+Music: white noise ot lullaby music. It can work as a sleep assosiation. Either bedtime routine or the whole night.
+
+## Gentle sleep shaping
+
+TBD
