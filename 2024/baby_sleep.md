@@ -111,4 +111,31 @@ Music: white noise ot lullaby music. It can work as a sleep assosiation. Either 
 
 ## Gentle sleep shaping
 
+New babies need a lot of sleep: 12-16h per day. It's often not in long intervals.
+
+New baby need lots of assitance to achieve sleep. Better sleep patterns should come soon after it.
+
+You can work on sleep foundations with a new baby.
+
+Actual sleep learning excercises are sutable for 6+ months.
+
+Safe sleep and SIDS risks:
+
+*  Always put the baby on their back. If they can roll over, then they can find they sleep position.
+*  Smoking / bed sharing are risk factors.
+*  Safest sleep place: your bedroom and cot for at least 6 months.
+*  Remove extra items from the cot.
+*  Don't let baby get too hot. Cellular cotton blankets are the best.
+*  New baby doesn't need a pillow.
+*  Breastfeeding reduces the risk.
+*  Consider a dummy.
+*  Tummy time during the day with supervision.
+*  Car seats, swings, infant seats aren't optimal for sleep.
+
+Structure and routine are important.
+
+Waking should happen before 7 a.m. / 7.30 a.m.
+
+Learning to read baby's sleep language: find a moment when a baby is getting tired.
+
 TBD
