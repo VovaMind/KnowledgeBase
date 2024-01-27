@@ -138,4 +138,39 @@ Waking should happen before 7 a.m. / 7.30 a.m.
 
 Learning to read baby's sleep language: find a moment when a baby is getting tired.
 
-TBD
+There are no bad habbits during the early days. New baby needs a lot of support from you: rocking, holding, comforting.
+
+Motion makes baby happy: use hands, swings, seats, excercise ball.
+
+Dummy helps to calm baby down.
+
+Small space for sleep is good at the beginning: they will feel safe.
+
+Room sharing for the first 6 months.
+
+Baby moving -> start thinking about safety strategies.
+
+React and adjust for child's temperament and needs.
+
+Bedtime ritual is important: dim lights, change nappy/dress, sing songs, use a certain mantra, feed, put to the sleeping space.
+
+Percentage of wakefulness approach: put baby to the cot more awake than asleep to encourage the ability to rely less on parents for going to sleep.
+Encorage them to do some work for falling asleep themselves.
+Babies who learn to go to sleep with minimal parental input would sleep better.
+e.g. now awake initially, then 5% awake etc.
+The best time to establish this approach is between 8 and 12 weeks of age.
+Try again, if initial response wasn't positive.
+
+In the first 4-6 weeks teach the difference between day and night. 10-12 weeks - daytime structure might appear.
+
+Getting outside helps, especially in afternoon.
+
+Baby massage helps to fall asleep.
+
+Encourage tummy time from 6th week.
+
+## Stay and support sleep learning approach
+
+6 months  - 2.5 years period is relevant.
+
+X
