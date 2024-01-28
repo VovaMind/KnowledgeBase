@@ -224,4 +224,52 @@ Don't leave them until they are asleep. Wait till they breathe regularly, 10 min
 
 ## 2.5-6 years old
 
-x
+Sleep situation can always be improved, problems for older children are common.
+
+10-13 hours of sleep is usually required, including a nap if needed.
+
+From 3 years (sometimes even 2) - many children no longer need napping. Look at the signals: e.g. sleep on the way.  quiet time is a good idea even without napping.
+
+If a child is tired / falls asleep, have evening meltdown, bad overnight sleep -> nap might be still needed.
+
+Stop readiness signals: shorter naps, they don't need naps some days of the week, stable night sleep without prior nap.
+
+Adapt for the new sleep patterns.
+
+Good timigs are: bedtime start from 7 p.m. to 9.30 p.m. + waking up from 6 a.m. After 8 p.m. - is too late.
+
+Explain changes to your child - trying new strategy.
+
+Involve your child into making decisions, e.g. change the bed orientation, new items, pyjamas etc. It's their place to sleep.
+
+Create comofortable bedtime zone: rugs etc.
+
+Stay and support approach variations are still effective.
+
+Make a bedtime book.
+
+Create a checklist for sleep, e.g. brush teeth, wash hands, get into pyjamas, read two stories, chat about the day, sleep excercises, lights out.
+
+Set an alarm to start bedtime.
+
+Give them choices: how do you want to go to bed, which pyjamas, which story to read etc.
+
+Lamp with timer: dimmer light over time.
+
+Relaxation excercises.
+
+Being anxious is normal, e.g. fear of dark or so.
+
+Nightmares may occur, it's quite common.
+
+Ideas are typical: better enviroment, comforting, routine, security item, no TV prior sleep, talk to you child.
+
+It can be signal of craving parental attention. Allow 10-20 min of 1:1 time led by your child.
+
+Breathing exercises, stretches etc.
+
+Meet sleeping objections in advance. Break the cycle of getting in and out of the bed.
+
+## Feeding and sleeping
+
+TBD
