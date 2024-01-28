@@ -173,4 +173,55 @@ Encourage tummy time from 6th week.
 
 6 months  - 2.5 years period is relevant.
 
-X
+It's important to combine this with the correct schedule of naps and feeds.
+
+Take small steps. It can be challenging in the short term.
+
+Any parent can start, decide on the specific situation.
+
+Usual stuff for the start: feed in advance, bedtime routine, lights off, white noise, put your child into the cot (awake but relaxed).
+
+You can either start it right away, or come back and do it. Retuning to the room is normal.
+
+It can be used for both overnight and naps.
+
+Position youself at the child level (floor, chair etc). Idea: comfort, reassure, support, and emotionally engage as they learn the sleeping process.
+
+Make yourself coomfortable: it takes time.
+
+Physical response is good. Ideas: stroke the temples, stroke the bridge of the nose, rub the back of the neck, pat, fingers walk, tummy, tom-tom, roll, wiggle.
+
+Balance between supporting and creating sleep associations.
+
+Don't allow falling to sleep with touching a parent.
+
+Verbal responses are good. Broken record technique: repeat the same thing again and again.
+
+Maintain an eye contact.
+
+Use distraction. Idea: stop crying, crying and sleep aren't related. Try to create a momnet of calm and pause from crying. 
+
+Distraction tricks: gently blow on their face, band the bars of the cot / floor, drum on the matteess, use white noise (loud->calmer), put their chest to change the crying vibration.
+
+Use other techniques during pockets of calm.
+
+Child standing: from 9 months they might able to stand or pull themselves up. Don't get into power struggle!
+
+Ideas: more activity during the day, use key words and phrases, teach them to going from standing to sitting.
+
+How to respond:
+
+*  Allow them to do it, comoft them, put them down once and return to the low position.
+*  Encourage them to come down on their own. Pat the mattress and stay down low.
+*  Wait till your child comes down.
+*  If a child gets sleep or dozy - you can help them.
+
+Picking up is ok, but it might create a dependency. 20-30 minutes cycle. Don't allow to fall asleep in your arms.
+
+Don't walk away during the pick up. 2-3 calm breaths -> return to the cot. Don't lift them up immediately once they are upset.
+
+Don't leave them until they are asleep. Wait till they breathe regularly, 10 minutes after falling asleep is usually safe.
+
+## 2.5-6 years old
+
+x
