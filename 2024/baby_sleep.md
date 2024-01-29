@@ -356,3 +356,36 @@ Solid food is recommended from 6th month.
 ## Feeding and sleeping #2
 
 6 months - 6 years.
+
+### 6-8 months
+
+* 10-12h night sleep. Maybe nighttime feed.
+* 3-3.5h daytime sleep.
+* 3 naps.
+* Feeds: every 4 hours, with solid food.
+* Solid food introduction. 9+ months - solid food should become more important and milk need is getting down.
+
+6-7.30 a.m. waking time. 
+
+7 p.m. - asleep time aim. 2-2.5h window of wakefulness between the end of the last nap and being in bed asleep.
+
+### 8-12 months
+
+*  10.5-12h of nighttime sleep.
+*  No more night feeds.
+*  2.5-3h daytime sleep.
+*  2 naps.
+
+Awake/asleep timings are as before.
+
+### 12-18 months
+
+*  10.5-12h of nighttime sleep.
+*  2.25-2.5h daytime sleep.
+*  2 naps.
+
+Awake/asleep timings are as before.
+
+### 18 months - 2.5 years
+
+TBD
