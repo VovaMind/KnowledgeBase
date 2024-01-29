@@ -270,6 +270,89 @@ Breathing exercises, stretches etc.
 
 Meet sleeping objections in advance. Break the cycle of getting in and out of the bed.
 
-## Feeding and sleeping
+## Feeding and sleeping #1
 
-TBD
+Early days - 6 months.
+
+Note: there are more timings and details here, I skipped some of it.
+
+### Up to 2 months
+
+*  Amount of sleep per 24h is 14-17h.
+*  5-8 naps.
+*  Daytime sleep might be not organized.
+*  Naps can be from 40 mins to 2-3h per sleep segment.
+*  Feed: every 3h.
+*  Feeds are on 24h basis with some longer over-night stretches as time passes.
+
+Bottle feeding is enough for a longer period of time.
+
+Introduce bottle from 6th week.
+
+Start the day before 7.30 am regardless of the overnight stuff.
+
+Morning light, morning feed.
+
+1st nap is within 45min and 1.5h. 2nd nap is withing 1.5h-2h. 3rd/4th naps are like the 2nd one.
+
+Last feed is around 10-11 p.m.
+
+Prepare the bed within 1.5h after the last nap.
+
+Cry checklist:
+
+*  Hungry.
+*  Tired.
+*  Cold.
+*  Bored.
+*  Nappy change.
+
+Self-soothing skills aren't there yet.
+
+From 6th week: start creating a bedtime routine. Bedtime will be quite late.
+
+Support them with learning sleeping: percentage of wakefulness, physically comfort, support them.
+
+3-8 naps, 45m-2h throughout the day.
+
+### 2-4 months
+
+* 10.5-12h overnight sleep with feeds.
+* 4-5h daytime sleep.
+* 3-6 naps.
+* Daytime should become a bit more organized.
+* Feed: every 3h, possibly a bit longer overnight.
+
+Wake time 6-7.30 a.m. Feed is within first 30m.
+
+1st nap is within 1-2h. its duration is 40m-1h or so. 2nd feed is within 3h.
+
+2nd nap is within 1.5-2h being awake.
+
+Nap/feed cycles.
+
+Prepare for the bedtime within 1.25-1.5h.
+
+Nighttime feeds are still required.
+
+Sleep disturbing factors.
+
+### 4-6 months
+
+*  10-12h night sleep, maybe without feeds.
+*  Nighttime feeds can still be required up to 9 months of age.
+*  3-4h of daytime sleep.
+*  3-5 naps.
+*  Feeds: 3-4h windows, with or without solid food.
+
+Encourage feed and sleep rhythm.
+
+Solid food is recommended from 6th month.
+
+6-7.30 a.m. waking time. Feed as before.
+
+1st nap - within 1.5-2h of waking. Its duration is within 45m-1h. 1.5h is maximum.
+
+## Feeding and sleeping #2
+
+6 months - 6 years.
