@@ -388,4 +388,45 @@ Awake/asleep timings are as before.
 
 ### 18 months - 2.5 years
 
+* 10.5-12h night sleep.
+* 1-2h daytime sleep.
+* 1 nap.
+
+6-7.30 a.m. waking time. 
+
+7-8 p.m. - asleep time aim.
+
+## 2.5 - 6 years
+
+*  Nighttime sleep 10-13h.
+*  Daytime sleep 0-2h.
+*  Naps: 0..1.
+
+Wake/go to sleep timing as before.
+
+## Developing the daytime routine
+
+Sleep required from the official US sources:
+
+4-12 months -> 12-16h
+1-2 years -> 11-14h
+3-5 years -> 10-13h
+6-12 years -> 9-12h
+13-18 years -> 8-10h
+
+Wake from 6 a.m. but no later than 7.30 a.m.
+
+Common daytime sleep isseus:
+
+*  Difficult to put down, short sleep periods.
+*  Wrong balance. Second nap is the most significant. Ideally 1st and 2nd naps are around the same duration.
+*  Hard to achieve/maintain the nap.
+*  Dependencies.
+
+Wrong bedtime might cause the issues. It should be from 6 p.m. to 8 p.m for age from 6 months to 6 years. 
+
+Don't get up before 6 a.m., e.g. 4 a.m. might be too late.
+
+Changes might cause inital push back - you need to get it time and commmit.
+
 TBD
