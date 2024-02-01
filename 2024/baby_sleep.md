@@ -467,4 +467,31 @@ Routine start - start with 3-7 days working only on timetable.
 
 ## Overnight plan
 
-TBD
+Alternate supporting methods to avoid associations.
+
+Herd them to their bed, don't lift them, don't allow hand holding.
+
+Initally the new process might be hard.
+
+Progress takes time. 14-21 days is a timeframe.
+
+Nighttime feeds - does child really need it?
+
+Child needs nighttime feeds under 6-7 months. Beyound that - not that much, especially once solid foods are established.
+
+Overnight feed might be a dependency.
+
+Frequent nighttime feeds - drinking more than nessecary. Too much - wake up signal.
+
+Don't over rely on milk beyound 12 months.
+
+From 6-7 months, and by 9 months - children might not need nighttime feeds. Talk to the doctor.
+
+After 12 months - it's not a hunger problem, but a sleep association problem.
+
+Drip feed over night, full amount of drinking, dreem/sleepy feed.
+
+It might be hard to break such cycles.
+
+7-10 nights are needed to improve.
+
