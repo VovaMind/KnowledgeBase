@@ -429,4 +429,42 @@ Don't get up before 6 a.m., e.g. 4 a.m. might be too late.
 
 Changes might cause inital push back - you need to get it time and commmit.
 
+2 hours between the last meal and being in bed asleep.
+
+6-7.30 a.m. wake up.
+
+Morning feed within 30 mins, breakfast is within 30 mins.
+
+Prepare the 1st nap within 20 mins before the end of your suggested wakeful period.
+
+Duration is within 40-45 mins to 1h+. 1h30m is the maximum.
+
+12+ months - maybe wake them up after 1h to create space fo nap 2.
+
+2-3h wakeful period between nap 1 and nap 2.
+
+After a nap - ignore sleep signals, wait for 1h30min at least.
+
+2nd nap should be 1h+. It's the most important nap.
+
+3rd map (under 8 months) - 10 mins to 1h+. Duration isn't important, but should be over by 4.30/5 p.m.
+
+An extra nap is ok, if naps were too short / fininshed too early.
+
+Don't be afraid of very early bedtime, 6 p.m. onwards is ok. It's not a long term solution.
+
+Dinner should be around 5-5.30 p.m. once solid food is established.
+
+Last feed at around 6-6.15 p.m.
+
+Milk feeds should be finished 45 mins before bedtime.
+
+Start the bedtime routine at 6.20-6.30 p.m.
+
+Feed, bath, bedtime routine - 45 mins at most.
+
+Routine start - start with 3-7 days working only on timetable.
+
+## Overnight plan
+
 TBD
