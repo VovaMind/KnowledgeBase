@@ -495,3 +495,37 @@ It might be hard to break such cycles.
 
 7-10 nights are needed to improve.
 
+Consult with the doctor and try to regulate the number of feeds.
+
+Breastfeeding might be longer than bottle - consider 10 min windows.
+
+Gradually reduce the time and the number of feeds.
+
+## Stages to sleep
+
+To remove dependency on parental input - start phasing parents out of the room.
+
+Stay and support approach. Do less - touching, talking, intervention.
+
+Manage situations when child disagrees.
+
+User your presence as a barganing tool: you may leave the room, count to 10, return to the room and escort them back to the room.
+
+Escorting back - avoid touching, holding, lifting. Try to reduce the dependence.
+
+Doing less of everything over time.
+
+Increase wait and return time to 2-3 minutes.
+
+Longer process by nights 10-14 you should get some progress.
+
+Interval approach - teach to sooth indepedently. 5-10-15 minutes for return to the child, start smaller is ok, 15 is the upper bound.
+
+Use more verbal/visual stuff instead of physical.
+
+30s-1m stay before the leave.
+
+30s pause in crying - wait, even if it's a check-in time.
+
+Interval approach isn't optimal overall, but it works well for some children.
+
