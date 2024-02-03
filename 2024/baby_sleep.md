@@ -529,3 +529,42 @@ Use more verbal/visual stuff instead of physical.
 
 Interval approach isn't optimal overall, but it works well for some children.
 
+Time around 5 a.m. is very fragile period for sleep. 6 a.m. is the earliest allowed time for waking up.
+
+Take care for external light. Room temerature, noises etc are factors.
+
+Don't shift the day cycle due to waking up early. Maybe adjust bedtime, if the child wakes up too early.
+
+Problematic factors are: sickness and teeething, lack of consistency from the parent side, reflux, digestive issues, food sensitivities, allergies etc.
+
+## Landing the nap
+
+Naps are important: proper resting before the night, correct balance, a lot of naps early on.
+
+Cot is the best place for sleep.
+
+1st/2nd nap - cot, 3rd/4th naps can happen outside. Buggy sleep can be organized inside.
+
+Dark room etc.
+
+Shorter version of bedtime routine.
+
+10-15 min nap time routine.
+
+1st nap is the easiest one to work on.
+
+Nap rhythms might not be established till 6th months.
+
+Naps can be short, that's ok.
+
+Spend time in the room - reduce anxiety.
+
+Ideal timetable:
+
+*  1st nap start 9-9:30 a.m.
+*  2nd nap around 13-13:30.
+*  Naps are done around 3-3:30 p.m. - when the child id 8 months.
+
+## Sleep management
+
+x
