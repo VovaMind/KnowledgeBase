@@ -567,4 +567,33 @@ Ideal timetable:
 
 ## Sleep management
 
-x
+Avoid too many days in a row of late sleep and missed naps.
+
+Traveling: try to preserve sleep patterns, bring familiar items, record audio, provide support and encouragement.
+
+Don't overthink the clocks change. Child needs some time to adopt.
+
+Expect sleep regression and growth spurts, especially during first years.
+
+Most notable sleep regressions: 4 months, 6 months, 8 months, 0-10 months, 12 months, 18 months, 2 years.
+
+Duration of a regression is 2-6 weeks.
+
+How to deal with regressions: extra feed, more support/comfort, don't allo child to become overtired, share the load.
+
+Nightmares - nappen during the 2nd part of the night. Avoid stress/scary stuff before sleep. Reassurance and comoft required. Child might be anxious after it.
+
+Night terrors - happem within the first few hours of sleep. Child is awake, frightened, screaming, sweating, racing heart. 
+
+Night terrors can last up to 15 mins. Child usually won't remember it by morning. The biggest reason - being overtired.
+
+Night terrors: don't wake your child, don't pick or touch, ensure safety, avoid discussing in the morning - child won't remember it.
+
+Try to establish nightsleep/naps before the kita.
+
+Separation anxiety. Tell you child about what is happening. Provide a safe item. 
+
+Increased mobility, e.g. from 9 month - child has better things to do than sleep. Give lots of practice time during the day, safe place.
+
+Stick to cot as long as possible. Don't rush for a bigger bed.
+
