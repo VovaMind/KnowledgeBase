@@ -46,4 +46,30 @@ Recommendations for home are:
 
 ## soul fever
 
-TBD
+Comparison between pshysical fever and soul fever.
+
+How to help: simplifications.
+
+Noticing. 1st step. Ignoring symptoms could make it worse.
+
+Quieting things down. Quiet weekend (maybe 3 days) is a good start / might be enough.
+
+Bringing them close. Children need care. Quiet assurance and our presence/availability are important. The safest/most peaceful place: home or other.
+
+There are many factors which could cause it.
+
+Running its course. Such issues have their own duration. It's normal/natural, give it time.
+
+A slow, strong return. You would notice their improvements after it. Carving time for children - emphasis on connection.
+
+Recommendations are:
+
+*  You would notice and respond, when something isn't right.
+*  Suspend normal routines, when children are overwhelmed (physically or emotionally).
+*  Take care for them: bring close, watch etc in case of well-being issues.
+*  kinds can afford time to get better/recover.
+*  You would love and look beyond their less-than-best selves.
+
+## Evironemnt
+
+TODO
