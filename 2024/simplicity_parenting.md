@@ -72,4 +72,83 @@ Recommendations are:
 
 ## Evironemnt
 
-TODO
+Media pressure/influence on both kids and parents.
+
+Too much stuff leads to too many choices.
+
+The number of toys your child sees, and has access to, should be dramatically reduced.
+
+As you decrease the quanity of your child's toys and clutter, you increase their attention and their capacity for deep play.
+
+An avalance of toys invites emotional disconnect and a sense of overwhelm.
+
+If you give a child less and less complexity, they become more interested, and this cultivates true power of attention.
+
+Discard pile rules are:
+
+*  Broken toys.
+*  Developmentally inappropriate toys.
+*  Conpetually "fixed" toys.
+*  Toys that "do too much" and break too easily.
+*  Very high-stimulation toys.
+*  Annoying/offensive toys.
+*  Toys the claim to give a developmental edge.
+*  Toys you are pressured to buy.
+*  Toys that inspire corrosive play.
+*  Toy multiples.
+
+Organize remaining toys: storage + relevant now ones.
+
+Children's play flourishes when we "let it" rather than "make it" happen.
+
+Relevant aspect are:
+
+*  Trial and error.
+*  Touch. Natural materials. Food preparation example.
+*  Pretending: imaginary play. 
+*  Experience. Children need experience not entertainment.
+*  Purpose and industry. Children love to be busy and useful.
+*  Nature. Helps to cope with the stress of modern life.
+*  Social interaction.
+*  Movement. Children need to move.
+*  Art and music.
+
+Books. Same principles are also applicable for books.
+
+We honor the value of something (like reading) in our child's life by fostering a deep - not disposable - relationship to it.
+
+Book-relevant point are:
+
+*  Is it developmentally appropriate?
+*  Is it based on a product or television character?
+*  Does it tell an unfolding story or is it "all over the place"?
+
+Clothes. It should also be simplified.
+
+By simplifying clothes you easy transitions. You offer freedom from choice and overload, while still allowing for the slow and sure development of personal expression.
+
+Scent / lighting -> amygdala triggering -> stress reaction.
+
+Too much stimulation causes sensory overload. Adjust the tone and volume not only of sounds but also of smells and light in your home.
+
+Recommendation for child's room are:
+
+*  Unclutterd and restful to sense.
+*  Soft light and colors, sense of order and space.
+*  Room to move and play, draw and build.
+*  Without toys that are broken, forgotten, or heaped in piles.
+*  With a few of beloved toys in sight and the rest in 1 or 2 baskets on the floor, covered with cloth.
+*  Handful of books, while others are stored ready.
+*  Peaceful/secure place for sleep, with natural scents of home with minimal on no lighting.
+
+Othe recommendations are:
+
+* Child creates new ways of play, instead of requiring new toys.
+* Spce in the clothes storage.
+* Child's own tools and their happy sense of purpose when they work/play at cooking, cleaning, gardening.
+* Child lives in now of they story or play, instead of always expecting what's next.
+
+
+## Rhythm
+
+TBD
