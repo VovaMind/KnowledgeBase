@@ -151,4 +151,50 @@ Othe recommendations are:
 
 ## Rhythm
 
+Increasing the rhythm of your home life is one of the most powerful ways to simplifying your children's life.
+
+Rhythm and ritual are what we aim for; predictability may be what we can achieve.
+
+With predictability a child knows what to expect.
+
+Rhythms establish a foundation of cooperation and connection.
+
+Any repeated "note" of activity of the day can be made more rhythmic.
+
+Rhythm builds islands of consistency and security throughout the day.
+
+The rhythms of family life provide consistency; the best ones also offer connection.
+
+Relationship are often built in the intervals, the spaces between activities, when noting much is going on.
+
+Committing to rhythm builds trust and relational credits: a connection that is "bankable".
+
+Family dinner as an anchor point.
+
+The magic of rhythms is in the process, no the particulars.
+
+Food is meant to nourish, not entertain or excite.
+
+As parents simplify, their kids' food issues diminish or resolve quite naturally.
+
+Consistency reinforces values that are larger than personal preferences.
+
+Two/three pressure valves built into the day will help a child fall asleep at bedtime.
+
+Bedtime stories as an example of rhythm.
+
+Recommendations are:
+
+*  Family's days have a sense of order, rhythm, and flow.
+*  Difficult transitions being smoothed by reliable patterns.
+*  Sense of consistency in the home. Joy of anticipation. Security of things that can be counted on daily.
+*  Opportunities for connection. Moments of pause increasing as rhythms take hold.
+*  Mental security fo the child, since they know how their day will proceed.
+*  Child has a place in the task/rhythms of daily life. Their role is growing over time towards idependece.
+*  Family dinners becoming more regular, food is familiar and comforting, the connections are evolving with repetition.
+*  Fortune of stories which you are share.
+*  Sense of family's identity from the number of together activities.
+
+## Schedules
+
 TBD
