@@ -197,4 +197,42 @@ Recommendations are:
 
 ## Schedules
 
+Free time for kids decreased over the last decades.
+
+Too many scheduled activities may limit a child's ability to motivate and direct themselves.
+
+Activity without downtime is ultimately - like a plant without roots - unsustainable.
+
+Boredom ia often a good thing.
+
+Balance activity and calming is important.
+
+Bringing more awareness and balance to a child's schedule can better serve his or her needs.
+
+Sabbath moments is a helpful concept.
+
+Anticipation is important: it plays a role in identity building. Anticipation requires pauses.
+
+Ordinary days are good. To fully appreciate "the ordinary" is an extraordinary gift.
+
+Sports. Phsycological health vs sport results. Long term hobby vs a thing which I hate.
+
+The messiness of free play, with its many changes and possibilities, builds an inner flexibility.
+
+A child's love of an activity is not enough to protect them from the effects of pursuing it too much, and too soon.
+
+Recommendations are:
+
+*  Child has time every day - unscheduled free time - to daydream and play.
+*  Benefits of occasional boredom gift.
+*  Time to dream: developmental benefits.
+*  Consciously balance crazier days with calmer days.
+*  Pleasure of ordinary.
+*  Benefits of unregulated, improvised, flexible free play.
+*  Benefits of general physical activity for organized sport.
+*  Genuine interests tage their time - more likely to become lifelong pleasures.
+*  Importance of downtime and balance in daily life.
+
+## Filtering out the adult world
+
 TBD
