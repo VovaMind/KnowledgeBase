@@ -312,4 +312,35 @@ Recommendations are:
 
 ## Value-centered family leadership
 
-X
+Wrong messages from media: wrong values, e.g. disrespect for parents/adults.
+
+Premature socila midea - dangerous.
+
+Avoid horizontal attachements to your kids.
+
+We are safe harbor from which our children launch out into the world and return to safety, repair, and resupply, ready to launch again.
+
+Peer parenting - wrong.
+
+It is at the itersection when a child's wishes meet our adult direction and guidance that the all-important formation of a child's character takes place.
+
+An authoritarian adult is cold, detached, and inflexible. An authoritative parent is warm, clear, and connected.
+
+It is vales that need to be at center of our family, not children.
+
+Don't forget about self-care.
+
+Family design is crucial.
+
+Friends vs friendly.
+
+Recommendation are:
+
+*  A home where your dearly held values are at the center of family life each day.
+*  A place where you shape the decisions about what is helpful and healthy for kids with pressure from media.
+*  You children knowing deep inside themselves that you are a safe harbor.
+*  Children hearing loving, authoritative firmness in your voice and better accepting your directions.
+*  Feeling more ease and energy within you as you go through the day with your child.
+*  Being able to fully enjoy visits with friends and family knowing you can step in and redirect your child if needed, with quiet confidence.
+*  Your child being able to follow teacher's instruction, love learning, make good friends, and thrive at school.
+*  The security your children will feel as they experience their two parents' consistency of approach.
