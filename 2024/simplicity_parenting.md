@@ -235,4 +235,81 @@ Recommendations are:
 
 ## Filtering out the adult world
 
-TBD
+Worry is an aspect of parenthood, but it shouldn't define it.
+
+It's possible to say "No thanks", to minimize the effects of screens in our homes, at least while our children are young.
+
+Symptopms of chronic stress: large mood swings, irritability, depressed or excessive tantrums, low frustration tolerance, poor self-regulation, oppostional-defiant behaviors etc.
+
+By the time the average person reaches age seventy, he or she will have spent the equivalant of seven to ten years watching TV.
+
+Overwhelming video games for yound children.
+
+"Media saturation" characterizes our era, but it need not flood our kids' childhoods.
+
+Four circles of connection:
+
+1.  Connection to nature and the outdoors.
+2.  Connection to friends and play.
+3.  Connection to family and home.
+4.  Connection to oneself.
+
+Connection takes time.
+
+"Base camp" - safe place for children.
+
+Helicopter paranting - wrong strategy.
+
+Children feed off their parents' emotions.
+
+Technology has helped to blue the lines between privacy and independence, involved and "overinvolved".
+
+Corporate parenting is another antipattern, e.g. launches, desired results etc.
+
+Peer parenting is an antipattern.
+
+Clown parent is an antipattern.
+
+Filtering adult conversation - important.
+
+The more you say, the less you are listening.
+
+Adult topics - filter it.
+
+Increasing the rhythm of your home life is one of the most powerful ways of simplifying your children's lives.
+
+Children need to know that they have a place in a good world, full of promise.
+
+Key filters before you are saying something:
+
+1.  Is it true?
+2.  Is it kind?
+3.  Is it necessary?
+4.  Will it help the child feel secure?
+
+Backing off - work together. A partnership that is balanced in terms of parenting yields benefits for all: a strengthened partnership and much less hovering.
+
+Less emotional monitoring. Don't talk too much to children aged nine or younger about their feelings. This is confusing / distressing for kids.
+
+The heart of being a parent - the joy of it - it still unpredictable. Absolutely remarkable and unexpected.
+
+Explaining tragedies / bad events. Keep it simple, focus on positive, provide hope.
+
+Recommendations are:
+
+*  Feeling calmer, safes, less anxious as a parent.
+*  Maintaining your emotional well-being as a goal, and taking steps to reduce your exposure to media that profit from fear and sensationalism.
+*  Your child's early years, without television.
+*  How engagements and connection - rather than passive "entertainment" - will feed your child's imagination, and enrich their play.
+*  Your child not being exposed to TV while they're young.
+*  You child isn't involved in adult issues/problems.
+*  Sense of calm increasing in your home.
+*  Empasizing connection + increasing the regularity of daily life while your child is young, your are building a base camp of security that will serve them into adulthood.
+*  Increase your chances of being heard when you talk less.
+*  Being less overinvolved - more inolved  in daily tasks of parenting,
+*  Kind, true, more necessary communicaiton.
+*  Rich appreciation of the present.
+
+## Value-centered family leadership
+
+X
