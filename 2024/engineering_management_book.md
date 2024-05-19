@@ -1,4 +1,4 @@
-# Engineering management for the rest of us
+# Engineering management for the rest of us, points
 
 ## Your team
 
@@ -67,4 +67,56 @@ Humility and taking responsbility are important.
 
 ## Happiness and drive
 
-TBD
+Culture and morale on your team is a large part of your responsibility.
+
+Toxic positivity / false harmony.
+
+Flow state.
+
+Trust your team with authonomy to drive outcomes.
+
+Intrinsic and extrinsic motivation.
+
+Social connection.
+
+Peer / mob programming. Sharing context. Helps to connect remote teams.
+
+Dealing with negative bias: stick to facts, focus on positive, reject negative premises, review consequences aka it's not too bad, step away if needed.
+
+Incremental habits. Habits take very little effort for our mind.
+
+People can grow.
+
+## Long-term care
+
+Doing all by yourself isn't an optimal way forward.
+
+Listen more than talk.
+
+Inclusive leadership stages: unaware, aware, active, advocate.
+
+Trust is inclusion.
+
+Culture as strong as its worst behaviour tolerated. It's your job to speak up.
+
+Their goals.
+
+## Career laddering
+
+Ladder alone won't work: you need to put them into action.
+
+Big piture is a first step.
+
+Career laddering review is a 2nd step. Self-assessement should be a part of it.
+
+3rd step is 30/60/90. It's a plan for the amount of days. Start with a bigger period.
+
+Promo is an indicator of success.
+
+Anything which provides clarity might be helpful.
+
+Team as an ecosystem.
+
+## 1:1s are crtitical
+
+YTBD
