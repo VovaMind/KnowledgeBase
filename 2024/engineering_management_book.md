@@ -119,4 +119,68 @@ Team as an ecosystem.
 
 ## 1:1s are crtitical
 
-YTBD
+It helps to reduce uncertainty by making both folks more connected to the rest of the team.
+
+1:1 meetings are the most important part of the job.
+
+Avoid distractions.
+
+Make people feel valuable and connected.
+
+Prioritize, make AIs, clarify vision.
+
+Connection is an important need.
+
+1:1 are more for reports than for managers. It's chance to speak freely.
+
+Agendas are required.
+
+## Communicating as a manager
+
+Leading without driving. 
+
+Your job is to align people on outcomes not figure out tactical details. What vs how.
+
+Ask questions.
+
+Alignment on why.
+
+Trick: convey the same message in different ways.
+
+Think of it from the audience perspective.
+
+Format things clearly.
+
+Be careful with words.
+
+Be transparent.
+
+## Change management
+
+Change for the better is not just possible, but necessary.
+
+In order to make transformation, the culture has to shift to allow for it.
+
+This might be challenging and it will take a lot of consistent work.
+
+Communicate why for connecting people and making this possible.
+
+Seek to understand.
+
+Be specific about why the changes are made.
+
+You might feel crisis of confidence at some point.
+
+Support people to grow the skills they need in order to succeed.
+
+Be accountable.
+
+Often leaders take too long to act, or act too brashly.
+
+Long term vs short term.
+
+Respect the back channel. Folks might have a perception of unfair decision-making.
+
+## Giving feedback
+
+TBD
