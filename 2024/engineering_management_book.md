@@ -183,4 +183,8 @@ Respect the back channel. Folks might have a perception of unfair decision-makin
 
 ## Giving feedback
 
-TBD
+Different types of feedback: talk between 2 people, comment on a doc, emotional reactions from others etc.
+
+In terms of feedback, there is a bit of netural tension within our own egos.
+
+Key part is to establish partnership.
