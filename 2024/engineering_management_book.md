@@ -188,3 +188,48 @@ Different types of feedback: talk between 2 people, comment on a doc, emotional 
 In terms of feedback, there is a bit of netural tension within our own egos.
 
 Key part is to establish partnership.
+
+Tricky part is to make them don't feel threatened.
+
+Stress -> reduced analytical thinking, creativity, and worse problem problem solving.
+
+Giving and receiving feedback is a challenge. Be careful and thoughful.
+
+Suggestions/steps are:
+
+1.  Pre-work: how would they prefer receiving feedback.
+2.  Make sure that it's necessary.
+3.  Check-in your motivation and biases.
+4.  Give it as soon as you can.
+5.  Keep conversation open / allow asking questions.
+6.  Talk through expectations and improvement suggestions. Clear next steps and follow-ups.
+
+Be specific, what can be improved and why. Connect feedback to their values and goals.
+
+Will this feedback help them in the long term?
+
+Praise in public, feedback in private.
+
+Record the facts.
+
+## Receiving feedback
+
+Solicit feedback: anonymous form, ask in a group about a project/event, ask for feedback in 1:1.
+
+This is hard
+
+Defensiveness is a natural reaction.
+
+Blind spots.
+
+Ego resilience.
+
+Don't mix together receiving and giving feedback.
+
+Write everything down.
+
+Stepping back is hard. You are within bounds to leave the conversation.
+
+## Good meetings
+
+TBD
