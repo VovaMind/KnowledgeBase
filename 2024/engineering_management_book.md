@@ -232,4 +232,44 @@ Stepping back is hard. You are within bounds to leave the conversation.
 
 ## Good meetings
 
+Bad meetings: no clear purpose/direction, chaotic, wrong people attending, no repect, feels like a waste of time.
+
+Good meetings are opposite :)
+
+Prepare agenda.
+
+Different types of meetings, e.g. cross-funtional, regular meetings/standups, brainstorming.
+
+Building atmosphere / trust in the team.
+
+Disambiguate healthy conflicts from attacks, keep the discussion respectful.
+
+Directly responsibile individuals / owners. It's a useful framework.
+
+DACI framework: driver, improver, contributor, informed.
+
+RACI: responsible, accountable, consulted, informed.
+
+RAPID: recommend, aggree, perform, input, decide.
+
+## Managing conflicts
+
+False harmony vs productive conflict.
+
+Act immediately.
+
+Separate ideas from identity.
+
+Conflict and underlying values.
+
+Create psychological safety.
+
+Finilize decisions.
+
+## Collaboration: cross-team, open source
+
+Different perspectives: maintainer, contributor.
+
+## Prioritizing your team's work
+
 TBD
