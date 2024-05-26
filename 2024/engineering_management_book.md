@@ -272,4 +272,61 @@ Different perspectives: maintainer, contributor.
 
 ## Prioritizing your team's work
 
+It's important to know what to do first / what to focus on for better execution.
+
+Prioritize your own time.
+
+OKRs.
+
+Breaking OKRs down to more tangible tasks.
+
+Quaterly planning.
+
+Limitations of metrics.
+
+Everything is important - > nothing is important.
+
+Understand your highest goals, be willing to drop other stuff.
+
+## Scope down PRs
+
+Easier to review, test, iterate.
+
+Tracking what is left.
+
+## Speed of execution
+
+Set direction first.
+
+Minimal viable product aka MVP.
+
+How to more quickly:
+
+*  Assess motivation.
+*  Assess psychological safety.
+*  Assess tech stack.
+*  Align the team with company's goals (the why).
+
+## Splitting time between product/engineering work
+
+Conflicts between product and engineering might happen.
+
+Engineers might not understand what's expected of them.
+
+Maintenance/ownership should be clear.
+
+Write small one-pagers (one-sheeters) to keep everyone on the same page.
+
+Focus vs split time on different activities.
+
+Tech debt. Up front communication about upcoming PRs.
+
+Innovative products vs communication.
+
+Migrations and relevant communication/planning/maintainance etc.
+
+Celebrate!
+
+## Prioritizing: high level
+
 TBD
