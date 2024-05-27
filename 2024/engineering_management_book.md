@@ -329,4 +329,27 @@ Celebrate!
 
 ## Prioritizing: high level
 
+What is the most important thing? What to work on at all?
+
+What we work on -> expression of our values.
+
+Your actions show you what you actually want. Two reactions on it:
+
+*  Admit your real priorities / don't lie to yourself.
+*  Start doing what you say you want to do, and see if it's actually true.
+
+Quadrants for thinking about tasks. It could be impact/effort one, or classes based on priorities/values like making money, peronal fulfilment etc. Multiple classes -> good sign.
+
+Something can be dropped by quadrants. It helps to bring clarify: where to invest your energy, where not to invest.
+
+Values should be reflected in what you schedule.
+
+Energy level affects prioritization. Awareness is the first step. Apply findings to your calendar.
+
+Context shifting and batching.
+
+Give yourself grace: no one can do everything, balance is always imperfect.
+
+## Prioritizing: day to day
+
 TBD
