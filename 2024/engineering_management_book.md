@@ -352,4 +352,33 @@ Give yourself grace: no one can do everything, balance is always imperfect.
 
 ## Prioritizing: day to day
 
-TBD
+Task prioritization list is:
+
+*  Actively on fire or time-sensitive.
+*  Can be done quickly.
+*  Needs a scheduled block of time.
+*  Can get further along.
+
+Morale is important, it comes from things being done.
+
+Find a system that motivates you and allows to be proud of the progress; despite new things are appearing all the time.
+
+Give yourself a credit.
+
+Know yourself.
+
+## Setting boundaries
+
+Saying no.
+
+Too many meetings.
+
+Forgive yourself.
+
+Don't compare yourself with other people.
+
+Make decisions that are right for you; trust yourself to know wnat you need.
+
+## Filling your cup
+
+x
