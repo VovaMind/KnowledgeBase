@@ -381,4 +381,16 @@ Make decisions that are right for you; trust yourself to know wnat you need.
 
 ## Filling your cup
 
-x
+Self-care.
+
+Finding joy to become more resilient.
+
+Gratitude journaling.
+
+## Believing in yorself
+
+Surrounding yourself with people who believe in you. Make sure that you support them too.
+
+Coaching and mentorship.
+
+Giving back / volunteering.
