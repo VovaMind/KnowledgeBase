@@ -49,4 +49,33 @@ Tips for play:
 
 ## Authenticity
 
-X
+Fairy-tale endings. It's not needed / it's important to understand our own emotions. Stories are a proxy for it.
+
+Honesty with children. All emotions from children are valid. Avoid self-deception.
+
+Being in touch with your emotions. Your goals vs your kid goals. External recognition vs internal motivation.
+
+When praising, focus on the task, rathen than overcomplimenting the child. Focus on the worked involved. 
+
+Nurture a feeling of being able to master a skill instead of already being a master.
+
+Fixed mind-set (that's what I can/have) vs growth mind-set (I can always improve/grow etc). Growth one is improtant in the future career and life.
+
+Praise the process, e.g. you practiced this a lot, that's why you did it well.
+
+Tips for authenticity:
+
+*  Root our self-deception.
+*  Answer with honesty.
+*  Use examples from your own childhood.
+*  Teach honesty.
+*  Read the stories that encompass all emotions.
+*  Use process praise.
+*  Don't use praise as a default response.
+*  Focus on effort - and keep it genuine.
+*  Teach children not to compare themselves with others.
+*  Highlight your perspective, and your child's by saying "for me".
+
+## Refraiming
+
+TBD
