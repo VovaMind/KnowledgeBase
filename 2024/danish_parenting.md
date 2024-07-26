@@ -78,4 +78,34 @@ Tips for authenticity:
 
 ## Refraiming
 
+Seeing truth in a new way.
+
+Realistic optimism. The idea is being not too optimistic/pessimistic. Filtering out unnecessary negative information. Focusing on the less negative aspects of situations.
+
+Skill of reframing. We feel what we think. 
+
+Less limiting language, e.g. I'm X.
+
+Reframing and children. Create different / positive / encouraging narrative. Framing -> behaviour. Power of labels.
+
+Use supportive language: it will help children to understand reasons for their emotions and actions.
+
+Brighter side of things. 
+
+Don't tell them how to feel.
+
+Using humor is a powerful tool.
+
+Tip for reframing:
+
+*  Pay attention to your negativity.
+*  Practice reframing.
+*  Use less limiting language.
+*  Separate actions from person.
+*  Rewrite your child's narrative to be more loving.
+*  Use supporting language. Ask questions. 
+*  Use humor.
+
+## Empathy
+
 TBD
