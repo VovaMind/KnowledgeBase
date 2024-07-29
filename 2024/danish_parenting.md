@@ -76,7 +76,7 @@ Tips for authenticity:
 *  Teach children not to compare themselves with others.
 *  Highlight your perspective, and your child's by saying "for me".
 
-## Refraiming
+## Reframing
 
 Seeing truth in a new way.
 
@@ -107,5 +107,31 @@ Tip for reframing:
 *  Use humor.
 
 ## Empathy
+
+Survival of the fittest is a frequent cultural focus.
+
+Fear of vulnerability.
+
+Be more connected.
+
+We are all wired for empathy.
+
+Fostering empathy in children early on helps them create better, more caring relationships in the future.
+
+Special classes in Danish schools for empathy.
+
+Trusting is very freeing.
+
+Tips for empathy are:
+
+*  Understand your own empathic style.
+*  Understand others.
+*  Notice and attempt to identify emptions.
+*  Read more. It's important for children.
+*  Improve meaningful relationships.
+*  Be vulnerable.
+*  Seek out empathy in others.
+
+## No ultimatums
 
 TBD
