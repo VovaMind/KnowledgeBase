@@ -134,4 +134,55 @@ Tips for empathy are:
 
 ## No ultimatums
 
+4 parenting styles:
+
+*  Authoritarian. Demanding and not responsive.
+*  Authoritative. Demanding but responsive. (optimal one)
+*  Permissive. Not demanding but responsive.
+*  Uninvolved. Neither demanding nor responsive.
+
+Seeing children as intrinsically good.
+
+Parenting with respect.
+
+Calm begets calm.
+
+Discuss the rules with children and stick to it.
+
+Avoiding power struggles. 
+
+Don' treat the child in a way in which you wouldn't want to be treated.
+
+Stop worrying about what others think.
+
+Chill out.
+
+Example: offer a way out.
+
+Dinnertime often leads to a power struggle.
+
+Explain the rules and ask for understanding.
+
+Try to avoid yelling.
+
+Tips for no ultimatums are:
+
+*  Remember to distinguish the behaviour from the child.
+*  Avoid power struggles. Think about win-win ideas.
+*  Don't blame the child.
+*  Children are inherently good - a healthy perspective.
+*  Teach your children. Guide them, educate them etc. Words matter.
+*  Reframe. Get from situations more caring and happier.
+*  Good begets good. Bad begets bad.
+*  Involve both parents.
+*  Check your ultimatums.
+*  Always think about the child's age.
+*  Accept all kind of feelings.
+*  Protest is a response to something.
+*  Put the bad behaviour in context.
+*  Know what makes you snap.
+*  Show that you listen.
+
+## Togetherness and hygge
+
 TBD
