@@ -185,4 +185,12 @@ Tips for no ultimatums are:
 
 ## Togetherness and hygge
 
-TBD
+Hygge - to cozy around together.
+
+Feeling connected to others gives meaning and purpose to our lives.
+
+American culture / too much focus on ourselves.
+
+Social ties reduce the stress level.
+
+Tips for simplicity, being cozy etc.
