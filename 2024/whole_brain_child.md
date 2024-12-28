@@ -94,4 +94,53 @@ Works well also for older kids.
 
 ## Integrating upstais and downstrais brain
 
+*   Upstairs brain: thjnking, planning, imaggining, decision making, control over body and emotions, self-understanding, empathy, morality.
+*   Dowstairs brain: anger, fear, breathing, blinking.
+*   Amygdala: lower part of the brain. Quickly process and express emotions, especially anger and fear. Enables acting before thinking.
+
+It's important to integrate vertically: bottom-up and top-down are both important flows.
+
+It takes time to master it: don't expect quick results.
+
+Acting before thinking isn't always bad, e.g. dangerous situations. But it's a bad idea in many social scenarios.
+
+Amygdala activates and blocks connection to upstais brain from downstairs. 
+
+Tantrum - try to switch their attention.
+
+Tantrums types:
+
+*   Coming from upstairs brain (concious decision). It's a call for setting clear boundaries, and a follow-up discussion. Firm refusal helps to mitigate this problem.
+*   Coming from downstairs brain. Child isn't able to use their upstairs brain. Nurturing and comforting. No sense in talking - upstairs brain isn't there. Once upstairs brain is brack, talking might be a good idea.
+
+Tantrums aren't unique for todlers.
+
+### Engage, don't enrage: appealing to the upstairs brain
+
+Which part of the brain do I want to appeal to? Example: force to do something vs find a way to negotiate.
+
+In some cases there is no place for negotiation: respecting parents' authority.
+
+Not presenting ultimatum, but redirecting, e.g. ask to describe their feelings.
+
+Ideas: convince me, come up with a solution that works for both of us. It gives kids a chance to practice problem solving and decision making, considring appropriate behaviours, think about others etc.
+
+### Use it or lose it: excercising the upstairs brain
+
+Help children to excercise upstrairs brain.
+
+*   Sound decision making. Which clothes do you want to pick? Make a choice if there is a scheduling conflict. Buying something now vs saving for a bigger buy later on.
+*   Controlling emotions and the body. Deep breath / count to ten. Teach them about brain functioning.  Let them express their feelings.
+*   Self-understanding. Why did you make this choice? What made you feel this way? Test difficulty: tricky question / rushing with solution too much.
+*   Empathy. Ask kids about feeling of other people, and reasons behind it.
+*   Morality. Play hypothetical situations. What are you modeling with your behaviour.
+
+### Move it or lose it: moving the body to avoid losing your mind
+
+Ask them to move their body.
+
+Changing physical state: movement or relaxation. It can help to change our emotional state.
+
+## Integrating memory for growth and healing
+
 TBD
