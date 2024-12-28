@@ -115,7 +115,7 @@ Tantrums types:
 
 Tantrums aren't unique for todlers.
 
-### Engage, don't enrage: appealing to the upstairs brain
+### Strategy #3: Engage, don't enrage: appealing to the upstairs brain
 
 Which part of the brain do I want to appeal to? Example: force to do something vs find a way to negotiate.
 
@@ -125,7 +125,7 @@ Not presenting ultimatum, but redirecting, e.g. ask to describe their feelings.
 
 Ideas: convince me, come up with a solution that works for both of us. It gives kids a chance to practice problem solving and decision making, considring appropriate behaviours, think about others etc.
 
-### Use it or lose it: excercising the upstairs brain
+### Strategy #4: Use it or lose it: excercising the upstairs brain
 
 Help children to excercise upstrairs brain.
 
@@ -135,7 +135,7 @@ Help children to excercise upstrairs brain.
 *   Empathy. Ask kids about feeling of other people, and reasons behind it.
 *   Morality. Play hypothetical situations. What are you modeling with your behaviour.
 
-### Move it or lose it: moving the body to avoid losing your mind
+### Strategy #5: Move it or lose it: moving the body to avoid losing your mind
 
 Ask them to move their body.
 
