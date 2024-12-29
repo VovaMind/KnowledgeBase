@@ -172,6 +172,20 @@ It's a tool, not a silver bullet which can solve all the problems.
 
 HALT principle begore digging deeeper: Hungry, Angry, Lonely, or Tired.
 
-### Strategy #6L use the remote of the mind
+### Strategy #6: use the remote of the mind
+
+Tell stories is a key element of this integration.
+
+Tricks: past forward, stop/pause. Concept: DVD inside of your brain.
+
+### Strategy #7: remember to remember
+
+Make recollection a part of your family's daily life.
+
+Excercise this to make memory stronger.
+
+Talk about experiences of your kids. Ask questions. Encourage journaling. 
+
+## Integraing the many parts of the self
 
 TBD
