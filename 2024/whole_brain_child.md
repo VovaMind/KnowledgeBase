@@ -143,4 +143,35 @@ Changing physical state: movement or relaxation. It can help to change our emoti
 
 ## Integrating memory for growth and healing
 
+Myths about memory are:
+
+*   Mental file cabinet concept. Reality: memory triggers. Triggered memory creates expectations for the future.
+*   Photocopy machine. Reality: altering happens.
+
+Experience -> neurons are getting activated. Linkage creates associations. 
+
+Implicit memory: automatic actions. Explicit memory: active thinking process.  Example: changing diapers. At first: it's hard an detailed (explicit), later on it's automatic (implicit).
+
+Usually memory refers to explicit memory: conscious recollection of the past.
+
+Implicit memories are tricky: thry create expectations based on our previous experiences. 
+
+Kid reacts in unsually unreasonable ways: it might be implicit memory.
+
+Idea: tell the story, create a narative to help their implicit memories to become explicit. It helps to deal with fears.
+
+Integrating implicit and explicit.
+
+Problem: we might not be aware of painful/negative experiences which affect our life.
+
+Hippocampus: part of the brain which integrates explicit and implicit memories / search engine for our memories or a puzzle assembler.
+
+Memory: many scattered puzzle pieces.
+
+It's a tool, not a silver bullet which can solve all the problems.
+
+HALT principle begore digging deeeper: Hungry, Angry, Lonely, or Tired.
+
+### Strategy #6L use the remote of the mind
+
 TBD
