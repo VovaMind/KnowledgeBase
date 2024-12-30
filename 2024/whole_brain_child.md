@@ -188,4 +188,40 @@ Talk about experiences of your kids. Ask questions. Encourage journaling.
 
 ## Integraing the many parts of the self
 
+Mindsight concept: understanding our own mind, and mind of another.
+
+Bycycle wheel concept: different parts of the rim, e.g. perceptions, body sensations, memories, thoughts, feelings, dreams etc. Awareness is in the middle/hub. 
+
+Wheel-if-awareness model. Problem might arise if you don't put enough attention to particular rim points, or putting too much focus on speciic points (like fear or anxiety).
+
+Trick: understand that you control the wheel, and you can focus on a different point. Example: enjoy the game process vs focus on results or perfect performance.
+
+Distinguish "feel" and "am". The problem with "am": state comes to be seen as a trait that defines who they are.
+
+Power of focused attention. It helps to reshape the brain, and learn new things/ways.
+
+### Strategy #8: let the clouds of emotions roll by
+
+Teach that feelings come and go.
+
+Weather metaphor: sun comes after the rain.
+
+### Strategy #9: paying attention to what's going on inside
+
+SIFT: sensations, images, feelings, and thoughts. Teach them to pay attention/focus on particular aspects. Also kid can switch between them.
+
+Thoughts: they don't have to believe all of them.
+
+Play a game: discuss all aspects of SIFT, maybe with switching topics.
+
+### Strategy #10: excercise the mindsight
+
+Getting back to the hub.
+
+You don't have to be a victim, you can decide how to think/feel. It doesn't come naturally to children.
+
+Suggest to close their eyes and try to focus on a different thingy.
+
+## Integrating self and others
+
 TBD
