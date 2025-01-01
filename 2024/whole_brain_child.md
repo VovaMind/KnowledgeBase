@@ -242,5 +242,51 @@ Mirror neurons: root of empathy.
 
 Mirror neurons respons to cases when there is some predictability / purpose that can be percieved. 
 
-We see an act, we understand the purpose of the act, and we ready ourselves to mirror it.
+We see an act, we understand the purpose of the act, and we ready ourselves to mirror it. Example: mirroring yawning.
+
+We mirror not only behaviours, but also emotional states. Resonating with feeligs of other folks. Sponge neurons - "sponge in" their internal states.
+
+Brain is a social organ.
+
+Create positive mental models: groundwork for connection.
+
+Kids spend time with the most important people: they develop relational skills like communicating and listening well, intepreting facial expressions, understanding nonverbal communication, sharing etc.
+
+It's not only parents: coaches, caregivers, relatives, classmaets, teachers.
+
+Relational experiences wire a child's brain for "we".
+
+Children might model your parenting strategies for their future parenting.
+
+Offering experiences that lead to connection.
+
+Cultivative a "yes" state of mind: helping kids be receptive to relationships. Stressed state / reactive fight-flight-freeze state - "no" state of mind.
+
+Reactive state of mind - might be a bad time for conversations.
+
+Remind not to forget about "me" part of the story.
+
+### Strategy #11: making a point to enjoy each other
+
+Playful parenting is a great way to prepare kids for relationships and encourage them to connect with others.
+
+Children need structure and boundaries, and be help accountable for their behaviour.
+
+Every fun / enjoyable experice -> positive reinforcement for loving relationships in the future.
+
+Good sibling relationships predictor: how much fun the kids have together when there are young.
+
+### Strategy #12: teach kids to argue with "we" in mind 
+
+Connection through conflict.
+
+Disagreement - opportunity for you to teach a lesson, so kids can thrive in the future.
+
+Set through the other person's eyes: help kids recognize other points of view.
+
+Remain calm and aweare of what you want to teach.
+
+Teach kids about nonverbal communication and attuning to others.
+
+Teach kids to make things right after a conflict.
 
