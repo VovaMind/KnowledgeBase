@@ -224,4 +224,23 @@ Suggest to close their eyes and try to focus on a different thingy.
 
 ## Integrating self and others
 
-TBD
+It might be hard for a child to consider feelings of others e.g. siblings.
+
+Help to become a participating member of "we" while not losing touch with individual "me".
+
+Empathy plays a key role here, and building it requires practice.
+
+Insight is the key concept of the wheel of awareness (middle part).
+
+insight + empathy = mindsight
+
+What happens between brains depends on what happens within individual brains.
+
+Brain is set up for interpersonal integration.
+
+Mirror neurons: root of empathy.
+
+Mirror neurons respons to cases when there is some predictability / purpose that can be percieved. 
+
+We see an act, we understand the purpose of the act, and we ready ourselves to mirror it.
+
