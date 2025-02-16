@@ -28,4 +28,21 @@
 
 ## Shifting dominance, delays, and oscillations
 
+*  Complex behaviours often arise as the relative strength of feedback loops shift, causing shifting in dominating.
+*  A delay in a balancing feedback loop liekely makes a system to oscillate.
+*  Changing the length of a delay may make a large change in the behaviour of a system.
+
+## Scenarios and testing models
+
+*  System dynamics models explore possible futures and ask "what if" questions.
+*  Model utility depens not on whether its driving scenarios are realistic (we can't be sure anyway), but on whether it responds with a realistic pattern of behaviour.
+
+## Contraints on systems
+
+*  In physial envrinoment one needs at least one reinforcing feedback loop, and at least one balancing loop which constrains growth. One can't grow forever in a finite environment.
+*  Non-renewable resources are stock-limited.
+*  Renewable resources are flow-limited.
+
+## Resilience, self-organization, and hierarchy
+
 TBD
