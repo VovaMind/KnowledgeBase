@@ -45,4 +45,31 @@
 
 ## Resilience, self-organization, and hierarchy
 
-TBD
+*  Resilience has its limits.
+*  Systems need to be managed not only for productivity/stability, but for also for resilience.
+*  Self-organizational property. It's ability to stucture themselves: create new structures, to learn/deversify anf complexify.
+*  Hierarchical systems evolve from the bottom up. The purpose of the upper levels is to serve purposes of the lower layers.
+
+## Source of system surprises
+
+*  Many relationships in systems are nonlinear.
+*  There are no separate systems, the world is a continuum. Boundaries around a system depend on the purpose of the discussion.
+*  At any given time, the input that is most important to a system is the one that is most limiting.
+*  Any physical entity with multiple inputs and outputs is surrounded by layers of limits.
+*  There always will be limits to growth.
+*  A quantity growing exponentially toward a limit reaches that limit in a surprinsingly short time.
+*  When there are long delays in feedback loops, some sort of foresight is essential.
+*  The bounded rationality of each actor in a system may not lead to decisions that further the welfare of the system as a whole.
+
+## Mindsets and models
+
+*  Everything we think we know about the world is a model.
+*  Our models do have a strong congruence witht the world.
+*  Our models fall far short of representing the real world fully.
+
+## System traps
+
+### Policy resitance
+
+tBD
+*  
