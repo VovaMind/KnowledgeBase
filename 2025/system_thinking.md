@@ -71,5 +71,55 @@
 
 ### Policy resitance
 
-tBD
-*  
+*  Various goals for different actors.
+*  A policy might pull the system away from the goals of some actors.
+*  Producing additional resistance.
+*  Nobody likes the result, everyone spends considerable efforts: enforcing, resisting.
+
+Ways out are:
+
+*  Let go.
+*  Bring actors together, find mutually satisfactory ways for realizing all of the goals.
+*  Redefine larger/more important goals, so everyone can pull towards together.
+
+### Tragedy of commons
+
+*  Commonly shared resource.
+*  Everyone benefirts directly for its usage.
+*  Sharing costs and abuse with everyone else.
+*  Weak feedback: resource condition -> decisions of the users.
+*  Overuse of the resource, eroding it until it becomes unavailable to everyone.
+
+Ways out are:
+
+*  Educate and exhort the users, so they understand the consequences.
+*  Restore or strengthen the missing feedback link: privatizing the resource -> each user feels direct consequences of its abuse; regulating the access for all users to the resource.
+
+### Drift to low performance
+
+*  Allowing performance standards to be influences by past performances.
+*  Especially bad if there is a negative bias in perceiving past performance.
+*  Sets up a reinforcing feedback loop of eroding goals thats sets a system drifting towards low performance.
+
+Ways out are:
+
+*  Keep performance standards absolute.
+*  Let standards be enhanced by the best actual performances instead of being discouraged by the worst.
+*  Set a drift towards high performance.
+
+### Escalation
+
+*  When the state of one stock is determined by trying to surpass the state of another stock and the other way around.
+*  Reinforcing feedback loop carrying the system into an arms race / wealth race etc.
+*  The escalation is exponential and can lead to extremes very fast.
+*  With intervetion this spiral would continue till somone's collapse - exponential growth can go on forever.
+
+Ways out are:
+
+*  It's better to avoid it.
+*  One can refuse to continue (unileterally disarm).
+*  One can negotiate a new system with balancing loops to control the escalation.
+
+### Success to successful
+
+TBD
