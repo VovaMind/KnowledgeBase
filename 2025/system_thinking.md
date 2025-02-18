@@ -122,4 +122,79 @@ Ways out are:
 
 ### Success to successful
 
-TBD
+*  Winners got systematically rewarded with means to win again.
+*  Reinforcing feedback loop, winners eventually take it all, while losers are eliminated.
+
+Ways out are:
+
+*  Diversification - allows starting new games.
+*  Strict limitation on fraction of the pie for a single winner (antitrust lawys).
+*  Policies that level the playing field, removing advantages of the strongest or increasing the advantage of th weakest.
+*  Policies that devise rewards for success that don't bias the next round.
+
+### Shifting the burden to the intervenor
+
+*  Systemic problem.
+*  Addressing symptoms / or even disguise them.
+*  Not solving the actual problem.
+*  Policy that hides the underlying trouble / drug of choice.
+*  Eroding self-maintaining capacity.
+*  More and more of the actual solution is required.
+*  System will rely more and more on interventions, and less and less able to maintain its own desired state.
+
+Ways out are:
+
+*  It's better to avoid it.
+*  Beware of symptom-relieving or signal-denying policies that don't address the problem.
+*  Focus not on the short-term relief, but on long-term restructuring.
+*  Intervenor - restore/enhane self maintaining, then remove yourself.
+
+### Rule beating
+
+*  Perverse behaviour which gives appearance of following the rules / achieving the goals, but it actuall distorts the system.
+
+Way out: Design/redesign rules for moving creativity towards actual goals and not towards beating the rules.
+
+### Seeking the wrong goal
+
+*  System behaviour is very sensitive to goals of feedback loops.
+*  If goals are ill-defined, then system might produce a result that is not really intended or wanted.
+
+  Ways out are: 
+  
+  *  Specify indicators and goals which reflect the real state of the system.
+  *  Not confuse effort with result, otherwise you might end up with a system which produces efforts not results.
+
+## Places to intervene in a system (increaing order of effectiveness)
+
+*  Numbers / parameters.
+*  Buffers - size of stabilizing stocks relative to their flows.
+*  Stock-and-Flow structures. Physical systems and their nodes of intersection.
+*  Delays. Time relative to the rates of system changes.
+*  Balancing feedback loops. Strength of feedbacks relative to the impacts they are trying to correct.
+*  Reinforcing feedback loops. Strenth of the gain of driving loops.
+*  Information flows. Who (and when) has access to information.
+*  Rules. Incebtives, punishments, constraints.
+*  Self-organization. Power to add/change/evolve system structure.
+*  Goals. The purpose of the system,
+*  Paradigms. Them ind-set out of which the system, its goals/structure/rules/delays/parameters - arises.
+*  Transcending paradigms.
+
+## Guidelines
+
+*  Get the beat of the system.
+*  Expose your mental modesl to the light of day.
+*  Honor/respect/distribute infromation.
+*  Use language with care and enrich it with system concepts.
+*  Pay attention to what is important, no just what is quantifiable.
+*  Make feedback policies for feedback systems.
+*  Go for the good of the whole.
+*  Listen to the wisdom of the system.
+*  Locate responsibility within the system.
+*  Stay humble/a learner.
+*  Celebrate complexity.
+*  Expand the time horizons.
+*  Defy the disciplines.
+*  Expand the boundary of caring.
+*  Don't erode the goal of goodness.
+*  
