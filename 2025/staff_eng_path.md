@@ -39,3 +39,47 @@ Communicate well and often.
 Reporting chain: high vs low trade-off. Too much details vs not to interesting for a higher level leadership.
 
 Scope choosing.
+
+Too broad scope problems are:
+
+*  Lack of impact.
+*  Becomming a bottleneck
+*  Decision fatigue.
+*  Missing relationships.
+
+Too narrow scope problems are:
+
+*  Lack of impact.
+*  Opportunity cost.
+*  Overshadowing other engs.
+*  Overengineering.
+
+Shape of the role:
+
+*  Depth-first vs breadth-first mentality.
+*  Four disciplines: core tech skills, product management, project management, people management.
+*  Coding: how much?
+*  Delayed gratification.
+*  Archetypes: TLs, architects, solvers, right hands.
+
+Caring about things.
+
+What's important? Your work needs to be important.
+
+What needs you?
+
+Plan for my work over the next year: scope, shape, primary focus.
+
+Your job is to make your org successful.
+
+Staff eng role is ambiguos by definition. It's up to you to discover and decide what your role is etc.
+
+Time is finite, be deliberate about choosing a primary focus that's important and that isn't wasting your skills.
+
+Align with your management chain.
+
+Things can go weird and that's ok.
+
+## Theree maps
+
+TBD
