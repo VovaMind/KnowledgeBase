@@ -82,4 +82,6 @@ Things can go weird and that's ok.
 
 ## Theree maps
 
-TBD
+Broad view.
+
+Locator map: where you are.
