@@ -85,3 +85,25 @@ Things can go weird and that's ok.
 Broad view.
 
 Locator map: where you are.
+
+Topological map: learning the terrain.
+
+Treasure map.
+
+Removing fog of war :)
+
+Getting perspective, too much focus brings the following risks:
+
+*  Prioritizing badly.
+*  Losing empathy.
+*  Tuning out background noise.
+*  Forgetting what the work is for.
+
+Seeing bigger. Some ideas are:
+
+*  Taking an outsider view. Note: **respect what came before**.
+*  Escaping the echo chamber.
+*  What's actually important?
+*  What do your customers care about?
+*  Have your problems been solved before?
+
