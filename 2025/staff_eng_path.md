@@ -115,4 +115,70 @@ Potential difficulties which could be resolved using a topological map:
 *  You don't find outa bout the difficult parts until you get there.
 *  Everything takes longer.
 
+Understanding the org:
+
+*  Culture: autonomy, inclusion, safety, decision making, making progress, personal communication.
+*  Secret/open.
+*  Oral/written.
+*  Top-down vs bottom-up.
+*  Fast change / deliberate change.
+*  Back channels / front doors.
+*  Allocated / available.
+*  Liquid / crystallized.
+*  Power / rules / mission. Information flows.
+*  Points of interest.
+*  Chasms between teams and orgs.
+*  Fortresses.
+*  Disputed territory.
+*  Uncrossable deserts.
+*  Paved roads / shortcuts / long ways around.
+
+Useful aspects for topological maps are:
+
+*  How decisions are made?
+*  Where is "the room"?
+*  Asking to join in.
+*  Shadow org chart. Unwritten structures.
+
+It's important to keep the map up to date:
+
+*  New leads.
+*  Project deprioritization.
+*  Quarterly planning.
+*  New platform.
+*  Extended leave, e.g. PM.
+
+Be a bridge, if the terrain is difficult to navigate.
+
+Treasure map: where are we going?
+
+Shiny / short-term things: good to an extend, but it's hard without a big plan:
+
+*  Hard to keep everyone going in the same direction.
+*  Not finishing big things.
+*  Cruft accumulation.
+*  Competing initiatives.
+*  Engs stop growing.
+
+Taking longer view:
+
+*  Why are you doing what you are doing?
+*  Sharing the map.
+
+Unclear map -> draw a new one.
+
+Remember about your personal journey.
+
+Practice looking for a bigger picture and seeing what's happening.
+
+Understand your work in context.
+
+Know your org.
+
+Build/discover paths to access needed information.
+
+Be clear about goals for everyone.
+
+## Creating the big picture
+
 TBD
