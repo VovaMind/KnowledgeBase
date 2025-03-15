@@ -107,3 +107,12 @@ Seeing bigger. Some ideas are:
 *  What do your customers care about?
 *  Have your problems been solved before?
 
+Locator map gives perspective, but you can't navigate it. Topological map helps with it.
+
+Potential difficulties which could be resolved using a topological map:
+
+*  Your good ideas don't get traction.
+*  You don't find outa bout the difficult parts until you get there.
+*  Everything takes longer.
+
+TBD
