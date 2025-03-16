@@ -200,4 +200,36 @@ Parts of the vision might be:
 *  Summary of decisions that have already been made.
 *  Architecural diagram.
 
+Strategy - plan of action. Document which describes how you intend to achieve your goals, navigating past the obstacls etc.
+
+Technical strategy should bring clarity about the path: realistic way of addressing challenges, strong direction, prioritize specific actions.
+
+Kernel of strategy: 
+
+*  The diagnosis of problems.
+*  Guiding policy. Metaphor: signpost marking the direction forward.
+*  Coherent actions.
+
+Rely on your advantages while making up strategy. 
+
+Strategy should be realistic, not aspirational.
+
+Vision/strategy making takes time - make sure that you actually need this.
+
+It's a big project: preparations, iterations, alignment.
+
+Embrace boring ideas.
+
+Join an expedition in progres: share the lead, follow their lead, step away.
+
+Get a sponsor.
+
+Choose your core group.
+
+Set scope.
+
+Make sure that it's achievable.
+
+Make it official.
+
 TBD
