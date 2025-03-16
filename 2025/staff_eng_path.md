@@ -181,4 +181,23 @@ Be clear about goals for everyone.
 
 ## Creating the big picture
 
+Example with many teams/priorities/plans/ideas -> need to navigate. Actionable/realistic plan, prioritizing instead of solving everything at once, not trying to make everyone happy.
+
+Technical vision - future which you want to achieve. Describing everything after the work is done.
+
+Vision creates a shared reality.
+
+Vision can be on different levels: engineering, org, group/team.
+
+Vision doesn't make all decisions, but it should remove sources of conflict/ambiguity.
+
+Vision should empower everyone to choose their own path while being confident that they will end up at the right place.
+
+Parts of the vision might be:
+
+*  High-level values and goals.
+*  Set of principles to use for making decisions.
+*  Summary of decisions that have already been made.
+*  Architecural diagram.
+
 TBD
