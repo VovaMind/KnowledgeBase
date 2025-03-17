@@ -232,4 +232,26 @@ Make sure that it's achievable.
 
 Make it official.
 
+Writing loop: ideas to start, write->talk to peopla and align -> think/process/decide -> write..., ready to share broadly.
+
+Ideas to start: what docs already exist, what needs to change, what's great as it is, what's important, future you will appreciate X.
+
+Lead writes a first draft / aggregate multiple first drafts.
+
+Interviews: broad / open-ended questions. Thinking time.
+
+Decisions: trade-offs, building consensus, not deciding is also a decision (usually not a good one), show you work.
+
+Get aligned and stay aligned: be reasoable, don't call for vote until you know you have the votes.
+
+Alignment goes both ways.
+
+Work on yor story: it should be comprehensible, relatable, and comfortable.
+
+Final draft.
+
+Launch: make it official, keep it fresh (iterate if you get new information).
+
+## Finite time
+
 TBD
