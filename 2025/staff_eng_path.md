@@ -254,4 +254,21 @@ Launch: make it official, keep it fresh (iterate if you get new information).
 
 ## Finite time
 
-TBD
+Work is infinite, tine is finite.
+
+Opportunity cost: working on one thing - not work on other things.
+
+Time buffer for unexpected work.
+
+Locator map / treasure map for evaluating.
+
+Resources and their limits. A set of resources: energy, credibility, quality of life, skills, social capital.
+
+Credibility - other thinks that you are capable of doing the job, social capital - whether they want to help you.
+
+Projects estimation in terms of resources: gaining some, spending others.
+
+Don't overthink it too much.
+
+Evaluating the project.
+
