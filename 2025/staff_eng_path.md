@@ -272,3 +272,44 @@ Don't overthink it too much.
 
 Evaluating the project.
 
+Be cautious about optimistic time estimations, think about your scope and boundaries.
+
+First rule of prioritization: no snacking. Impact/effort 2x2 matrix.
+
+Checklist:
+
+*  Energy: how many things are you already doing?
+*  Energy: does this kind of work give or take energy?
+*  Energy: procrastination.
+*  Energy: is it worth figthing?
+*  Qualtity of life: do you enjoy this work?
+*  Qualtity of life: how do you feel about project's goals?
+*  Credibility: does this project use your technical skills?
+*  Credibility: does this project show your leadership skills?
+*  Social capital: is this the kind of work that your company/manager expect at your level?
+*  Social capital: will this work be respected?
+*  Social capital: are you sqandering the capital you've built?
+*  Skills: will you learn something that you want to learn?
+*  Skills: will the people around you raise your game?
+
+What if the project is wrong:
+
+*  Do it anyway.
+*  Compensate for the project.
+*  Let others lead.
+*  Resize the project.
+*  Just don't do it.
+
+Defend your time.
+
+You are responsible for choosing your own work. You can't do everything: pick up your battles.
+
+Be contious about lending your credibility and social capital to other people.
+
+Starting projects and handing them over to other people.
+
+Saying no is important.
+
+## Leading big projects
+
+TBD
