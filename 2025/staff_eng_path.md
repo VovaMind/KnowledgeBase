@@ -338,3 +338,54 @@ Give yourself a win: any step toward clarity, e.g. doc, diagram, talk etc.
 
 Use your strengths.
 
+Building context. 3 maps story.
+
+Context points are: goals, customer needs, success metrics, sponsors/stakeholders/customers, fixed contraints, risks, history, team.
+
+Project structure: defining roles (e.g. RACI model), recruiting people, agreeing on scope, estimating time, agreeing on logistics, kickoff meeting.
+
+Exploring the project:
+
+*  What are the important aspects of the project?
+*  What possible approaches can you take?
+
+How to bring clarity:
+
+*  Mental models.
+*  Naming.
+*  Pictures and graphs.
+
+Design docs. Goals, context, design ideas, security/privacy/compliance, alternatives considered, prior art, background, trade-offs, risks, dependencies, operations.
+
+WRONG IS BETTER THAN VAGUE.
+
+Technical pitfalls, examples are:
+
+*  It's a brand-new problem (but it isnt').
+*  This looks easy.
+*  Building for the present.
+*  Building for the distant, distant future.
+*  Every user needs to...
+*  We will figure out the difficult part later.
+*  Solving the small problem by making the big problem more difficult.
+*  It's not really a rewrite (but it is).
+*  Is it operatable?
+*  Discussing the smallest decisions the most.
+
+Coding and how much should you be involved there. Don't be a bottleneck.
+
+Communicating: talking with each other, sharing status.
+
+Navigating: driving analogy. Assume that something will go wrong, but you don't know what (new direction, people quitting, unavailable dependencies). Rely on facts, don't start the panic. Involve other people.
+
+Driving instead of letting things happen.
+
+Build trust/relationships.
+
+Write things down. Be clear and opinionated.
+
+There are always be trade-offs. Be clear what you are optimizing for while making decisions.
+
+## Why have we stopped?
+
+TBD
