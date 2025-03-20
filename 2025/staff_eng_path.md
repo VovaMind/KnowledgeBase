@@ -312,4 +312,29 @@ Saying no is important.
 
 ## Leading big projects
 
-TBD
+Key success factors: perseverance, courage, willingness to talk to other people.
+
+The difficulty usually comes from ambiguity: unclear direction, complicated humans, legacy which is hard to predict.
+
+Start: vast, unmapped, overwhelming set of things to do.
+
+Strive to shraing and helping instead of comepeting.
+
+PM things which are useful for you also: deliverables and milestones, setting expectations, defining your goals, adding accountability and structure, defining roles, writing things down.
+
+Exploring the solution space,  framing the work, breaking the problem down, building mental models.
+
+Ambiguity at the start.
+
+Dicomoft is fine, it's a singal of learning process.
+
+Create an anchor: personal notes doc.
+
+Talk to your project sponsor.
+
+Decide who gets your uncertainty.
+
+Give yourself a win: any step toward clarity, e.g. doc, diagram, talk etc.
+
+Use your strengths.
+
