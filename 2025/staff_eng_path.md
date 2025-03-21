@@ -388,4 +388,37 @@ There are always be trade-offs. Be clear what you are optimizing for while makin
 
 ## Why have we stopped?
 
-TBD
+Does it need to keep moving?
+
+It's often a single step missing from the successs, it might be very valuable to see and use such opportinities.
+
+Main tools are:
+
+*  Understand and explain.
+*  Make the work easier.
+*  Get organizational support.
+*  Make alternative plans.
+
+Blocked by another team:
+
+*  Missunderstanding.
+*  Misadventures.
+*  Misalignment.
+
+Navigating the dependency: use the tools.
+
+Escalations are fine, but keep it contructive.
+
+Blocked by a decision. Navigating the unmade decision.
+
+Blocked by a single freaking button click. Navigate the unclicked button.
+
+Blocked by a single person. Navigating a collegue who isn't doing the work.
+
+Blocked by unassigned work.  Navigating this.
+
+Rollup. Summarizing all the information in one place to create clarity and reduce chaos.
+
+Aggregating information, synthethesizing and writing it down - you created value/new information. 
+
+Blocked by a huge crowd of people. 
