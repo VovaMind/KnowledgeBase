@@ -422,3 +422,27 @@ Rollup. Summarizing all the information in one place to create clarity and reduc
 Aggregating information, synthethesizing and writing it down - you created value/new information. 
 
 Blocked by a huge crowd of people. 
+
+You got lost: you don't know where to go now, the problem is too hard, org support is unclear.
+
+Choosing a destination: clarify roles, choose a strategy, choose a problem, choose a stakeholder.
+
+Finding the way: articulate the problem, revisit your assumptions, give it time, increase your capacity, look for prior art, learn from other folks, try a different angle, start smaller, ask for help.
+
+Getting back on solid ground: clarify org support, clarify roles, ask for what you need, refuel.
+
+Team thinks that the destination was reached, but the problem is not solved. It's code complete case.
+
+Make sure that the user can catch a pokemon: define "done", be your own user, celebrate landings not launches.
+
+It's done but nobody is using it: selling it, tell people, make it discoverable.
+
+It's built on a shaky foundation, shoring up the foundations: set a culture of quality, make the foundational work a user story, negotiatve for engineer-led time.
+
+Just stop it at some point. This is a better place to stop. It's not the right journey to take. Cancelled project case.
+
+Unblocking your and others projects is a part of your job.
+
+## Being a role model
+
+TBD
