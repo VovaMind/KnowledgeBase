@@ -445,4 +445,35 @@ Unblocking your and others projects is a part of your job.
 
 ## Being a role model
 
+Be competent:
+
+*  Know things: build experience, build domain knowledge, stay up to date.
+*  Be self-aware: admit what you know, admit what you don't know, understand your own context.
+*  Have high standards: seek out constructive criticism, own your mistakes, be reliable.
+
+Be responsible:
+
+*  Take ownership: make decisions, ask "obvious" questions, don't delegate through neglect.
+*  Take charge: step up in an emergency, ask for more infromation when everyone is confused, drive meetings, see something->say something.
+*  Create calm: defuse + don't amplify, avoid blame, be consistent.
+
+Remember the goal:
+
+*  Remember there's a business: adapt to the situation, be aware that there's a budget, spend resources mindfully.
+*  Remember there's a user.
+*  Remember there's a team.
+
+Look ahead:
+
+*  Anticipate what you'll wish you'd done: telegraph what's coming, tidy up, keep your tools sharp, create insitutonal memory.
+*  Expect failure.
+*  Optimize for maintainance, not creation: make it understanable, keep it simple, build to decomission.
+*  Create future leaders.
+
+Be deliberate with words: they carry more weight now.
+
+Metric for your success: wheter other people want to work with you.
+
+## Good influence at scale
+
 TBD
