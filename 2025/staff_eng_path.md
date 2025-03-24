@@ -476,4 +476,37 @@ Metric for your success: wheter other people want to work with you.
 
 ## Good influence at scale
 
-TBD
+Being a role model engineer.
+
+Good influence: better for everyone.
+
+Scaling your influence: individual, group, catalyst.
+
+Forms of influence are: advice, teaching,  guardrails. opportunities.
+
+Unsolicited advice: might be not the best idea.
+
+Individual advice: mentorship, answering questions, feedback, peer reviews.
+
+Individual teaching: unlocking a topic, pairing/shadowing/reverse shadowing, code and design reviews, coaching.
+
+Reviewing questions:
+
+*  Should this work exist?
+*  Does this work actually solve the problem?
+*  How will it handle failure?
+*  Is it understanable?
+*  Does it fit into the bigger picture?
+*  Do the right people know about it?
+
+Scaling guardrails: processes, written decisions, robots/reminders.
+
+Being a catalyst: solve a real problem, choose your battles, offer support, find allies.
+
+Opportunities for individuals: delegation, sponsorship, amplifying, boosting, connecting, defending, connecting people.
+
+Plan to give away your job.
+
+## What's next?
+
+tBD
