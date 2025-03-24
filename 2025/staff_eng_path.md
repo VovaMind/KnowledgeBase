@@ -509,4 +509,28 @@ Plan to give away your job.
 
 ## What's next?
 
-tBD
+What's important for you: money, supporting family, flexible schedule, learning a lot, being visible, doing cool stuff, challenging yourself, making a difference, independence.
+
+Where to invest: building skills, building a network, building visibility, choosing roles/projects deliberately.
+
+Key metrics to keep in mind:
+
+*  Are you learning?
+*  Are you investing in trasferable skills or navigating dysfunction?
+*  How do you feel about recruiting other people to your team?
+*  How confident do you feel?
+*  How stressed do you feel?
+
+Reasons for staying at the same job: feedback loops, depth, relationships, context, familiarity.
+
+Reasons for moving: employability, experiences, growth, money, mismatch.
+
+IC <-> management switch.
+
+Be responsible for you career and choices. There are many options to optimize for. Know what's important to you. Be deliberate.
+
+Access to oportunities depends on your skills, visibility, relationships, and experiences.
+
+Everything is learnable if it's worth the time investment.
+
+Regularly check-in with yourself regardingy your current role.
