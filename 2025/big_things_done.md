@@ -32,4 +32,48 @@ Projects don't go wrong, they start wrong.
 
 ## Commitment fallacy
 
+Pentagon building story - unrealistic/wrong commitment initially.
+
+Rush to commit.
+
+Strategic misrepresentation: way to win a contract.
+
+You want the flight attendant, not the pilot to be an optimist
+
+Snap judgement / subconcious decision making. 
+
+Optimism is widespread, stubborn, and costly.
+
+Pricinple: What You See Is All There Is (WYSIATI) - assumption that whatever information we have on hand is all the info available to make decision.
+
+After quick and intuitive judgement it's time to slow/careful thinking from conscious mind.
+
+Emotions / logic in decision making.
+
+Something might "feel" true.
+
+Practical decision making - based on feeling or so.
+
+Hofstadter's law: people underestimate time required to complete tasks, even with avaialable information about estimations being unreasonable.
+
+Ignoring previous experience / this time is different.
+
+Typical estimation goes for best case scenario. But it's not particularly likely.
+
+Bias against thinking.
+
+Bias to action vs bias against thinking.
+
+Planning is working. Progress on planning is progress on project, often the most cost-effective.
+
+Strategic misrepresenatation - political tool.
+
+Start digging a hole - figure it out later. Time drags on, costs exploded.
+
+Driving into blizzard.
+
+Commit to not commit. Feel urge to commit - at first commit to having an open mind.
+
+## Thinking from right to left
+
 TBD
