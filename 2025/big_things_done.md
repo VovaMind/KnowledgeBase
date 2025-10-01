@@ -76,4 +76,24 @@ Commit to not commit. Feel urge to commit - at first commit to having an open mi
 
 ## Thinking from right to left
 
+Don't start with solutions, start with asking questions and considering alternatives. Always assume that there is more to learn. Start with question why?
+
+Story about big renovation project when price escalated.
+
+Slow planning isn't good because it's slow. Good planning explores, anlyzers, tests, and iterates. This takes time.
+
+Range and depth of questions + rigor in answers -> good planning. Always start with questions, not answers.
+
+Why are we doing this project?
+
+Start with customer experience, and work backwards to the technology.
+
+Amazon approach: press release + FAQ as a part of project planning. 1h for pitching projects, asking hard questions.
+
+Problem: right to left thinking isn't natural. 
+
+Always keep the goal in view.
+
+## Pixar planning
+
 TBD
