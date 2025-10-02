@@ -96,4 +96,38 @@ Always keep the goal in view.
 
 ## Pixar planning
 
-TBD
+People are terrible at getting things right the first time, but we are great at tinkering. 
+
+Try, learn, repeat.
+
+Planning often sounds abstract and bureaucratic. Experiri (to try / to test / to prove): different between good and bad planning.
+
+Successfully found many ways that don't work.
+
+Experimentation requires simulation.
+
+Many iterations, serious testing/simulations - reliable plan.
+
+Architecture and innovative software for prototyping.
+
+Pixar and many planning iterations: cheap early on, getting more expensive over iterations once details are emerging.
+
+Don't be afraid to through aways ideas.
+
+One needs the freedom to just try, and it won't work many times.
+
+Attention to details.
+
+Illusion of explanatory depth: people feel that they understand things way more than they actually do.
+
+Planning is fairly cheap.
+
+Planning is an active process.
+
+MVP concept.
+
+Maximum virtual product.
+
+## Are you experiences?
+
+tBD
