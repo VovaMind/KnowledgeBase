@@ -130,4 +130,30 @@ Maximum virtual product.
 
 ## Are you experiences?
 
-tBD
+Experience is invaluable, but it's often overlooked / misunderstood.
+
+Big projects often don't make max use of experience.
+
+Phronesis - practical wisdom.
+
+Marginalizing experience - anti-pattern.
+
+Being first ambition. First-mover advantage is overstated.
+
+Early on the market != being a pioneer.
+
+Terrible cost of being first - can't learn from previous mistakes.
+
+Ambitions being biggest, tallest, longest, fastest.
+
+Frozen experience - proven technologies.
+
+Olympic bad examples.
+
+We know more than we can tell. Explicit knowledge vs intuition.
+
+Project leader with phronesis is the signle greatest assest a project can have.
+
+## So you think your project is unique?
+
+TBD
