@@ -156,4 +156,32 @@ Project leader with phronesis is the signle greatest assest a project can have.
 
 ## So you think your project is unique?
 
+Why there is a big gap between expectations and reality of project work? Writinge example: historical books usually take years to write, the expectations were unrealistic.
+
+Anchoring and adhjustment. Particular experience works like an anchor, then applying it everywhere - adjustment.
+
+Anchoring is very typical for estimations from psycological POV. Picking bad anchor - bad estimation.
+
+Correct anchoring is crucial.
+
+Finding similar projects - sounds too simply, but it works in practice.
+
+Reference-class forecasting (RCF).
+
+RCF problemas are: Some folks deliverately low-balling. Uniqueness bias. Not enough data.
+
+Finding good data is tricky.
+
+Fat tail distributions. What to do with it? Cut the fat tail.
+
+Black swan management:
+
+*  Think slow, act fast.
+*  They can be studied and mitigated.
+*  Dig the data from the reference claass.
+*  Matter of probability not certainty.
+*  Move probabilities in our favor, but you never get certainty.
+
+## Can ignorance be your friend?
+
 TBD
