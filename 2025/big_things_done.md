@@ -184,4 +184,16 @@ Black swan management:
 
 ## Can ignorance be your friend?
 
-TBD
+Planning just ruins you process/creativity. Just trust the process / rely on shiny past examples. These are terrible ideas, and it's not how it works.
+
+Cool examples in the past. Inspiring stories.
+
+It doesn't match the actual reality/statistics.
+
+Stories vs data. Survival bias. Relevant success stories are visible, but actually rare / more of a dumb luck.
+
+Actual success doesn't come from ignorance.
+
+## A single, determined organism
+
+TND
