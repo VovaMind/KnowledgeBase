@@ -196,4 +196,22 @@ Actual success doesn't come from ignorance.
 
 ## A single, determined organism
 
-TND
+You need more than a strong plan: strong team is also very important.
+
+Time to act fast and deliver.
+
+Experienced teams are very valuable.
+
+Hiring an existing team is a great idea. Building a team is another option.
+
+London airport team story.
+
+Building trust.
+
+Building identity.
+
+Psychological safety is extremely important: boosts morale, drives improvements, problems are tackled faster.
+
+## Modularity
+
+TBD
