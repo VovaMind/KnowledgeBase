@@ -214,4 +214,36 @@ Psychological safety is extremely important: boosts morale, drives improvements,
 
 ## Modularity
 
-TBD
+What's your lego?
+
+Get a small thing - basic building block, combine them together.
+
+Modularity delivers faster, cheaper, better.
+
+One huge thing: receipe for failure, atomic stations.
+
+Experimentation and experience are crucial.
+
+Many small things concept.
+
+Repeatition is the mother of learning.
+
+Scale-free scalability: the thing is the same, no matter the size is. 
+
+Thin-tailed projects: modularity plays a key role.
+
+Green energy >>> fossil fuel (modularity).
+
+## Heuristics for better project leadership
+
+*   Hire a masterbuilder.
+*   Get your team right.
+*   Ask "Why?"
+*   Build with lego.
+*   Think slow, act fast.
+*   Take the outside view. Thinking about your project as "one of those". Project -> class of projects.
+*   Watch your downside. Keep an eye on the project / focus on the goal. Rosls are dagerous. Mitigate and eliminate risks.
+*   Say no and walk away. Say no to not essential stuff. Be proud of things you haven't done.
+*   Make friends and keep them friendly.
+*   Build climate mitigation into your project.
+*   Know that your biggest risk is you. Human psycology can be dangerous.
