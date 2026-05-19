@@ -527,6 +527,21 @@ https://www.say7.info/cook/recipe/259-Borsch.html
 
 # Десерты
 
+## banana bread
+
+*  Overripe bananas 350g (3 medium ones)
+*  Melted butter 113g
+*  Sugar 150g
+*  Large egg (beaten)
+*  Vanila [extract]
+*  Baking soda/powder
+*  Salt 1g / pinch
+*  Flour 190g
+
+Add flour in the very end and don't overmix - just till flour is mixed in
+
+175 grad 50-60min
+
 ## Лимонно-меренговый торт
 
 Три части:
