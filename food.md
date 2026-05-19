@@ -532,9 +532,9 @@ https://www.say7.info/cook/recipe/259-Borsch.html
 *  Overripe bananas 350g (3 medium ones)
 *  Melted butter 113g
 *  Sugar 150g
-*  Large egg (beaten)
-*  Vanila [extract]
-*  Baking soda/powder
+*  Large egg (beaten) - single egg
+*  Vanila [extract] - 5g (1 tsp)
+*  Baking soda/powder - 5g (1 tsp)
 *  Salt 1g / pinch
 *  Flour 190g
 
